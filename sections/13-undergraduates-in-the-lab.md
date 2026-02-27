@@ -1,6 +1,6 @@
 # Undergraduates in the Lab
 
-Undergraduates are a welcome and important part of our lab community. Most will work under the guidance of a graduate student or postdoc. Adrian should know about all undergraduate projects. Consult him on any issues that come up.
+Undergraduates are a welcome and important part of our lab community. Most will work under the guidance of a graduate student or postdoc. I should know about all undergraduate projects. Let me know about any issues that come up.
 
 ## Expectations for Mentors
 
@@ -37,14 +37,14 @@ Not every undergraduate will follow this trajectory, and that is fine. Some stud
 
 ## Academic Credit
 
-Undergraduates can enroll in EEMB 199 (Independent Studies) for academic credit. Talk to your graduate mentor and Adrian about whether this makes sense for your situation. You and Adrian will outline the scope of work and learning goals for the quarter. Credit typically requires a short written report or presentation at the end of the quarter.
+Undergraduates can enroll in EEMB 199 (Independent Studies) for academic credit. Talk to your graduate mentor and me about whether this makes sense for your situation. You and I will outline the scope of work and learning goals for the quarter. Credit typically requires a short written report or presentation at the end of the quarter.
 
 ## Funding and Equity
 
-Most undergraduates join as volunteers, for course credit, or with stipend support. We recognize that volunteering is not financially feasible for all students. We will work to provide equitable access to research experience regardless of financial situation. If the time commitment is a barrier, talk to Adrian — there may be options for paid positions through grants, work-study, or URCA funding.
+Most undergraduates join as volunteers, for course credit, or with stipend support. We recognize that volunteering is not financially feasible for all students. We will work to provide equitable access to research experience regardless of financial situation. If the time commitment is a barrier, talk to me — there may be options for paid positions through grants, work-study, or URCA funding.
 
 ## If Something Is Not Working
 
-If the mentor-mentee relationship is not working — communication has broken down, expectations are unclear, or the experience is not what you hoped — talk to Adrian. This is not a failure on anyone's part. Sometimes a better match or a different project structure makes all the difference. The goal is for every undergraduate to leave the lab having learned something meaningful.
+If the mentor-mentee relationship is not working — communication has broken down, expectations are unclear, or the experience is not what you hoped — talk to me. This is not a failure on anyone's part. Sometimes a better match or a different project structure makes all the difference. The goal is for every undergraduate to leave the lab having learned something meaningful.
 
 Undergraduate researchers must complete the same basic safety trainings as other lab members. See the Required Trainings section for details.

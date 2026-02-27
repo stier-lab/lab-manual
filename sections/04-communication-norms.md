@@ -34,7 +34,7 @@ There is no fixed number of vacation days for graduate students. As a general gu
 
 When you plan time away:
 
-- Let Adrian and relevant labmates know at least a week in advance for short breaks (a few days), and further ahead for longer trips (a week or more).
+- Let me and relevant labmates know at least a week in advance for short breaks (a few days), and further ahead for longer trips (a week or more).
 - Add your time away to the Stier Lab Availability calendar so the lab can plan around it.
 - If you have ongoing responsibilities (samples being processed, TA duties, undergraduate mentees), arrange coverage or communicate the gap before you leave.
 - If you are going somewhere without reliable internet or phone service (Mo'orea, backcountry, etc.), make sure someone knows your plan and expected return.

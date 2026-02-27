@@ -10,7 +10,7 @@ Lab workspace: [stierlab.slack.com](https://stierlab.slack.com). Download the ap
 
 ## Zotero
 
-This is our preferred citation manager. Create an account at [zotero.org](https://www.zotero.org/) and ask Adrian or labmates for access to the lab group library.
+This is our preferred citation manager. Create an account at [zotero.org](https://www.zotero.org/) and ask me or labmates for access to the lab group library.
 
 ## Google Drive
 

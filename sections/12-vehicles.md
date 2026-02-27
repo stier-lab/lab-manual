@@ -13,7 +13,7 @@ All university vehicle use is governed by UC Business and Finance Bulletin BUS-4
 - Complete a Defensive Driving Course, which must be renewed every three years.
 - Be enrolled in the DMV Employer Pull Notice (EPN) program, which allows the university to monitor your driving record.
 
-Check with Molly Brzezinski or Adrian for the current process. If you do not have authorization, do not drive the truck. Drivers classified as negligent operators under the DMV's Negligent Operator Treatment System (NOTS) are prohibited from driving university vehicles.
+Check with Molly Brzezinski or me for the current process. If you do not have authorization, do not drive the truck. Drivers classified as negligent operators under the DMV's Negligent Operator Treatment System (NOTS) are prohibited from driving university vehicles.
 
 ### Scheduling and Usage Log
 
@@ -41,8 +41,8 @@ A few additional rules apply to all university vehicles under BUS-46:
 
 - **University business only.** University vehicles may not be used for personal errands, even brief ones. If you are driving to a field site and want to stop for groceries on the way back, use your own car for that leg.
 - **Traffic violations are your responsibility.** Parking tickets, moving violations, and any fines incurred while driving a university vehicle are the personal responsibility of the driver, not the lab or the university.
-- **Insurance.** University Auto Insurance covers liability and physical damage to university-owned vehicles. There is a $500 deductible per occurrence. If you are in an accident, report it to Risk Management immediately and notify Adrian.
-- **Accidents.** Keep a copy of the university's accident reporting form in the truck's glove compartment. If you are in an accident, do not admit fault at the scene. Exchange information, document the scene with photos, and contact Risk Management and Adrian as soon as possible.
+- **Insurance.** University Auto Insurance covers liability and physical damage to university-owned vehicles. There is a $500 deductible per occurrence. If you are in an accident, report it to Risk Management immediately and notify me.
+- **Accidents.** Keep a copy of the university's accident reporting form in the truck's glove compartment. If you are in an accident, do not admit fault at the scene. Exchange information, document the scene with photos, and contact Risk Management and me as soon as possible.
 
 ## UCSB Vehicle Rentals
 

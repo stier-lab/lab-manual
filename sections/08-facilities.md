@@ -6,7 +6,7 @@ The lab operates across several buildings on campus and at the waterfront. Get y
 
 ### Physical Keys
 
-- **Noble Hall, Bio2:** Get keys through the Bio Storeroom (Kurt Bellefeuille, bellefeu@lifesci.ucsb.edu). Andi Jorgensen or Adrian can submit the key request form on the UCSB website on your behalf before you pick them up.
+- **Noble Hall, Bio2:** Get keys through the Bio Storeroom (Kurt Bellefeuille, bellefeu@lifesci.ucsb.edu). Andi Jorgensen or I can submit the key request form on the UCSB website on your behalf before you pick them up.
 - **Marine Science Research Building (MSRB):** Contact the MSRB Maintenance Coordinator at msi-building@ucsb.edu or (805) 893-2249 for keys and door access codes.
 - **The Point:** Get keys through Christoph Pierre in Building 465, Room 102.
 
@@ -23,7 +23,7 @@ The lab operates across several buildings on campus and at the waterfront. Get y
 
 ### Digital Keys (ID Card)
 
-Your UCSB ID provides digital access to MSRB, LSB, and Bio 2. Email Andi Jorgensen (amjorgen@ucsb.edu) with an explanation and your ID number to get access. Report lost or deactivated ID cards to Adrian first, then Andi or Christoph.
+Your UCSB ID provides digital access to MSRB, LSB, and Bio 2. Email Andi Jorgensen (amjorgen@ucsb.edu) with an explanation and your ID number to get access. Report lost or deactivated ID cards to me first, then Andi or Christoph.
 
 ## Conference Room Check-out
 

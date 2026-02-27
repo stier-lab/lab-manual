@@ -8,7 +8,7 @@ If you experience or witness harassment or bullying:
 
 - **Talk to the person directly,** if you feel safe doing so. Many offenses are unintentional, and a direct conversation often resolves things.
 
-- **If that's not comfortable, come to Adrian.** He will take your concern seriously and work with you on next steps.
+- **If that's not comfortable, come to me.** I will take your concern seriously and work with you on next steps.
 
 - **If Adrian is the concern,** contact Mengshu Ye (Graduate Advisor), the EEMB Department Chair, or UCSB's Title IX Compliance & Discrimination and Harassment Prevention Office (TIX/DHP) at (805) 893-2701 or tixoffice@titleix.ucsb.edu.
 
@@ -28,7 +28,7 @@ Graduate school is demanding. Taking care of your mental, emotional, and physica
 
 **Work/life balance:** There is no expectation that you work evenings and weekends as a default. Some periods (field seasons, manuscript deadlines) will be more intense than others, and that is normal. But chronic overwork is not a badge of honor. It is a risk factor for burnout, poor science, and poor health. Know your limits and take care of yourself.
 
-**If you're struggling:** Talk to Adrian. You do not need to share details. You have a right to privacy. But letting him know you need time or adjusted expectations helps both of you. If you prefer to talk to someone else, that is fine too. Other lab members, the Graduate Advisor, and campus counseling services are all available.
+**If you're struggling:** Talk to me. You do not need to share details. You have a right to privacy. But letting me know you need time or adjusted expectations helps both of us. If you prefer to talk to someone else, that is fine too. Other lab members, the Graduate Advisor, and campus counseling services are all available.
 
 **Do not come to lab sick.** If you have a condition that affects your work -- physical, cognitive, psychiatric, or any other -- talk to me so we can figure out accommodations. You can also contact the [Disabled Students Program](https://dsp.sa.ucsb.edu/) (DSP) directly at (805) 893-2668. DSP coordinates accommodations under the ADA, and you are not required to disclose your disability to me. They will work with you and, as needed, with the department.
 
@@ -36,11 +36,11 @@ See the Mental Health Resources section for specific campus services.
 
 ## Lab and Field Safety
 
-Do not put yourself or others at risk. If you feel pressured to do something unsafe (by anyone, including Adrian) you have the right and the responsibility to refuse. Speak up.
+Do not put yourself or others at risk. If you feel pressured to do something unsafe (by anyone, including me) you have the right and the responsibility to refuse. Speak up.
 
 - **Point of contact:** When conducting fieldwork, always have someone who is NOT in the field with you who knows your location and expected return time. If you do not return on schedule, they should attempt contact and request help if needed.
 
-- **SCUBA and boating:** You must meet all UCSB and American Academy of Underwater Sciences (AAUS) requirements before diving. Adrian serves on the MSI diving and boating safety board. See the Required Trainings section and the separate UCSB Dive Safety Manual (available from Eric Hessell or at [marineops.ucsb.edu](https://marineops.ucsb.edu/)) for details.
+- **SCUBA and boating:** You must meet all UCSB and American Academy of Underwater Sciences (AAUS) requirements before diving. I serve on the MSI diving and boating safety board. See the Required Trainings section and the separate UCSB Dive Safety Manual (available from Eric Hessell or at [marineops.ucsb.edu](https://marineops.ucsb.edu/)) for details.
 
 - **Lab chemicals:** See the Chemical Health and Safety Plan subsection in Required Trainings. Always check Safety Data Sheets (SDS), complete required Standard Operating Procedures (SOPs), and get proper training before handling hazardous materials.
 

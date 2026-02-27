@@ -22,7 +22,7 @@ If a direct conversation does not resolve things, or if you have tried and it is
 
 - **Assume good intent initially, but hold people accountable for impact.** Someone can mean well and still cause harm. Both things can be true.
 
-- **Talk about people the way you would if they were in the room.** Do not gossip about labmates, and do not speak negatively about someone who is not present. If you have a concern about someone's behavior or work, raise it with them directly or bring it to Adrian. This is a basic standard of professionalism and trust. A lab where people talk behind each other's backs is a lab where no one feels safe.
+- **Talk about people the way you would if they were in the room.** Do not gossip about labmates, and do not speak negatively about someone who is not present. If you have a concern about someone's behavior or work, raise it with them directly or bring it to me. This is a basic standard of professionalism and trust. A lab where people talk behind each other's backs is a lab where no one feels safe.
 
 - **Keep notes.** If you are dealing with a recurring issue, document what happened and when. This protects everyone and makes any later conversation more productive.
 

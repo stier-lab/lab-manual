@@ -15,9 +15,9 @@ You must complete several trainings before you can get to work. It feels like a 
 
 ## LHAT (Laboratory Hazard Assessment Tool) Training
 
-- Step 1: Remind Adrian or the designated lab member to add you to the Stier Lab LHAT Group.
+- Step 1: Remind me or the designated lab member to add you to the Stier Lab LHAT Group.
 - Step 2: Schedule time with a senior lab member to review lab-specific procedures, hazards, and emergencies per the EHS Training Needs Assessment Form.
-- Once complete, sign the form and give it to Adrian for approval. Get personal protective equipment (PPE) from the stockroom in Chemistry (room 1432).
+- Once complete, sign the form and give it to me for approval. Get personal protective equipment (PPE) from the stockroom in Chemistry (room 1432).
 
 ## Animal Care Training
 
@@ -29,9 +29,9 @@ Note: Even SCUBA surveys involving fish require IACUC approval in many cases. If
 
 Beyond training, many research activities require permits and institutional approvals. You cannot conduct research until these are in hand. Permit applications can take weeks to months, so start early and build the timeline into your project planning.
 
-- **IACUC:** If your research involves vertebrates (including fish surveys by SCUBA), you need Institutional Animal Care and Use Committee approval. All IACUC applications go through Adrian. See the Animal Care Training section above for the process. Creating a new protocol takes at least 2 months.
+- **IACUC:** If your research involves vertebrates (including fish surveys by SCUBA), you need Institutional Animal Care and Use Committee approval. All IACUC applications go through me. See the Animal Care Training section above for the process. Creating a new protocol takes at least 2 months.
 - **International permits:** Research at our Mo'orea field site requires a Protocole d'accueil and may require CITES permits for sample transport. See the Mo'orea Fieldwork section for details.
-- **Collecting permits:** Depending on your field site, you may need state or federal collecting permits (e.g., California Department of Fish and Wildlife Scientific Collecting Permit, National Marine Sanctuary permits). Talk to Adrian about what applies to your project.
+- **Collecting permits:** Depending on your field site, you may need state or federal collecting permits (e.g., California Department of Fish and Wildlife Scientific Collecting Permit, National Marine Sanctuary permits). Talk to me about what applies to your project.
 - **IRB:** If your research involves human subjects (surveys, interviews, assessments), you need Institutional Review Board approval. This is rare in our lab but can apply to training grants or interdisciplinary work. Access the IRB portal through the UCSB Office of Research.
 
 The general rule: if you are unsure whether you need a permit, ask. It is always better to check early than to discover midway through a project that you needed approval you do not have.

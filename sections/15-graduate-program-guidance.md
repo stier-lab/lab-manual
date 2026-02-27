@@ -4,9 +4,9 @@ Note: This section supplements the official EEMB Graduate Student Handbooks (PhD
 
 ## All Graduate Students
 
-**Weekly meetings:** At the start of each quarter, Adrian schedules weekly or biweekly one-on-one meetings with each student. This time is yours. You set the agenda. If you have nothing to discuss one week, cancel. But if you cancel several weeks in a row, expect Adrian to check in.
+**Weekly meetings:** At the start of each quarter, I schedule weekly or biweekly one-on-one meetings with each student. This time is yours. You set the agenda. If you have nothing to discuss one week, cancel. But if you cancel several weeks in a row, expect me to check in.
 
-**Committee formation:** Form your committee during your first year. Per EEMB requirements, you need a minimum of 3 members. At least 2 must be ladder faculty from EEMB (including the chair). The third can be from another department or UC campus. Think of your committee as a team with complementary expertise. Adrian will offer suggestions, but the decision is yours.
+**Committee formation:** Form your committee during your first year. Per EEMB requirements, you need a minimum of 3 members. At least 2 must be ladder faculty from EEMB (including the chair). The third can be from another department or UC campus. Think of your committee as a team with complementary expertise. I will offer suggestions, but the decision is yours.
 
 **Developing your research question:** There is no single right way to find a research question. Some people arrive with a burning question they have been thinking about for years. Others start with a system they are drawn to (a reef, a species interaction, a place) and the question emerges from spending time in that system. In practice, most of us do a messy mix of both. We explore a system, read the literature, notice gaps or puzzles, and go back and forth between questions and observations until something clicks.
 
@@ -32,7 +32,7 @@ My role in this process differs depending on where you are. For PhD students, de
 
 Target: file your thesis by the end of your second year. The maximum time allowed by EEMB is 4 years. This is fast, so there is little time to waste. I am more inclined to directly help MS students define or refine a research question than I am with PhD students, given the compressed timeline. Starting research the summer before you matriculate can give you a meaningful head start.
 
-MS students can choose Plan I (thesis, minimum 30 units) or Plan II (comprehensive exam, minimum 36 units). Discuss with Adrian which path makes sense for your goals.
+MS students can choose Plan I (thesis, minimum 30 units) or Plan II (comprehensive exam, minimum 36 units). Discuss with me which path makes sense for your goals.
 
 ## PhD Students
 
@@ -48,11 +48,11 @@ Target: 6 years to completion (EEMB normative time). Key milestones per EEMB req
 
 - **Defense:** Aim to defend in Fall or Spring, not Summer. Faculty are not paid in summer. Many are in the field, and fewer colleagues will be around to help you prepare and celebrate. Note: EEMB allows a public seminar of your dissertation research as an alternative to a traditional oral defense. Discuss with your committee.
 
-- **Beyond normative time:** If you go beyond 6 years, you must take extra steps. At year 7, you must petition the Graduate Committee and Graduate Dean to continue. At year 8, you may need to retake written exams or show currency. The university maximum is 10 years, but the goal is to finish well before that. If you are approaching normative time, talk to Adrian and your committee early about a realistic completion plan.
+- **Beyond normative time:** If you go beyond 6 years, you must take extra steps. At year 7, you must petition the Graduate Committee and Graduate Dean to continue. At year 8, you may need to retake written exams or show currency. The university maximum is 10 years, but the goal is to finish well before that. If you are approaching normative time, talk to me and your committee early about a realistic completion plan.
 
 ## Escalation and Support Within EEMB
 
-If you have questions or concerns beyond what Adrian can address:
+If you have questions or concerns beyond what I can address:
 
 1. **Staff Graduate Advisor (Mengshu Ye):** Administrative and technical questions (timetables, forms, requirements, petitions).
 2. **Faculty Graduate Advisor (Hillary Young):** Academic questions, issues with your studies or your relationship with your major professor.

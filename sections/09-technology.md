@@ -4,7 +4,7 @@ This section covers shared computing resources, network access, and tools you wi
 
 ## Lab Computer
 
-The lab has a high-power iMac in Noble 2224 with 40 GB RAM. Ask Molly or Adrian for the guest account password. If you need a private account, talk to Adrian. Log out when done. Do not leave personal accounts open.
+The lab has a high-power iMac in Noble 2224 with 40 GB RAM. Ask Molly or me for the guest account password. If you need a private account, talk to me. Log out when done. Do not leave personal accounts open.
 
 ## Lab Server (Network Attached Storage / NAS)
 
@@ -21,7 +21,7 @@ Connect to LifeSci[BuildingName] for computers and LifeSciGadget for phones. New
 
 ## Personal Computers
 
-You will need your own laptop for research, writing, and analysis. If this is a financial hardship, talk to Adrian — there may be options through the department or Graduate Division. The shared lab iMac in Noble 2224 is available for heavy computing tasks, but it is not a substitute for having your own machine.
+You will need your own laptop for research, writing, and analysis. If this is a financial hardship, talk to me — there may be options through the department or Graduate Division. The shared lab iMac in Noble 2224 is available for heavy computing tasks, but it is not a substitute for having your own machine.
 
 If your laptop dies or needs repair, the Life Sciences Computing Group has loaner machines. The Graduate Division may also have a loaner program. Do not let a broken computer silently stall your progress for weeks.
 
@@ -36,7 +36,7 @@ Back up your work regularly -- ideally daily. Hard drives fail, laptops get stol
 
 ## Printing
 
-The printer is on the 2nd floor of Noble next to Adrian's office. You must be connected to LifeSci Noble. For poster printing, ITST and CNSI charge $40 for a standard 48x36 poster.
+The printer is on the 2nd floor of Noble next to my office. You must be connected to LifeSci Noble. For poster printing, ITST and CNSI charge $40 for a standard 48x36 poster.
 
 ## VPN Connection
 

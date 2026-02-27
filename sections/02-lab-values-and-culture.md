@@ -49,7 +49,7 @@ We take a lot of photos and videos — in the field, in the lab, at social event
 
 Before using a photo or video of a lab member in any public-facing context (website, social media, presentation to an external audience, news article), ask the person for permission. This applies even if they were present when the photo was taken. Some people are comfortable being featured publicly; others are not. Respect that without requiring an explanation.
 
-If you would prefer not to appear in lab photos or on the lab website, let Adrian or the lab manager know. You will not be asked to justify it, and it will not affect anything.
+If you would prefer not to appear in lab photos or on the lab website, let me or the lab manager know. You will not be asked to justify it, and it will not affect anything.
 
 ## Roles and Awareness
 

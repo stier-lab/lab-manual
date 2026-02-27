@@ -13,6 +13,6 @@ Our research spans coral reefs in Mo'orea (French Polynesia), kelp forests along
 
 This manual will help you get oriented. It covers the practical logistics of working at UCSB and in our lab. It also lays out the expectations and values that shape how we work together.
 
-This handbook complements several other documents you should know. You and Adrian will complete a Mentor/Mentee Agreement together. The entire lab revisits the Lab Working Agreement each year. You will also create an Individual Development Plan (IDP). Together, these documents make explicit what people often pass along informally. They put everyone on the same page from the start.
+This handbook complements several other documents you should know. You and I will complete a Mentor/Mentee Agreement together. The entire lab revisits the Lab Working Agreement each year. You will also create an Individual Development Plan (IDP). Together, these documents make explicit what people often pass along informally. They put everyone on the same page from the start.
 
-This is a living document. If something is unclear, outdated, or missing, please let Adrian or the lab manager (Molly Brzezinski) know.
+This is a living document. If something is unclear, outdated, or missing, please let me or the lab manager (Molly Brzezinski) know.

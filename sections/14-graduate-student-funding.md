@@ -1,24 +1,24 @@
 # Graduate Student Funding
 
-Funding is one of the most important (and sometimes most stressful) parts of graduate school. Adrian's goal is that you never worry about whether you can afford to stay in the program. This section explains how funding works so you can plan ahead and take advantage of the opportunities available.
+Funding is one of the most important (and sometimes most stressful) parts of graduate school. My goal is that you never worry about whether you can afford to stay in the program. This section explains how funding works so you can plan ahead and take advantage of the opportunities available.
 
 ## Stipend & Support
 
-EEMB faculty aim to fully support their students in good standing for the duration of their studies. Support comes from a combination of Teaching Assistantships, Graduate Student Researcher positions, and fellowships. Unlike some UCSB departments, EEMB does not offer a formal multi-year guaranteed funding package. Funding depends on the admitting faculty member's grants and resources. The department has limited funds and tries to support students through their first year. After that, Adrian works with each student to piece together support from TA lines, grants, and fellowships.
+EEMB faculty aim to fully support their students in good standing for the duration of their studies. Support comes from a combination of Teaching Assistantships, Graduate Student Researcher positions, and fellowships. Unlike some UCSB departments, EEMB does not offer a formal multi-year guaranteed funding package. Funding depends on the admitting faculty member's grants and resources. The department has limited funds and tries to support students through their first year. After that, I work with each student to piece together support from TA lines, grants, and fellowships.
 
 In practice, your support will come from a combination of:
 
 - **Teaching Assistantships (TA):** All EEMB students are required to TA at least 2 quarters. Each faculty member can count on TA support for one student per year (3 quarters of total support). TA appointments at 25%+ provide partial fee remission (tuition, student service fee, campus-based fees, and UC Student Health Insurance Plan [UC-SHIP]). Standard appointments are 50% time.
 
-- **Graduate Student Researcher (GSR):** Funded through Adrian's grants. GSR appointments at 35%+ provide full fee remission, including non-resident supplemental tuition (NRST). At 25-34%, only partial fee remission applies (no NRST coverage).
+- **Graduate Student Researcher (GSR):** Funded through my grants. GSR appointments at 35%+ provide full fee remission, including non-resident supplemental tuition (NRST). At 25-34%, only partial fee remission applies (no NRST coverage).
 
 - **Fellowships:** Campus and external fellowships supplement TA/GSR support.
 
-Discuss your funding picture with Adrian and the Graduate Advisor (Mengshu Ye) at the start of each academic year.
+Discuss your funding picture with me and the Graduate Advisor (Mengshu Ye) at the start of each academic year.
 
 ## Summer Funding
 
-Summer support is not automatic, so plan ahead. The department's block grant funds can provide summer stipends, but these are competitive. You must apply with a statement of need and a faculty nomination. Other sources include GSR positions (if Adrian has summer grant funding), summer TAships (limited, separate application), and external fellowships (e.g., NSF GRFP provides 12-month support including summer). It is wise to budget based on your 9-month salary and treat summer funding as a welcome supplement. Talk to Adrian early each spring about summer plans.
+Summer support is not automatic, so plan ahead. The department's block grant funds can provide summer stipends, but these are competitive. You must apply with a statement of need and a faculty nomination. Other sources include GSR positions (if I have summer grant funding), summer TAships (limited, separate application), and external fellowships (e.g., NSF GRFP provides 12-month support including summer). It is wise to budget based on your 9-month salary and treat summer funding as a welcome supplement. Talk to me early each spring about summer plans.
 
 ## Fee Remission & NRST
 
@@ -30,7 +30,7 @@ Understanding fee remission is important, especially for international and out-o
 
 ## Fellowships
 
-Apply for external fellowships, especially the NSF Graduate Research Fellowship (GRFP). Note: as of the FY2026 solicitation, only first-year graduate students are eligible to apply (second-year students are no longer eligible). This means you should begin preparing your application before you arrive or very early in your first year. The application takes several months of serious writing and revision. Start early, get feedback from labmates and Adrian, and plan multiple drafts. Fellowship funding benefits you directly (often higher stipend, more independence) and frees up lab resources for other students.
+Apply for external fellowships, especially the NSF Graduate Research Fellowship (GRFP). Note: as of the FY2026 solicitation, only first-year graduate students are eligible to apply (second-year students are no longer eligible). This means you should begin preparing your application before you arrive or very early in your first year. The application takes several months of serious writing and revision. Start early, get feedback from labmates and me, and plan multiple drafts. Fellowship funding benefits you directly (often higher stipend, more independence) and frees up lab resources for other students.
 
 Other fellowships to consider:
 - **External:** Ford Foundation Fellowship, Fulbright, NDSEG, Nancy Foster Scholarship (NOAA)
@@ -42,7 +42,7 @@ New applicants are automatically considered for campus fellowship competitions. 
 
 ## Research Expenses and Writing Your Own Grants
 
-Part of becoming an independent scientist is learning to fund your own research. Adrian will help you identify funding sources. He will support your work through his grants when your project aligns with them. But you should also write and submit small grants throughout your program. Design projects that are financially feasible. Talk to Adrian before purchasing anything from his accounts. Always know the correct funding source/speed type for any purchase. See the Purchasing, Shipping, and Reimbursement section for logistics.
+Part of becoming an independent scientist is learning to fund your own research. I will help you identify funding sources and support your work through my grants when your project aligns with them. But you should also write and submit small grants throughout your program. Design projects that are financially feasible. Talk to me before purchasing anything from my accounts. Always know the correct funding source/speed type for any purchase. See the Purchasing, Shipping, and Reimbursement section for logistics.
 
 ### Why Write Grants as a Student?
 
@@ -64,12 +64,12 @@ The Consolidated Funding List in the shared Google Drive folder tracks opportuni
 
 1. **Identify the opportunity** well before the deadline. Most proposals take 4-8 weeks of serious work. Major fellowships like NSF GRFP take several months.
 2. **Read the solicitation carefully.** Understand what the funder values, what the review criteria are, and what they are not funding. Tailor your proposal to the specific program.
-3. **Draft a rough outline** and discuss it with Adrian before writing. This is where most proposals go wrong — not in the writing, but in the framing and feasibility.
+3. **Draft a rough outline** and discuss it with me before writing. This is where most proposals go wrong — not in the writing, but in the framing and feasibility.
 4. **Write the full draft.** Budget enough time for multiple revisions. A first draft is never the final draft.
-5. **Get feedback.** Share with Adrian and at least one labmate. If possible, share with someone who has successfully applied to the same program.
+5. **Get feedback.** Share with me and at least one labmate. If possible, share with someone who has successfully applied to the same program.
 6. **Revise and submit.** Leave time for the administrative side — institutional approvals, budget forms, and biosketches. UCSB's Office of Research requires lead time for proposals that go through the university.
 
-Adrian will review grant drafts and provide feedback. For larger proposals, expect multiple rounds of revision. For small grants, one round may be sufficient. Either way, do not wait until the last week to ask for feedback.
+I will review grant drafts and provide feedback. For larger proposals, expect multiple rounds of revision. For small grants, one round may be sufficient. Either way, do not wait until the last week to ask for feedback.
 
 ## Conferences
 
@@ -78,7 +78,7 @@ You are responsible for conference costs. Available travel support:
 - **Ellen Schamberg Burley Award** (EEMB): For advanced doctoral candidates presenting at scientific meetings
 - **Academic Senate Doctoral Student Travel Grant:** $250 (virtual), $900 (domestic), $1,500 (international). You must be advanced to candidacy.
 - **GSA Conference Travel Grant:** Up to $200 reimbursement, for students NOT yet advanced to candidacy
-- **Adrian's grants:** If your presentation is related to an active grant, he may be able to help
+- **My grants:** If your presentation is related to an active grant, I may be able to help
 - Some conferences offer registration fee waivers for student volunteers
 
 See the Travel section for booking procedures, travel advances, and reimbursement logistics.
