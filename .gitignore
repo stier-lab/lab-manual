@@ -3,3 +3,5 @@ node_modules/
 old manual/
 firebase-debug.log
 output.md
+docs/
+.claude/
