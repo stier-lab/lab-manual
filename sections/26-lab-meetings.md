@@ -19,6 +19,8 @@ Some common formats:
 - **Brainstorming sessions.** Got a half-formed idea for a new project or collaboration? Bring it. The group is good at pressure-testing ideas and finding angles you have not considered.
 - **Visitors.** When a job candidate or seminar speaker visits, we sometimes use lab meeting for an informal conversation with them.
 
+- **Lab values check-in.** Periodically, we use lab meeting to check in on how we are doing as a group. Are people feeling supported? Is the workload distribution fair? Is anything brewing that we should address? These conversations are not about airing grievances. They are about maintaining the culture we want before small problems become big ones.
+
 There is no single "right" way to lead a lab meeting. Some people use slides. Some draw on the whiteboard. Some just talk. The only requirement is that you come prepared and give the rest of us enough context to be useful.
 
 ## Attendance

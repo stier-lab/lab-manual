@@ -193,6 +193,8 @@ If a direct conversation does not resolve things, or if you have tried and it is
 
 - **Assume good intent initially, but hold people accountable for impact.** Someone can mean well and still cause harm. Both things can be true.
 
+- **Talk about people the way you would if they were in the room.** Do not gossip about labmates, and do not speak negatively about someone who is not present. If you have a concern about someone's behavior or work, raise it with them directly or bring it to Adrian. This is a basic standard of professionalism and trust. A lab where people talk behind each other's backs is a lab where no one feels safe.
+
 - **Keep notes.** If you are dealing with a recurring issue, document what happened and when. This protects everyone and makes any later conversation more productive.
 
 - **Retaliation for raising concerns is prohibited, full stop.** I take this seriously, and I expect everyone in the lab to as well.
@@ -803,9 +805,9 @@ I encourage you to read broadly, including well outside your immediate subfield.
 
 My role in this process differs depending on where you are. For PhD students, developing an original research question is a core part of the training. I will push back, suggest readings, point you toward gaps I find exciting, and help you refine your thinking. But the question needs to be yours. For MS students, given the compressed timeline, I will be more hands-on in helping define the scope and I will sometimes suggest a question directly. Either way, we will talk about this a lot in our one-on-one meetings, especially in your first year.
 
-**Teaching Assistantships:** All EEMB students are required to TA at least 2 quarters. TA support is a large part of most funding packages. Classes vary in their workload. Some are straightforward and leave you plenty of time for research. Others are intensive and require weekly prep. The best way to figure out which classes work for you is to ask other grad students who have TAed them recently. Your fellow students are the most honest and up-to-date source on what to expect. I am happy to weigh in too, but the student grapevine is your best bet for the real picture.
+**Teaching Assistantships:** All EEMB students are required to TA at least 2 quarters. TA support is a large part of most funding packages. Classes vary in their workload. Some are straightforward and leave you plenty of time for research. Others are intensive and require weekly prep. The best way to figure out which classes work for you is to ask other grad students who have TAed them recently. Your fellow students are the most honest and up-to-date source on what to expect. I am happy to weigh in too, but the student grapevine is your best bet for the real picture. If you are considering TAing a course Adrian teaches, you are welcome to reach out to previous TAs for that course to hear about their experience.
 
-**Annual progress reports:** EEMB requires an annual Progress Report and Study Plan, filed with your committee. This makes sure you and your committee agree on where you are and what comes next. Your committee will meet at least once per year to review progress.
+**Annual progress reports:** EEMB requires an annual Progress Report and Study Plan, filed with your committee. This makes sure you and your committee agree on where you are and what comes next. Your committee will meet at least once per year to review progress. Between formal meetings, keep your committee in the loop with brief updates — a short email when you have a result, a question when you are stuck, or a heads-up when your direction shifts. Committee members who hear from you regularly give better advice and write stronger letters on your behalf.
 
 **Individual Development Plans:** All students complete and review an IDP annually. The IDP sets milestones, tracks progress, and provides structure for conversations about your professional development. Quarterly check-ins supplement the annual review.
 
@@ -866,7 +868,7 @@ The lab uses several structured tools for transparent, consistent mentoring:
 
 - Timely feedback on written work within agreed-upon timelines.
 - Quarterly milestone tracking aligned with your IDP.
-- Documented meeting summaries shared after each advising meeting.
+- Documented meeting summaries shared after each advising meeting, ending with a clear list of agreed-upon goals and next steps so we leave on the same page.
 - Written role descriptions for GSR/TA responsibilities each quarter, including clear separation of paid vs. voluntary tasks.
 - A written description of how student accomplishments support recommendation letters, provided at the start of the advising relationship.
 - Monthly updates to the Department Chair and Graduate Advisor (Mengshu Ye) on lab climate and student progress.
@@ -877,6 +879,16 @@ The lab uses several structured tools for transparent, consistent mentoring:
 - Proactive communication about problems, delays, or concerns. Speak up early rather than late.
 - Engaging constructively with feedback, even when it is uncomfortable.
 - Contributing to lab community: attending lab meetings, helping maintain shared spaces, supporting labmates.
+
+## Giving and Receiving Feedback
+
+Good advising depends on honest, two-way communication. Adrian needs your feedback to be an effective advisor, and you need feedback from Adrian, your committee, and your labmates to grow as a scientist.
+
+**Give feedback to your advisor.** If something in the advising relationship is not working — the pace of feedback, the frequency of meetings, the clarity of expectations, anything — say so. You can raise it directly, through the annual anonymous survey, or through the Graduate Advisor. Adrian cannot fix problems he does not know about, and he would rather hear about a small issue now than a big one later. This is not a one-time conversation. It is an ongoing part of the relationship.
+
+**Communicate regularly with your committee.** Your committee exists to support your development, not just to evaluate you at milestones. Do not wait until your annual meeting to reach out. Send brief updates between meetings. If you are stuck on a question that falls within a committee member's expertise, email them. If your research direction is shifting, let them know before the next formal meeting rather than surprising them. Committee members who are kept in the loop give better advice and are stronger advocates for you when it matters — for job references, fellowship letters, and your defense.
+
+**This applies to everyone in the lab.** Whether you are a graduate student, postdoc, lab manager, or undergraduate researcher, you should feel that giving feedback — up, down, and sideways — is a normal and expected part of being in this lab. Adrian is not the only person who benefits from hearing what is and is not working. Labmates mentoring undergraduates, collaborators sharing a project, and TAs working with an instructor all benefit from the same principle: say something early, say it directly, and assume the other person wants to hear it.
 
 
 ---
@@ -1542,6 +1554,8 @@ Some common formats:
 - **Paper discussion.** Pick a paper, book chapter, or essay that is shaping your thinking. It does not have to be in our subfield. Some of the best discussions come from work that challenges how we see our own questions.
 - **Brainstorming sessions.** Got a half-formed idea for a new project or collaboration? Bring it. The group is good at pressure-testing ideas and finding angles you have not considered.
 - **Visitors.** When a job candidate or seminar speaker visits, we sometimes use lab meeting for an informal conversation with them.
+
+- **Lab values check-in.** Periodically, we use lab meeting to check in on how we are doing as a group. Are people feeling supported? Is the workload distribution fair? Is anything brewing that we should address? These conversations are not about airing grievances. They are about maintaining the culture we want before small problems become big ones.
 
 There is no single "right" way to lead a lab meeting. Some people use slides. Some draw on the whiteboard. Some just talk. The only requirement is that you come prepared and give the rest of us enough context to be useful.
 
