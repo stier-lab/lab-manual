@@ -234,6 +234,11 @@ const htmlPath = path.join(ROOT, 'Stier_Lab_Manual.html');
 fs.writeFileSync(htmlPath, output, 'utf8');
 console.log(`  ✓ ${htmlPath}`);
 
+// Write index.html for GitHub Pages
+const indexPath = path.join(ROOT, 'index.html');
+fs.writeFileSync(indexPath, output, 'utf8');
+console.log(`  ✓ ${indexPath}`);
+
 // Write combined markdown
 const mdPath = path.join(ROOT, `Stier_Lab_Manual_${isoDate}.md`);
 fs.writeFileSync(mdPath, allMarkdown, 'utf8');
