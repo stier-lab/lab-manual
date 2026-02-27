@@ -1,0 +1,72 @@
+{
+  "title": "Ocean Recoveries Lab Manual",
+  "department": "EEMB",
+  "university": "University of California, Santa Barbara",
+  "fieldSites": "Mo'orea · Santa Barbara · Caribbean",
+  "navGroups": [
+    {
+      "label": "Getting Started",
+      "sections": [
+        { "file": "01-welcome.md", "id": "welcome", "title": "Welcome", "num": "01" },
+        { "file": "02-lab-values-and-culture.md", "id": "values", "title": "Lab Values & Culture", "num": "02" },
+        { "file": "03-safety.md", "id": "safety", "title": "Safety", "num": "03" },
+        { "file": "04-communication-norms.md", "id": "communication", "title": "Communication Norms", "num": "04" },
+        { "file": "05-conflict-resolution.md", "id": "conflict", "title": "Conflict Resolution", "num": "05" }
+      ]
+    },
+    {
+      "label": "People & Resources",
+      "sections": [
+        { "file": "06-valuable-contacts.md", "id": "contacts", "title": "Valuable Contacts", "num": "06" },
+        { "file": "07-required-trainings.md", "id": "trainings", "title": "Required Trainings", "num": "07" },
+        { "file": "08-facilities.md", "id": "facilities", "title": "Facilities", "num": "08" },
+        { "file": "09-technology.md", "id": "technology", "title": "Technology", "num": "09" },
+        { "file": "10-digital-tools.md", "id": "digital-tools", "title": "Digital Tools", "num": "10" }
+      ]
+    },
+    {
+      "label": "Operations",
+      "sections": [
+        { "file": "11-purchasing-shipping-reimbursement.md", "id": "purchasing", "title": "Purchasing & Shipping", "num": "11" },
+        { "file": "12-vehicles.md", "id": "vehicles", "title": "Vehicles", "num": "12" },
+        { "file": "13-undergraduates-in-the-lab.md", "id": "undergrads", "title": "Undergraduates", "num": "13" }
+      ]
+    },
+    {
+      "label": "Graduate Program",
+      "sections": [
+        { "file": "14-graduate-student-funding.md", "id": "funding", "title": "Graduate Funding", "num": "14" },
+        { "file": "15-graduate-program-guidance.md", "id": "program", "title": "Program Guidance", "num": "15" },
+        { "file": "16-mentoring-and-advising-structure.md", "id": "mentoring", "title": "Mentoring & Advising", "num": "16" }
+      ]
+    },
+    {
+      "label": "Research & Policy",
+      "sections": [
+        { "file": "17-authorship-policy.md", "id": "authorship", "title": "Authorship Policy", "num": "17" },
+        { "file": "18-data-management-and-reproducible-science.md", "id": "data", "title": "Data & Reproducibility", "num": "18" },
+        { "file": "19-gender-equity-and-lab-climate.md", "id": "equity", "title": "Gender Equity & Climate", "num": "19" },
+        { "file": "20-ai-use-policy.md", "id": "ai", "title": "AI Use Policy", "num": "20" }
+      ]
+    },
+    {
+      "label": "Support & Logistics",
+      "sections": [
+        { "file": "21-mental-health-resources.md", "id": "mental-health", "title": "Mental Health", "num": "21" },
+        { "file": "22-travel.md", "id": "travel-sec", "title": "Travel", "num": "22" },
+        { "file": "23-departure-and-offboarding.md", "id": "departure", "title": "Departure & Offboarding", "num": "23" },
+        { "file": "24-library-services-and-suggestions.md", "id": "library", "title": "Library & Suggestions", "num": "24" }
+      ]
+    },
+    {
+      "label": "Field & Community",
+      "sections": [
+        { "file": "25-moorea-fieldwork.md", "id": "moorea", "title": "Mo'orea Fieldwork", "num": "25" },
+        { "file": "26-lab-meetings.md", "id": "lab-meetings", "title": "Lab Meetings", "num": "26" }
+      ]
+    }
+  ],
+  "appendix": [
+    { "file": "onboarding-checklist.md", "id": "onboarding", "title": "Onboarding Checklist", "badge": "NEW" }
+  ]
+}
