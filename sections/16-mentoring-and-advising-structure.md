@@ -2,13 +2,37 @@
 
 The lab uses several structured tools for transparent, consistent mentoring:
 
-- **Mentor/Mentee Agreement:** You and Adrian complete this at the start of your program. It covers goals, expectations, communication preferences, work style, and how to handle problems. You revisit it annually.
+- **Mentor/Mentee Agreement:** Completed at the start of your program and revisited annually. See details below.
 
 - **Lab Working Agreement:** The whole lab reviews and signs this yearly. It spells out shared values around communication, process, and collaboration.
 
 - **Individual Development Plans (IDPs):** Annual review with quarterly check-ins. Covers research milestones, skills development, and career planning.
 
 - **Annual meetings with Graduate Advisor:** All students meet with the Graduate Advisor (currently Mengshu Ye) yearly (for at least the first two years) to provide feedback on mentorship. Adrian also meets with the Graduate Advisor to address any concerns.
+
+## Mentor/Mentee Agreement
+
+The [UCSB Graduate Division recommends](https://www.graddiv.ucsb.edu/mentoring-students) that faculty and graduate students complete a mentoring agreement to clarify roles, set expectations, and establish how they will communicate and resolve problems. We use this in the Stier Lab. You and Adrian will each fill out the agreement during your first quarter and sign it together. It is revisited and updated at the start of each academic year.
+
+The agreement is not a contract. It is a structured conversation. Its purpose is to make sure you and Adrian are on the same page about things that often go unspoken — and that cause problems precisely because they were never discussed.
+
+The agreement covers:
+
+- **Goals.** What do you want your professional life to look like in five years? What does Adrian hope to see you achieve? You also set specific goals for the current quarter and year — concrete, revisitable targets that give your meetings focus.
+
+- **Expectations.** How do you each expect the mentoring relationship to work? What kinds of support do you need? What balance do you expect between your own independent projects and lab-directed work? How do you expect to work with other faculty?
+
+- **Communication and work style.** How do you prefer to communicate (frequency, mode, formality)? What is your expected work/life balance? Are there periods when you will be less available? How many hours per week do you expect to work? How often will you meet, and where?
+
+- **Responsibilities.** What specific ongoing responsibilities does Adrian commit to? What responsibilities do you take on as a member of the research team?
+
+- **Problem solving.** If problems or conflicts arise with any of the above, how will they be discussed and resolved? Having this conversation before a conflict exists makes it much easier to navigate when one does.
+
+- **Summer expectations.** Summer is different from the academic year. Expectations for availability, productivity, and communication during the summer are worth discussing explicitly.
+
+- **Anything else.** Is there anything about your life situation — health, family obligations, financial constraints, anything — that may be relevant to your work together? You are not required to share personal information, but the agreement creates a space to do so if you choose.
+
+The Graduate Division's [mentoring resources page](https://www.graddiv.ucsb.edu/our-services/mentorship-inclusivity) and their [guide to mentor and mentee responsibilities](https://www.graddiv.ucsb.edu/responsibilities-mentors-student) provide additional context. Their guidelines emphasize that mentoring relationships work best when both parties treat themselves as partners, that students should seek multiple mentors (one person cannot meet all your needs), and that either party can seek outside counsel from the Graduate Division, the Ombuds Office, or Title IX if the relationship is not working.
 
 ## What Adrian Commits To
 
