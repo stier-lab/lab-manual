@@ -985,6 +985,18 @@ At some point you will need letters from Adrian — for fellowships, jobs, gradu
 
 **Be honest about fit.** If you are not sure Adrian is the best person to write a particular letter (for example, if you need someone who can speak to your teaching or to a subfield Adrian does not work in), ask. He will tell you honestly whether he is the right choice, and he can suggest alternatives.
 
+**What makes a strong letter.** The best letters I write are for people who give me concrete things to say. Here is what I am looking for when I sit down to write:
+
+- **Taking a project from end to end.** Nothing is more convincing to a reviewer than evidence that you can conceive a question, design a study, collect the data, analyze it, write it up, and see it through publication. That full arc — from idea to finished product — is the single strongest thing I can put in a letter.
+- **Leadership.** Leading a field team, organizing a lab initiative, mentoring an undergraduate through a project, coordinating across collaborators. I want to be able to describe moments where you stepped up and took responsibility for something beyond your own work.
+- **Independence and initiative.** Did you identify a problem and solve it without being told to? Did you bring me an idea rather than waiting for one? Did you teach yourself a new method because your question demanded it? These are the stories that make letters memorable.
+- **Intellectual growth.** I pay attention to how your thinking changes over time — how your questions get sharper, your scientific judgment matures, and your ability to evaluate evidence deepens. Showing that trajectory matters more than where you started.
+- **Reliability.** When you say you will do something, you do it. You meet deadlines, show up prepared, follow through on commitments. This sounds basic, but it is remarkably rare, and reviewers trust letters that speak to it.
+- **Scientific rigor and integrity.** Careful work, honest reporting, thoughtful analysis. I notice when someone catches their own mistakes, pushes back on a result that seems too clean, or redesigns an experiment because the first version was not good enough.
+- **Being a good colleague.** Generosity with your time, willingness to help labmates, constructive presence in lab meetings, and the kind of collaborative spirit that makes everyone around you better. Search committees care about this more than most applicants realize.
+
+You do not need all of these to get a strong letter. But the more of them you can demonstrate over the course of your time here, the more specific and compelling the letter will be. Think of this list not as a checklist but as a reminder that a letter of recommendation is a story about who you are as a scientist — and you are writing that story every day through your work.
+
 **Adrian's commitment.** If Adrian agrees to write you a letter, he will write a strong one. He does not write lukewarm letters. If he has concerns about writing a compelling letter for a particular opportunity, he will tell you directly so you can make an informed decision about who to ask.
 
 
