@@ -32,11 +32,11 @@ Some guidance:
 
 If a reporter contacts you about your work, great. A few things to know:
 
-- **You can say yes.** You do not need permission from Adrian or UCSB to talk to a reporter, though giving Adrian a heads-up is appreciated.
+- **You can say yes.** You do not need my permission or UCSB's to talk to a reporter, though giving me a heads-up is appreciated.
 - **You can ask for questions in advance.** Most reporters will share their questions or topic beforehand if you ask.
 - **You can review quotes.** It is reasonable to ask to see your quotes before publication. Not all reporters will agree, but many will.
 - **UCSB Public Affairs** can help. If a media request feels big or sensitive, the UCSB Office of Public Affairs and Communication can provide media training and help you prepare. They are at [news.ucsb.edu](https://news.ucsb.edu/).
-- **Talk to Adrian** if a media inquiry involves anything politically sensitive, controversial, or related to a grant funder. Not because you need permission, but because it helps to think through framing together.
+- **Talk to me** if a media inquiry involves anything politically sensitive, controversial, or related to a grant funder. Not because you need permission, but because it helps to think through framing together.
 
 ## Outreach and Broader Impacts
 

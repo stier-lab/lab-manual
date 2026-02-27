@@ -1,6 +1,6 @@
 # Welcome to the Stier Lab and UCSB!
 
-We are excited to welcome you to our community. We want your transition into the research group to go smoothly. This checklist and the activities below will help you get started in your first quarter. Ask Adrian any questions you have!
+We are excited to welcome you to our community. We want your transition into the research group to go smoothly. This checklist and the activities below will help you get started in your first quarter. Ask me any questions you have!
 
 ---
 
@@ -8,7 +8,7 @@ We are excited to welcome you to our community. We want your transition into the
 
 ### Slack (Primary Communication)
 
-Slack is Adrian's primary communication tool and the fastest way to reach him. The lab uses it for day-to-day communication, quick questions, coordination, and sharing updates. It is available as a web platform, desktop app, and phone app.
+Slack is my primary communication tool and the fastest way to reach me. The lab uses it for day-to-day communication, quick questions, coordination, and sharing updates. It is available as a web platform, desktop app, and phone app.
 
 - Download at [slack.com](https://www.slack.com)
 - Request access to the Stier Lab workspace: **stierlab.slack.com**
@@ -16,7 +16,7 @@ Slack is Adrian's primary communication tool and the fastest way to reach him. T
 
 ### Email & Google Calendar
 
-Email works well for longer-form communication and anything that needs a paper trail. Be aware that emails can get lost in Adrian's inbox. If something is time-sensitive and you have not heard back, follow up on Slack.
+Email works well for longer-form communication and anything that needs a paper trail. Be aware that emails can get lost in my inbox. If something is time-sensitive and you have not heard back, follow up on Slack.
 
 Once you have your UCSB email and Connect account:
 
@@ -41,7 +41,7 @@ UCSB provides unlimited Box cloud storage. This is your best option for large fi
 Our preferred citation manager.
 
 - Create an account at [zotero.org](https://www.zotero.org/)
-- Send your username to Adrian or a labmate, and we'll invite you to the lab's shared citation groups
+- Send your username to me or a labmate, and we'll invite you to the lab's shared citation groups
 - You can also create personal libraries and share them with collaborators
 
 ### VPN (Ivanti Secure Access)
@@ -69,7 +69,7 @@ Once you're connected to the Stier Lab shared folder, familiarize yourself with 
 
 ## Keys and Building Access
 
-- **Noble Hall, Bio2 keys:** Pick up from Kurt Bellefeuille in the Bio Storeroom (Bldg 569, Rm 1101). Andi Jorgensen or Adrian can submit the key request form on the UCSB website on your behalf. Allow at least 24 hours before pickup.
+- **Noble Hall, Bio2 keys:** Pick up from Kurt Bellefeuille in the Bio Storeroom (Bldg 569, Rm 1101). Andi Jorgensen or I can submit the key request form on the UCSB website on your behalf. Allow at least 24 hours before pickup.
 - **Digital access (ID card):** Email Andi Jorgensen (amjorgen@ucsb.edu) with your UCSB ID number and which buildings you need access to (MSRB, LSB, Bio 2).
 - **The Point / boatyard / aquarium:** Coordinate with Christoph Pierre (pierre@lifesci.ucsb.edu) for keys and access codes.
 
@@ -96,7 +96,7 @@ Complete these as soon as possible. See the Required Trainings section of the La
 - [ ] Fundamentals of Laboratory Safety
 - [ ] UC Preventing Harassment & Discrimination
 - [ ] Gateway 101 (if you will be ordering supplies)
-- [ ] LHAT Group training (have Adrian add you to the Stier Lab LHAT Group)
+- [ ] LHAT Group training (I will add you to the Stier Lab LHAT Group)
 - [ ] IACUC training (if your research involves animals, start early because this takes time)
 
 ---
@@ -109,7 +109,7 @@ Get your ID at the information desk at the University Center. Have your Perm num
 
 ## Individual Development Plan (IDP)
 
-All lab members complete and review an IDP each year. The IDP sets milestones, tracks progress, and gives structure to conversations about your professional development with Adrian.
+All lab members complete and review an IDP each year. The IDP sets milestones, tracks progress, and gives structure to conversations about your professional development with me.
 
 ### Getting Started
 
@@ -123,7 +123,7 @@ Save your results for future comparison.
 
 ### Self-Assessment Questions
 
-Use the information from these assessments to reflect on the following. These are starting points for your IDP conversations with Adrian, not a to-do list. Your answers will change as your circumstances evolve.
+Use the information from these assessments to reflect on the following. These are starting points for your IDP conversations with me, not a to-do list. Your answers will change as your circumstances evolve.
 
 **Strengths and growth areas:**
 - What are your biggest strengths coming into this position? (List at least 3)
@@ -182,8 +182,8 @@ Track your goals using a simple table:
 - [ ] Get keys and building access set up
 - [ ] Connect to WiFi, Ethernet, Slack, Google Drive, and Zotero
 - [ ] Read the Lab Manual, Working Agreement, and SCUBA Manual
-- [ ] Complete your first IDP draft and schedule an initial meeting with Adrian
-- [ ] Complete the Mentor/Mentee Agreement with Adrian (see the Mentoring and Advising Structure section)
+- [ ] Complete your first IDP draft and schedule an initial meeting with me
+- [ ] Complete the Mentor/Mentee Agreement with me (see the Mentoring and Advising Structure section)
 - [ ] Review and sign the Lab Working Agreement at the first lab meeting of the year
 - [ ] Set up at least two backup locations for your research data (see Data Management section)
 - [ ] Meet the people in the Valuable Contacts section, especially Andi Jorgensen, Mengshu Ye, and the marine operations staff if you'll be doing fieldwork

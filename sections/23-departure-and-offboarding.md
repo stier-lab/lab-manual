@@ -2,7 +2,7 @@
 
 ## When to Start
 
-Begin the offboarding process 2-3 months before your departure date. Some of these steps take time, and rushing them at the end leads to things falling through the cracks. Use the checklist below as a guide, and check items off with Adrian and Molly as you go.
+Begin the offboarding process 2-3 months before your departure date. Some of these steps take time, and rushing them at the end leads to things falling through the cracks. Use the checklist below as a guide, and check items off with me and Molly as you go.
 
 ## Offboarding Checklist
 
@@ -24,7 +24,7 @@ Begin the offboarding process 2-3 months before your departure date. Some of the
 
 ## Manuscripts in Progress
 
-If you have manuscripts in progress when you leave, discuss the timeline and plan with Adrian before your departure. Agree on:
+If you have manuscripts in progress when you leave, discuss the timeline and plan with me before your departure. Agree on:
 
 - Who is responsible for what revisions and by when.
 - Whether co-authors still in the lab will handle revisions during peer review.
@@ -34,17 +34,17 @@ The lab's general expectation is that you publish your own work within a couple 
 
 ## Exit Conversation
 
-Before you leave, schedule a final meeting with Adrian to discuss:
+Before you leave, schedule a final meeting with me to discuss:
 
 - How the mentoring and advising relationship worked for you — what helped, what could have been better.
 - Any feedback on the lab that might benefit current and future students.
-- Your plans and how Adrian can support your next steps (letters of recommendation, introductions, ongoing collaborations).
+- Your plans and how I can support your next steps (letters of recommendation, introductions, ongoing collaborations).
 
 This conversation is valuable in both directions. Honest feedback from departing lab members has shaped many of the policies in this manual.
 
 ## Update Your Contact Information
 
-Keep your contact information current so Adrian can reach you for reference letters, questions about your data, and collaboration opportunities. Update your mailing address, personal email, and phone number before you go.
+Keep your contact information current so I can reach you for reference letters, questions about your data, and collaboration opportunities. Update your mailing address, personal email, and phone number before you go.
 
 ## Staying Connected
 

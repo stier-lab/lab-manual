@@ -39,4 +39,4 @@ Under UC's Presidential Open Access Policy, graduate students can deposit publis
 
 ## Suggestions?
 
-If you have comments, questions, or items that belong in this document or any other lab document, please let Adrian or Molly (lab manager) know. This manual is a living document. It improves when people flag what is missing or unclear.
+If you have comments, questions, or items that belong in this document or any other lab document, please let me or Molly (lab manager) know. This manual is a living document. It improves when people flag what is missing or unclear.

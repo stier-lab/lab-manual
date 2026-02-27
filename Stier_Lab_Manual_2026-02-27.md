@@ -13,9 +13,9 @@ Our research spans coral reefs in Mo'orea (French Polynesia), kelp forests along
 
 This manual will help you get oriented. It covers the practical logistics of working at UCSB and in our lab. It also lays out the expectations and values that shape how we work together.
 
-This handbook complements several other documents you should know. You and Adrian will complete a Mentor/Mentee Agreement together. The entire lab revisits the Lab Working Agreement each year. You will also create an Individual Development Plan (IDP). Together, these documents make explicit what people often pass along informally. They put everyone on the same page from the start.
+This handbook complements several other documents you should know. You and I will complete a Mentor/Mentee Agreement together. The entire lab revisits the Lab Working Agreement each year. You will also create an Individual Development Plan (IDP). Together, these documents make explicit what people often pass along informally. They put everyone on the same page from the start.
 
-This is a living document. If something is unclear, outdated, or missing, please let Adrian or the lab manager (Molly Brzezinski) know.
+This is a living document. If something is unclear, outdated, or missing, please let me or the lab manager (Molly Brzezinski) know.
 
 
 ---
@@ -71,7 +71,7 @@ We take a lot of photos and videos — in the field, in the lab, at social event
 
 Before using a photo or video of a lab member in any public-facing context (website, social media, presentation to an external audience, news article), ask the person for permission. This applies even if they were present when the photo was taken. Some people are comfortable being featured publicly; others are not. Respect that without requiring an explanation.
 
-If you would prefer not to appear in lab photos or on the lab website, let Adrian or the lab manager know. You will not be asked to justify it, and it will not affect anything.
+If you would prefer not to appear in lab photos or on the lab website, let me or the lab manager know. You will not be asked to justify it, and it will not affect anything.
 
 ## Roles and Awareness
 
@@ -90,7 +90,7 @@ If you experience or witness harassment or bullying:
 
 - **Talk to the person directly,** if you feel safe doing so. Many offenses are unintentional, and a direct conversation often resolves things.
 
-- **If that's not comfortable, come to Adrian.** He will take your concern seriously and work with you on next steps.
+- **If that's not comfortable, come to me.** I will take your concern seriously and work with you on next steps.
 
 - **If Adrian is the concern,** contact Mengshu Ye (Graduate Advisor), the EEMB Department Chair, or UCSB's Title IX Compliance & Discrimination and Harassment Prevention Office (TIX/DHP) at (805) 893-2701 or tixoffice@titleix.ucsb.edu.
 
@@ -110,7 +110,7 @@ Graduate school is demanding. Taking care of your mental, emotional, and physica
 
 **Work/life balance:** There is no expectation that you work evenings and weekends as a default. Some periods (field seasons, manuscript deadlines) will be more intense than others, and that is normal. But chronic overwork is not a badge of honor. It is a risk factor for burnout, poor science, and poor health. Know your limits and take care of yourself.
 
-**If you're struggling:** Talk to Adrian. You do not need to share details. You have a right to privacy. But letting him know you need time or adjusted expectations helps both of you. If you prefer to talk to someone else, that is fine too. Other lab members, the Graduate Advisor, and campus counseling services are all available.
+**If you're struggling:** Talk to me. You do not need to share details. You have a right to privacy. But letting me know you need time or adjusted expectations helps both of us. If you prefer to talk to someone else, that is fine too. Other lab members, the Graduate Advisor, and campus counseling services are all available.
 
 **Do not come to lab sick.** If you have a condition that affects your work -- physical, cognitive, psychiatric, or any other -- talk to me so we can figure out accommodations. You can also contact the [Disabled Students Program](https://dsp.sa.ucsb.edu/) (DSP) directly at (805) 893-2668. DSP coordinates accommodations under the ADA, and you are not required to disclose your disability to me. They will work with you and, as needed, with the department.
 
@@ -118,11 +118,11 @@ See the Mental Health Resources section for specific campus services.
 
 ## Lab and Field Safety
 
-Do not put yourself or others at risk. If you feel pressured to do something unsafe (by anyone, including Adrian) you have the right and the responsibility to refuse. Speak up.
+Do not put yourself or others at risk. If you feel pressured to do something unsafe (by anyone, including me) you have the right and the responsibility to refuse. Speak up.
 
 - **Point of contact:** When conducting fieldwork, always have someone who is NOT in the field with you who knows your location and expected return time. If you do not return on schedule, they should attempt contact and request help if needed.
 
-- **SCUBA and boating:** You must meet all UCSB and American Academy of Underwater Sciences (AAUS) requirements before diving. Adrian serves on the MSI diving and boating safety board. See the Required Trainings section and the separate UCSB Dive Safety Manual (available from Eric Hessell or at [marineops.ucsb.edu](https://marineops.ucsb.edu/)) for details.
+- **SCUBA and boating:** You must meet all UCSB and American Academy of Underwater Sciences (AAUS) requirements before diving. I serve on the MSI diving and boating safety board. See the Required Trainings section and the separate UCSB Dive Safety Manual (available from Eric Hessell or at [marineops.ucsb.edu](https://marineops.ucsb.edu/)) for details.
 
 - **Lab chemicals:** See the Chemical Health and Safety Plan subsection in Required Trainings. Always check Safety Data Sheets (SDS), complete required Standard Operating Procedures (SOPs), and get proper training before handling hazardous materials.
 
@@ -167,7 +167,7 @@ There is no fixed number of vacation days for graduate students. As a general gu
 
 When you plan time away:
 
-- Let Adrian and relevant labmates know at least a week in advance for short breaks (a few days), and further ahead for longer trips (a week or more).
+- Let me and relevant labmates know at least a week in advance for short breaks (a few days), and further ahead for longer trips (a week or more).
 - Add your time away to the Stier Lab Availability calendar so the lab can plan around it.
 - If you have ongoing responsibilities (samples being processed, TA duties, undergraduate mentees), arrange coverage or communicate the gap before you leave.
 - If you are going somewhere without reliable internet or phone service (Mo'orea, backcountry, etc.), make sure someone knows your plan and expected return.
@@ -201,7 +201,7 @@ If a direct conversation does not resolve things, or if you have tried and it is
 
 - **Assume good intent initially, but hold people accountable for impact.** Someone can mean well and still cause harm. Both things can be true.
 
-- **Talk about people the way you would if they were in the room.** Do not gossip about labmates, and do not speak negatively about someone who is not present. If you have a concern about someone's behavior or work, raise it with them directly or bring it to Adrian. This is a basic standard of professionalism and trust. A lab where people talk behind each other's backs is a lab where no one feels safe.
+- **Talk about people the way you would if they were in the room.** Do not gossip about labmates, and do not speak negatively about someone who is not present. If you have a concern about someone's behavior or work, raise it with them directly or bring it to me. This is a basic standard of professionalism and trust. A lab where people talk behind each other's backs is a lab where no one feels safe.
 
 - **Keep notes.** If you are dealing with a recurring issue, document what happened and when. This protects everyone and makes any later conversation more productive.
 
@@ -380,9 +380,9 @@ You must complete several trainings before you can get to work. It feels like a 
 
 ## LHAT (Laboratory Hazard Assessment Tool) Training
 
-- Step 1: Remind Adrian or the designated lab member to add you to the Stier Lab LHAT Group.
+- Step 1: Remind me or the designated lab member to add you to the Stier Lab LHAT Group.
 - Step 2: Schedule time with a senior lab member to review lab-specific procedures, hazards, and emergencies per the EHS Training Needs Assessment Form.
-- Once complete, sign the form and give it to Adrian for approval. Get personal protective equipment (PPE) from the stockroom in Chemistry (room 1432).
+- Once complete, sign the form and give it to me for approval. Get personal protective equipment (PPE) from the stockroom in Chemistry (room 1432).
 
 ## Animal Care Training
 
@@ -394,9 +394,9 @@ Note: Even SCUBA surveys involving fish require IACUC approval in many cases. If
 
 Beyond training, many research activities require permits and institutional approvals. You cannot conduct research until these are in hand. Permit applications can take weeks to months, so start early and build the timeline into your project planning.
 
-- **IACUC:** If your research involves vertebrates (including fish surveys by SCUBA), you need Institutional Animal Care and Use Committee approval. All IACUC applications go through Adrian. See the Animal Care Training section above for the process. Creating a new protocol takes at least 2 months.
+- **IACUC:** If your research involves vertebrates (including fish surveys by SCUBA), you need Institutional Animal Care and Use Committee approval. All IACUC applications go through me. See the Animal Care Training section above for the process. Creating a new protocol takes at least 2 months.
 - **International permits:** Research at our Mo'orea field site requires a Protocole d'accueil and may require CITES permits for sample transport. See the Mo'orea Fieldwork section for details.
-- **Collecting permits:** Depending on your field site, you may need state or federal collecting permits (e.g., California Department of Fish and Wildlife Scientific Collecting Permit, National Marine Sanctuary permits). Talk to Adrian about what applies to your project.
+- **Collecting permits:** Depending on your field site, you may need state or federal collecting permits (e.g., California Department of Fish and Wildlife Scientific Collecting Permit, National Marine Sanctuary permits). Talk to me about what applies to your project.
 - **IRB:** If your research involves human subjects (surveys, interviews, assessments), you need Institutional Review Board approval. This is rare in our lab but can apply to training grants or interdisciplinary work. Access the IRB portal through the UCSB Office of Research.
 
 The general rule: if you are unsure whether you need a permit, ask. It is always better to check early than to discover midway through a project that you needed approval you do not have.
@@ -418,7 +418,7 @@ The lab operates across several buildings on campus and at the waterfront. Get y
 
 ### Physical Keys
 
-- **Noble Hall, Bio2:** Get keys through the Bio Storeroom (Kurt Bellefeuille, bellefeu@lifesci.ucsb.edu). Andi Jorgensen or Adrian can submit the key request form on the UCSB website on your behalf before you pick them up.
+- **Noble Hall, Bio2:** Get keys through the Bio Storeroom (Kurt Bellefeuille, bellefeu@lifesci.ucsb.edu). Andi Jorgensen or I can submit the key request form on the UCSB website on your behalf before you pick them up.
 - **Marine Science Research Building (MSRB):** Contact the MSRB Maintenance Coordinator at msi-building@ucsb.edu or (805) 893-2249 for keys and door access codes.
 - **The Point:** Get keys through Christoph Pierre in Building 465, Room 102.
 
@@ -435,7 +435,7 @@ The lab operates across several buildings on campus and at the waterfront. Get y
 
 ### Digital Keys (ID Card)
 
-Your UCSB ID provides digital access to MSRB, LSB, and Bio 2. Email Andi Jorgensen (amjorgen@ucsb.edu) with an explanation and your ID number to get access. Report lost or deactivated ID cards to Adrian first, then Andi or Christoph.
+Your UCSB ID provides digital access to MSRB, LSB, and Bio 2. Email Andi Jorgensen (amjorgen@ucsb.edu) with an explanation and your ID number to get access. Report lost or deactivated ID cards to me first, then Andi or Christoph.
 
 ## Conference Room Check-out
 
@@ -478,7 +478,7 @@ This section covers shared computing resources, network access, and tools you wi
 
 ## Lab Computer
 
-The lab has a high-power iMac in Noble 2224 with 40 GB RAM. Ask Molly or Adrian for the guest account password. If you need a private account, talk to Adrian. Log out when done. Do not leave personal accounts open.
+The lab has a high-power iMac in Noble 2224 with 40 GB RAM. Ask Molly or me for the guest account password. If you need a private account, talk to me. Log out when done. Do not leave personal accounts open.
 
 ## Lab Server (Network Attached Storage / NAS)
 
@@ -495,7 +495,7 @@ Connect to LifeSci[BuildingName] for computers and LifeSciGadget for phones. New
 
 ## Personal Computers
 
-You will need your own laptop for research, writing, and analysis. If this is a financial hardship, talk to Adrian — there may be options through the department or Graduate Division. The shared lab iMac in Noble 2224 is available for heavy computing tasks, but it is not a substitute for having your own machine.
+You will need your own laptop for research, writing, and analysis. If this is a financial hardship, talk to me — there may be options through the department or Graduate Division. The shared lab iMac in Noble 2224 is available for heavy computing tasks, but it is not a substitute for having your own machine.
 
 If your laptop dies or needs repair, the Life Sciences Computing Group has loaner machines. The Graduate Division may also have a loaner program. Do not let a broken computer silently stall your progress for weeks.
 
@@ -510,7 +510,7 @@ Back up your work regularly -- ideally daily. Hard drives fail, laptops get stol
 
 ## Printing
 
-The printer is on the 2nd floor of Noble next to Adrian's office. You must be connected to LifeSci Noble. For poster printing, ITST and CNSI charge $40 for a standard 48x36 poster.
+The printer is on the 2nd floor of Noble next to my office. You must be connected to LifeSci Noble. For poster printing, ITST and CNSI charge $40 for a standard 48x36 poster.
 
 ## VPN Connection
 
@@ -531,7 +531,7 @@ Lab workspace: [stierlab.slack.com](https://stierlab.slack.com). Download the ap
 
 ## Zotero
 
-This is our preferred citation manager. Create an account at [zotero.org](https://www.zotero.org/) and ask Adrian or labmates for access to the lab group library.
+This is our preferred citation manager. Create an account at [zotero.org](https://www.zotero.org/) and ask me or labmates for access to the lab group library.
 
 ## Google Drive
 
@@ -564,11 +564,11 @@ A few things to keep in mind:
 
 # Purchasing, Shipping, and Reimbursement
 
-You will need to order supplies regularly. The system has some quirks, but it becomes routine after a few times. Ask a senior lab member or Adrian before placing an order if you are unsure.
+You will need to order supplies regularly. The system has some quirks, but it becomes routine after a few times. Ask a senior lab member or me before placing an order if you are unsure.
 
 ## Before You Order
 
-Before placing any order, you need to know the funding source. Each purchase must be charged to a specific account (identified by a Financial Reporting Unit and Project code in the Oracle system). Adrian or Molly Brzezinski (lab manager) will tell you which account to use. If you are not sure, ask before ordering — using the wrong account creates problems that are tedious to fix.
+Before placing any order, you need to know the funding source. Each purchase must be charged to a specific account (identified by a Financial Reporting Unit and Project code in the Oracle system). Molly Brzezinski (lab manager) or I will tell you which account to use. If you are not sure, ask before ordering — using the wrong account creates problems that are tedious to fix.
 
 Log all purchases using lab funds on the Expense sheet. See Molly for the link. Note the funding source, supplier, items, and relevant details.
 
@@ -581,13 +581,13 @@ Most lab purchases go through [Gateway](https://gateway.procurement.ucsb.edu/), 
 3. Build your cart. Add your project code after your name in the Cart Name field.
 4. Finalize the cart and attach any required quotes or documents.
 5. Assign the correct funding source and commodity/object codes.
-6. Submit for approval. The requisition routes through departmental approval, then PI approval (Adrian), then to procurement.
+6. Submit for approval. The requisition routes through departmental approval, then PI approval, then to procurement.
 
-Adrian approves all orders. Have a senior lab member train you on your first order. Gateway orders ship to the Bio Storeroom (Bldg. 569, Rm. 1101). Wait for Kurt's email confirmation before picking up.
+I approve all orders. Have a senior lab member train you on your first order. Gateway orders ship to the Bio Storeroom (Bldg. 569, Rm. 1101). Wait for Kurt's email confirmation before picking up.
 
 **Common suppliers on Gateway:** Fisher Scientific, VWR, Amazon Business, Airgas (compressed gases), Dell, Apple, and Office Depot. For suppliers not in Gateway, you can create a non-catalog requisition by entering item details manually.
 
-**Timing:** Routine orders under $10,000 typically take 3-7 business days from submission to delivery. Orders over $10,000, or those containing restricted items (chemicals, controlled substances), route to Central Purchasing and can take 1-2 additional weeks. Plan ahead if Adrian will be traveling — the approval queue stalls without PI action.
+**Timing:** Routine orders under $10,000 typically take 3-7 business days from submission to delivery. Orders over $10,000, or those containing restricted items (chemicals, controlled substances), route to Central Purchasing and can take 1-2 additional weeks. Plan ahead if I am traveling — the approval queue stalls without PI action.
 
 ## When Gateway Is Not an Option
 
@@ -597,7 +597,7 @@ If you need to pay personally and seek reimbursement, do so only as a last resor
 
 ## Equipment Purchases
 
-Equipment costing $5,000 or more is classified as inventorial and has special procedures. It must be ordered through Gateway with the correct subaccount code, tagged by Equipment Management, and tracked in the university's inventory system. Purchases over $100,000 must be competitively bid. Talk to Molly or Adrian before ordering any equipment.
+Equipment costing $5,000 or more is classified as inventorial and has special procedures. It must be ordered through Gateway with the correct subaccount code, tagged by Equipment Management, and tracked in the university's inventory system. Purchases over $100,000 must be competitively bid. Talk to Molly or me before ordering any equipment.
 
 ## Chemical and Hazardous Materials
 
@@ -644,7 +644,7 @@ All university vehicle use is governed by UC Business and Finance Bulletin BUS-4
 - Complete a Defensive Driving Course, which must be renewed every three years.
 - Be enrolled in the DMV Employer Pull Notice (EPN) program, which allows the university to monitor your driving record.
 
-Check with Molly Brzezinski or Adrian for the current process. If you do not have authorization, do not drive the truck. Drivers classified as negligent operators under the DMV's Negligent Operator Treatment System (NOTS) are prohibited from driving university vehicles.
+Check with Molly Brzezinski or me for the current process. If you do not have authorization, do not drive the truck. Drivers classified as negligent operators under the DMV's Negligent Operator Treatment System (NOTS) are prohibited from driving university vehicles.
 
 ### Scheduling and Usage Log
 
@@ -672,8 +672,8 @@ A few additional rules apply to all university vehicles under BUS-46:
 
 - **University business only.** University vehicles may not be used for personal errands, even brief ones. If you are driving to a field site and want to stop for groceries on the way back, use your own car for that leg.
 - **Traffic violations are your responsibility.** Parking tickets, moving violations, and any fines incurred while driving a university vehicle are the personal responsibility of the driver, not the lab or the university.
-- **Insurance.** University Auto Insurance covers liability and physical damage to university-owned vehicles. There is a $500 deductible per occurrence. If you are in an accident, report it to Risk Management immediately and notify Adrian.
-- **Accidents.** Keep a copy of the university's accident reporting form in the truck's glove compartment. If you are in an accident, do not admit fault at the scene. Exchange information, document the scene with photos, and contact Risk Management and Adrian as soon as possible.
+- **Insurance.** University Auto Insurance covers liability and physical damage to university-owned vehicles. There is a $500 deductible per occurrence. If you are in an accident, report it to Risk Management immediately and notify me.
+- **Accidents.** Keep a copy of the university's accident reporting form in the truck's glove compartment. If you are in an accident, do not admit fault at the scene. Exchange information, document the scene with photos, and contact Risk Management and me as soon as possible.
 
 ## UCSB Vehicle Rentals
 
@@ -684,7 +684,7 @@ Rentals are available for university business through TPS ((805) 893-2924). They
 
 # Undergraduates in the Lab
 
-Undergraduates are a welcome and important part of our lab community. Most will work under the guidance of a graduate student or postdoc. Adrian should know about all undergraduate projects. Consult him on any issues that come up.
+Undergraduates are a welcome and important part of our lab community. Most will work under the guidance of a graduate student or postdoc. I should know about all undergraduate projects. Let me know about any issues that come up.
 
 ## Expectations for Mentors
 
@@ -721,15 +721,15 @@ Not every undergraduate will follow this trajectory, and that is fine. Some stud
 
 ## Academic Credit
 
-Undergraduates can enroll in EEMB 199 (Independent Studies) for academic credit. Talk to your graduate mentor and Adrian about whether this makes sense for your situation. You and Adrian will outline the scope of work and learning goals for the quarter. Credit typically requires a short written report or presentation at the end of the quarter.
+Undergraduates can enroll in EEMB 199 (Independent Studies) for academic credit. Talk to your graduate mentor and me about whether this makes sense for your situation. You and I will outline the scope of work and learning goals for the quarter. Credit typically requires a short written report or presentation at the end of the quarter.
 
 ## Funding and Equity
 
-Most undergraduates join as volunteers, for course credit, or with stipend support. We recognize that volunteering is not financially feasible for all students. We will work to provide equitable access to research experience regardless of financial situation. If the time commitment is a barrier, talk to Adrian — there may be options for paid positions through grants, work-study, or URCA funding.
+Most undergraduates join as volunteers, for course credit, or with stipend support. We recognize that volunteering is not financially feasible for all students. We will work to provide equitable access to research experience regardless of financial situation. If the time commitment is a barrier, talk to me — there may be options for paid positions through grants, work-study, or URCA funding.
 
 ## If Something Is Not Working
 
-If the mentor-mentee relationship is not working — communication has broken down, expectations are unclear, or the experience is not what you hoped — talk to Adrian. This is not a failure on anyone's part. Sometimes a better match or a different project structure makes all the difference. The goal is for every undergraduate to leave the lab having learned something meaningful.
+If the mentor-mentee relationship is not working — communication has broken down, expectations are unclear, or the experience is not what you hoped — talk to me. This is not a failure on anyone's part. Sometimes a better match or a different project structure makes all the difference. The goal is for every undergraduate to leave the lab having learned something meaningful.
 
 Undergraduate researchers must complete the same basic safety trainings as other lab members. See the Required Trainings section for details.
 
@@ -738,25 +738,25 @@ Undergraduate researchers must complete the same basic safety trainings as other
 
 # Graduate Student Funding
 
-Funding is one of the most important (and sometimes most stressful) parts of graduate school. Adrian's goal is that you never worry about whether you can afford to stay in the program. This section explains how funding works so you can plan ahead and take advantage of the opportunities available.
+Funding is one of the most important (and sometimes most stressful) parts of graduate school. My goal is that you never worry about whether you can afford to stay in the program. This section explains how funding works so you can plan ahead and take advantage of the opportunities available.
 
 ## Stipend & Support
 
-EEMB faculty aim to fully support their students in good standing for the duration of their studies. Support comes from a combination of Teaching Assistantships, Graduate Student Researcher positions, and fellowships. Unlike some UCSB departments, EEMB does not offer a formal multi-year guaranteed funding package. Funding depends on the admitting faculty member's grants and resources. The department has limited funds and tries to support students through their first year. After that, Adrian works with each student to piece together support from TA lines, grants, and fellowships.
+EEMB faculty aim to fully support their students in good standing for the duration of their studies. Support comes from a combination of Teaching Assistantships, Graduate Student Researcher positions, and fellowships. Unlike some UCSB departments, EEMB does not offer a formal multi-year guaranteed funding package. Funding depends on the admitting faculty member's grants and resources. The department has limited funds and tries to support students through their first year. After that, I work with each student to piece together support from TA lines, grants, and fellowships.
 
 In practice, your support will come from a combination of:
 
 - **Teaching Assistantships (TA):** All EEMB students are required to TA at least 2 quarters. Each faculty member can count on TA support for one student per year (3 quarters of total support). TA appointments at 25%+ provide partial fee remission (tuition, student service fee, campus-based fees, and UC Student Health Insurance Plan [UC-SHIP]). Standard appointments are 50% time.
 
-- **Graduate Student Researcher (GSR):** Funded through Adrian's grants. GSR appointments at 35%+ provide full fee remission, including non-resident supplemental tuition (NRST). At 25-34%, only partial fee remission applies (no NRST coverage).
+- **Graduate Student Researcher (GSR):** Funded through my grants. GSR appointments at 35%+ provide full fee remission, including non-resident supplemental tuition (NRST). At 25-34%, only partial fee remission applies (no NRST coverage).
 
 - **Fellowships:** Campus and external fellowships supplement TA/GSR support.
 
-Discuss your funding picture with Adrian and the Graduate Advisor (Mengshu Ye) at the start of each academic year.
+Discuss your funding picture with me and the Graduate Advisor (Mengshu Ye) at the start of each academic year.
 
 ## Summer Funding
 
-Summer support is not automatic, so plan ahead. The department's block grant funds can provide summer stipends, but these are competitive. You must apply with a statement of need and a faculty nomination. Other sources include GSR positions (if Adrian has summer grant funding), summer TAships (limited, separate application), and external fellowships (e.g., NSF GRFP provides 12-month support including summer). It is wise to budget based on your 9-month salary and treat summer funding as a welcome supplement. Talk to Adrian early each spring about summer plans.
+Summer support is not automatic, so plan ahead. The department's block grant funds can provide summer stipends, but these are competitive. You must apply with a statement of need and a faculty nomination. Other sources include GSR positions (if I have summer grant funding), summer TAships (limited, separate application), and external fellowships (e.g., NSF GRFP provides 12-month support including summer). It is wise to budget based on your 9-month salary and treat summer funding as a welcome supplement. Talk to me early each spring about summer plans.
 
 ## Fee Remission & NRST
 
@@ -768,7 +768,7 @@ Understanding fee remission is important, especially for international and out-o
 
 ## Fellowships
 
-Apply for external fellowships, especially the NSF Graduate Research Fellowship (GRFP). Note: as of the FY2026 solicitation, only first-year graduate students are eligible to apply (second-year students are no longer eligible). This means you should begin preparing your application before you arrive or very early in your first year. The application takes several months of serious writing and revision. Start early, get feedback from labmates and Adrian, and plan multiple drafts. Fellowship funding benefits you directly (often higher stipend, more independence) and frees up lab resources for other students.
+Apply for external fellowships, especially the NSF Graduate Research Fellowship (GRFP). Note: as of the FY2026 solicitation, only first-year graduate students are eligible to apply (second-year students are no longer eligible). This means you should begin preparing your application before you arrive or very early in your first year. The application takes several months of serious writing and revision. Start early, get feedback from labmates and me, and plan multiple drafts. Fellowship funding benefits you directly (often higher stipend, more independence) and frees up lab resources for other students.
 
 Other fellowships to consider:
 - **External:** Ford Foundation Fellowship, Fulbright, NDSEG, Nancy Foster Scholarship (NOAA)
@@ -780,7 +780,7 @@ New applicants are automatically considered for campus fellowship competitions. 
 
 ## Research Expenses and Writing Your Own Grants
 
-Part of becoming an independent scientist is learning to fund your own research. Adrian will help you identify funding sources. He will support your work through his grants when your project aligns with them. But you should also write and submit small grants throughout your program. Design projects that are financially feasible. Talk to Adrian before purchasing anything from his accounts. Always know the correct funding source/speed type for any purchase. See the Purchasing, Shipping, and Reimbursement section for logistics.
+Part of becoming an independent scientist is learning to fund your own research. I will help you identify funding sources and support your work through my grants when your project aligns with them. But you should also write and submit small grants throughout your program. Design projects that are financially feasible. Talk to me before purchasing anything from my accounts. Always know the correct funding source/speed type for any purchase. See the Purchasing, Shipping, and Reimbursement section for logistics.
 
 ### Why Write Grants as a Student?
 
@@ -802,12 +802,12 @@ The Consolidated Funding List in the shared Google Drive folder tracks opportuni
 
 1. **Identify the opportunity** well before the deadline. Most proposals take 4-8 weeks of serious work. Major fellowships like NSF GRFP take several months.
 2. **Read the solicitation carefully.** Understand what the funder values, what the review criteria are, and what they are not funding. Tailor your proposal to the specific program.
-3. **Draft a rough outline** and discuss it with Adrian before writing. This is where most proposals go wrong — not in the writing, but in the framing and feasibility.
+3. **Draft a rough outline** and discuss it with me before writing. This is where most proposals go wrong — not in the writing, but in the framing and feasibility.
 4. **Write the full draft.** Budget enough time for multiple revisions. A first draft is never the final draft.
-5. **Get feedback.** Share with Adrian and at least one labmate. If possible, share with someone who has successfully applied to the same program.
+5. **Get feedback.** Share with me and at least one labmate. If possible, share with someone who has successfully applied to the same program.
 6. **Revise and submit.** Leave time for the administrative side — institutional approvals, budget forms, and biosketches. UCSB's Office of Research requires lead time for proposals that go through the university.
 
-Adrian will review grant drafts and provide feedback. For larger proposals, expect multiple rounds of revision. For small grants, one round may be sufficient. Either way, do not wait until the last week to ask for feedback.
+I will review grant drafts and provide feedback. For larger proposals, expect multiple rounds of revision. For small grants, one round may be sufficient. Either way, do not wait until the last week to ask for feedback.
 
 ## Conferences
 
@@ -816,7 +816,7 @@ You are responsible for conference costs. Available travel support:
 - **Ellen Schamberg Burley Award** (EEMB): For advanced doctoral candidates presenting at scientific meetings
 - **Academic Senate Doctoral Student Travel Grant:** $250 (virtual), $900 (domestic), $1,500 (international). You must be advanced to candidacy.
 - **GSA Conference Travel Grant:** Up to $200 reimbursement, for students NOT yet advanced to candidacy
-- **Adrian's grants:** If your presentation is related to an active grant, he may be able to help
+- **My grants:** If your presentation is related to an active grant, I may be able to help
 - Some conferences offer registration fee waivers for student volunteers
 
 See the Travel section for booking procedures, travel advances, and reimbursement logistics.
@@ -849,9 +849,9 @@ Note: This section supplements the official EEMB Graduate Student Handbooks (PhD
 
 ## All Graduate Students
 
-**Weekly meetings:** At the start of each quarter, Adrian schedules weekly or biweekly one-on-one meetings with each student. This time is yours. You set the agenda. If you have nothing to discuss one week, cancel. But if you cancel several weeks in a row, expect Adrian to check in.
+**Weekly meetings:** At the start of each quarter, I schedule weekly or biweekly one-on-one meetings with each student. This time is yours. You set the agenda. If you have nothing to discuss one week, cancel. But if you cancel several weeks in a row, expect me to check in.
 
-**Committee formation:** Form your committee during your first year. Per EEMB requirements, you need a minimum of 3 members. At least 2 must be ladder faculty from EEMB (including the chair). The third can be from another department or UC campus. Think of your committee as a team with complementary expertise. Adrian will offer suggestions, but the decision is yours.
+**Committee formation:** Form your committee during your first year. Per EEMB requirements, you need a minimum of 3 members. At least 2 must be ladder faculty from EEMB (including the chair). The third can be from another department or UC campus. Think of your committee as a team with complementary expertise. I will offer suggestions, but the decision is yours.
 
 **Developing your research question:** There is no single right way to find a research question. Some people arrive with a burning question they have been thinking about for years. Others start with a system they are drawn to (a reef, a species interaction, a place) and the question emerges from spending time in that system. In practice, most of us do a messy mix of both. We explore a system, read the literature, notice gaps or puzzles, and go back and forth between questions and observations until something clicks.
 
@@ -877,7 +877,7 @@ My role in this process differs depending on where you are. For PhD students, de
 
 Target: file your thesis by the end of your second year. The maximum time allowed by EEMB is 4 years. This is fast, so there is little time to waste. I am more inclined to directly help MS students define or refine a research question than I am with PhD students, given the compressed timeline. Starting research the summer before you matriculate can give you a meaningful head start.
 
-MS students can choose Plan I (thesis, minimum 30 units) or Plan II (comprehensive exam, minimum 36 units). Discuss with Adrian which path makes sense for your goals.
+MS students can choose Plan I (thesis, minimum 30 units) or Plan II (comprehensive exam, minimum 36 units). Discuss with me which path makes sense for your goals.
 
 ## PhD Students
 
@@ -893,11 +893,11 @@ Target: 6 years to completion (EEMB normative time). Key milestones per EEMB req
 
 - **Defense:** Aim to defend in Fall or Spring, not Summer. Faculty are not paid in summer. Many are in the field, and fewer colleagues will be around to help you prepare and celebrate. Note: EEMB allows a public seminar of your dissertation research as an alternative to a traditional oral defense. Discuss with your committee.
 
-- **Beyond normative time:** If you go beyond 6 years, you must take extra steps. At year 7, you must petition the Graduate Committee and Graduate Dean to continue. At year 8, you may need to retake written exams or show currency. The university maximum is 10 years, but the goal is to finish well before that. If you are approaching normative time, talk to Adrian and your committee early about a realistic completion plan.
+- **Beyond normative time:** If you go beyond 6 years, you must take extra steps. At year 7, you must petition the Graduate Committee and Graduate Dean to continue. At year 8, you may need to retake written exams or show currency. The university maximum is 10 years, but the goal is to finish well before that. If you are approaching normative time, talk to me and your committee early about a realistic completion plan.
 
 ## Escalation and Support Within EEMB
 
-If you have questions or concerns beyond what Adrian can address:
+If you have questions or concerns beyond what I can address:
 
 1. **Staff Graduate Advisor (Mengshu Ye):** Administrative and technical questions (timetables, forms, requirements, petitions).
 2. **Faculty Graduate Advisor (Hillary Young):** Academic questions, issues with your studies or your relationship with your major professor.
@@ -920,19 +920,19 @@ The lab uses several structured tools for transparent, consistent mentoring:
 
 ## Mentor/Mentee Agreement
 
-The [UCSB Graduate Division recommends](https://www.graddiv.ucsb.edu/mentoring-students) that faculty and graduate students complete a mentoring agreement to clarify roles, set expectations, and establish how they will communicate and resolve problems. We use this in the Stier Lab. You and Adrian will each fill out the agreement during your first quarter and sign it together. It is revisited and updated at the start of each academic year.
+The [UCSB Graduate Division recommends](https://www.graddiv.ucsb.edu/mentoring-students) that faculty and graduate students complete a mentoring agreement to clarify roles, set expectations, and establish how they will communicate and resolve problems. We use this in the Stier Lab. You and I will each fill out the agreement during your first quarter and sign it together. It is revisited and updated at the start of each academic year.
 
-The agreement is not a contract. It is a structured conversation. Its purpose is to make sure you and Adrian are on the same page about things that often go unspoken — and that cause problems precisely because they were never discussed.
+The agreement is not a contract. It is a structured conversation. Its purpose is to make sure you and I are on the same page about things that often go unspoken — and that cause problems precisely because they were never discussed.
 
 The agreement covers:
 
-- **Goals.** What do you want your professional life to look like in five years? What does Adrian hope to see you achieve? You also set specific goals for the current quarter and year — concrete, revisitable targets that give your meetings focus.
+- **Goals.** What do you want your professional life to look like in five years? What do I hope to see you achieve? You also set specific goals for the current quarter and year — concrete, revisitable targets that give your meetings focus.
 
 - **Expectations.** How do you each expect the mentoring relationship to work? What kinds of support do you need? What balance do you expect between your own independent projects and lab-directed work? How do you expect to work with other faculty?
 
 - **Communication and work style.** How do you prefer to communicate (frequency, mode, formality)? What is your expected work/life balance? Are there periods when you will be less available? How many hours per week do you expect to work? How often will you meet, and where?
 
-- **Responsibilities.** What specific ongoing responsibilities does Adrian commit to? What responsibilities do you take on as a member of the research team?
+- **Responsibilities.** What specific ongoing responsibilities do I commit to? What responsibilities do you take on as a member of the research team?
 
 - **Problem solving.** If problems or conflicts arise with any of the above, how will they be discussed and resolved? Having this conversation before a conflict exists makes it much easier to navigate when one does.
 
@@ -942,7 +942,7 @@ The agreement covers:
 
 The Graduate Division's [mentoring resources page](https://www.graddiv.ucsb.edu/our-services/mentorship-inclusivity) and their [guide to mentor and mentee responsibilities](https://www.graddiv.ucsb.edu/responsibilities-mentors-student) provide additional context. Their guidelines emphasize that mentoring relationships work best when both parties treat themselves as partners, that students should seek multiple mentors (one person cannot meet all your needs), and that either party can seek outside counsel from the Graduate Division, the Ombuds Office, or Title IX if the relationship is not working.
 
-## What Adrian Commits To
+## What I Commit To
 
 - Timely feedback on written work within agreed-upon timelines.
 - Quarterly milestone tracking aligned with your IDP.
@@ -957,21 +957,21 @@ The Graduate Division's [mentoring resources page](https://www.graddiv.ucsb.edu/
 
 ## Giving and Receiving Feedback
 
-Good advising depends on honest, two-way communication. Adrian needs your feedback to be an effective advisor, and you need feedback from Adrian, your committee, and your labmates to grow as a scientist.
+Good advising depends on honest, two-way communication. I need your feedback to be an effective advisor, and you need feedback from me, your committee, and your labmates to grow as a scientist.
 
-**Give feedback to your advisor.** If something in the advising relationship is not working — the pace of feedback, the frequency of meetings, the clarity of expectations, anything — say so. You can raise it directly or through the Graduate Advisor. Adrian cannot fix problems he does not know about, and he would rather hear about a small issue now than a big one later. This is not a one-time conversation. It is an ongoing part of the relationship.
+**Give feedback to your advisor.** If something in the advising relationship is not working — the pace of feedback, the frequency of meetings, the clarity of expectations, anything — say so. You can raise it directly or through the Graduate Advisor. I cannot fix problems I do not know about, and I would rather hear about a small issue now than a big one later. This is not a one-time conversation. It is an ongoing part of the relationship.
 
 **Communicate regularly with your committee.** Your committee exists to support your development, not just to evaluate you at milestones. Do not wait until your annual meeting to reach out. Send brief updates between meetings. If you are stuck on a question that falls within a committee member's expertise, email them. If your research direction is shifting, let them know before the next formal meeting rather than surprising them. Committee members who are kept in the loop give better advice and are stronger advocates for you when it matters — for job references, fellowship letters, and your defense.
 
-**This applies to everyone in the lab.** Whether you are a graduate student, postdoc, lab manager, or undergraduate researcher, you should feel that giving feedback — up, down, and sideways — is a normal and expected part of being in this lab. Adrian is not the only person who benefits from hearing what is and is not working. Labmates mentoring undergraduates, collaborators sharing a project, and TAs working with an instructor all benefit from the same principle: say something early, say it directly, and assume the other person wants to hear it.
+**This applies to everyone in the lab.** Whether you are a graduate student, postdoc, lab manager, or undergraduate researcher, you should feel that giving feedback — up, down, and sideways — is a normal and expected part of being in this lab. I am not the only person who benefits from hearing what is and is not working. Labmates mentoring undergraduates, collaborators sharing a project, and TAs working with an instructor all benefit from the same principle: say something early, say it directly, and assume the other person wants to hear it.
 
 ## Letters of Recommendation
 
-At some point you will need letters from Adrian — for fellowships, jobs, graduate school applications, or awards. Strong letters require planning on both sides.
+At some point you will need letters from me — for fellowships, jobs, graduate school applications, or awards. Strong letters require planning on both sides.
 
-**Give adequate notice.** Ask at least three to four weeks before the deadline. Adrian writes careful, detailed letters, and doing that well takes time. Last-minute requests produce weaker letters.
+**Give adequate notice.** Ask at least three to four weeks before the deadline. I write careful, detailed letters, and doing that well takes time. Last-minute requests produce weaker letters.
 
-**Provide materials.** When you ask for a letter, send Adrian:
+**Provide materials.** When you ask for a letter, send me:
 
 - The opportunity description (job posting, fellowship solicitation, etc.)
 - Your current CV
@@ -979,11 +979,11 @@ At some point you will need letters from Adrian — for fellowships, jobs, gradu
 - Any specific points that would strengthen your application (a connection to the funder's mission, a relevant skill, an experience the reader should know about)
 - The deadline and submission instructions
 
-**Have a conversation.** For important applications (faculty jobs, major fellowships), schedule a brief meeting to talk through your candidacy. This helps Adrian tailor the letter to the specific opportunity and the specific review committee.
+**Have a conversation.** For important applications (faculty jobs, major fellowships), schedule a brief meeting to talk through your candidacy. This helps me tailor the letter to the specific opportunity and the specific review committee.
 
 **Follow up.** If you have not received confirmation that the letter was submitted a few days before the deadline, send a reminder. This is not rude. It is responsible.
 
-**Be honest about fit.** If you are not sure Adrian is the best person to write a particular letter (for example, if you need someone who can speak to your teaching or to a subfield Adrian does not work in), ask. He will tell you honestly whether he is the right choice, and he can suggest alternatives.
+**Be honest about fit.** If you are not sure I am the best person to write a particular letter (for example, if you need someone who can speak to your teaching or to a subfield I do not work in), ask. I will tell you honestly whether I am the right choice, and I can suggest alternatives.
 
 **What makes a strong letter.** The best letters I write are for people who give me concrete things to say. Here is what I am looking for when I sit down to write:
 
@@ -997,7 +997,7 @@ At some point you will need letters from Adrian — for fellowships, jobs, gradu
 
 You do not need all of these to get a strong letter. But the more of them you can demonstrate over the course of your time here, the more specific and compelling the letter will be. Think of this list not as a checklist but as a reminder that a letter of recommendation is a story about who you are as a scientist — and you are writing that story every day through your work.
 
-**Adrian's commitment.** If Adrian agrees to write you a letter, he will write a strong one. He does not write lukewarm letters. If he has concerns about writing a compelling letter for a particular opportunity, he will tell you directly so you can make an informed decision about who to ask.
+**My commitment.** If I agree to write you a letter, I will write a strong one. I do not write lukewarm letters. If I have concerns about writing a compelling letter for a particular opportunity, I will tell you directly so you can make an informed decision about who to ask.
 
 
 ---
@@ -1020,7 +1020,7 @@ Your level of independence will be higher than that of a graduate student. I exp
 
 **Professional development.** Actively build skills you will need as a PI: grant writing, project management, hiring and supervising people, teaching (if relevant to your goals), and navigating the job market. I am happy to help with any of these.
 
-## What Adrian Provides
+## What I Provide
 
 - Regular one-on-one meetings (weekly or biweekly, your preference).
 - Feedback on manuscripts, grant proposals, and job applications.
@@ -1070,7 +1070,7 @@ My default is that the first author serves as both the corresponding author and 
 
 There are exceptions. If you are leaving academia and will not maintain an active email, or if you will be unreachable for an extended period (say, a long field season without internet), we can designate someone else. But the default is that the person who led the work is the person the world contacts about it.
 
-## When Adrian Expects to Be a Co-Author
+## When I Expect to Be a Co-Author
 
 I do not expect to be on every paper that comes out of this lab. I want to be clear about that. If the work is closely tied to one of my grants (using funding I secured, building on questions central to the grant), co-authorship is typical. If your research has grown into something quite distinct from my own program, it does not need to include me. That is fine. I prefer a healthy mentoring relationship over an inflated publication list.
 
@@ -1171,25 +1171,25 @@ A few practical notes:
 - **Write in stages.** A rough draft does not need to be good. It needs to exist. Get something on paper, then improve it. Perfectionism at the drafting stage is the single biggest obstacle to productivity.
 - **Use a reference manager.** Zotero is the lab standard. Insert citations as you write, not after. Retrofitting citations into a finished draft is miserable work.
 - **Write for your reader, not for yourself.** Your methods section should be reproducible. Your results should be interpretable without reading the methods. Your discussion should connect back to the questions you posed in the introduction. This sounds obvious, but most first drafts fail at it.
-- **Circulate drafts to labmates** before giving them to Adrian. Fresh eyes catch things you cannot see. Labmates are also faster than Adrian at turning around feedback on a draft. Use this to your advantage.
+- **Circulate drafts to labmates** before giving them to me. Fresh eyes catch things you cannot see. Labmates are also faster than me at turning around feedback on a draft. Use this to your advantage.
 
 ### Internal Review
 
 Before any manuscript goes to a journal, it goes through internal review:
 
 1. **Labmate feedback.** Share with one or two labmates and incorporate their suggestions.
-2. **Adrian's review.** Give Adrian a clean draft (not a rough first pass). He will return substantive feedback, usually within the timeline you agreed on in your mentoring agreement. If he is slow, remind him.
+2. **My review.** Give me a clean draft (not a rough first pass). I will return substantive feedback, usually within the timeline we agreed on in your mentoring agreement. If I am slow, remind me.
 3. **Committee review.** For dissertation chapters, circulate to your committee and incorporate their feedback before journal submission. This avoids the painful scenario where a committee member raises concerns about published work at your defense.
 4. **Co-author review.** All co-authors must see and approve the final version before submission. No exceptions. This includes the abstract.
 
 ### Choosing a Journal
 
-Pick a journal before you finish writing. The journal's scope and audience should shape how you frame the paper. Consider impact factor, audience, open access options, turnaround time, and cost. Adrian will have opinions. So will your co-authors. Discuss this as a group.
+Pick a journal before you finish writing. The journal's scope and audience should shape how you frame the paper. Consider impact factor, audience, open access options, turnaround time, and cost. I will have opinions. So will your co-authors. Discuss this as a group.
 
 ### Submission and Revision
 
 - **Cover letters matter.** Write a clear, concise cover letter that explains why the paper fits the journal and what makes it significant. Do not just summarize the abstract.
-- **Suggested reviewers.** Most journals ask for suggested reviewers. Choose people who are qualified, do not have conflicts of interest, and are likely to engage constructively with your work. Adrian can help you identify appropriate reviewers.
+- **Suggested reviewers.** Most journals ask for suggested reviewers. Choose people who are qualified, do not have conflicts of interest, and are likely to engage constructively with your work. I can help you identify appropriate reviewers.
 - **Rejection happens.** Most papers are rejected at least once. It stings, but it is normal. Read the reviews carefully, decide what is useful, revise the paper, and resubmit elsewhere. Do not let a rejection sit on your desk for months. Process it, improve the paper, and move on.
 - **Responding to reviewers.** Write a detailed, point-by-point response to every comment. Be respectful and thorough, even when you disagree. When you disagree with a reviewer, explain your reasoning clearly and provide evidence. Never be dismissive.
 - **Turnaround.** Aim to resubmit a revision within 4-8 weeks of receiving reviews. Journals notice when revisions take months, and the editors may send it back out for re-review.
@@ -1215,10 +1215,10 @@ At some point during your graduate career or postdoc, you will be asked to revie
 - You have a conflict of interest
 
 **How we handle reviews in the lab:**
-- If you are a student and want to co-review with Adrian, ask. This is a great learning opportunity. Adrian will submit the review under his name and acknowledge your contribution to the editor.
-- Once you have co-reviewed a few papers, you are ready to review independently. When you accept your first solo review invitation, let Adrian know — it is a milestone worth noting.
+- If you are a student and want to co-review with me, ask. This is a great learning opportunity. I will submit the review under my name and acknowledge your contribution to the editor.
+- Once you have co-reviewed a few papers, you are ready to review independently. When you accept your first solo review invitation, let me know — it is a milestone worth noting.
 - Write reviews you would want to receive: specific, constructive, and focused on improving the science. Identify genuine problems, but do not nitpick for the sake of it. Recommend clearly: accept, minor revision, major revision, or reject. Do not hedge.
-- Keep reviews confidential. Do not share the manuscript or discuss its contents with anyone other than Adrian (if co-reviewing).
+- Keep reviews confidential. Do not share the manuscript or discuss its contents with anyone other than me (if co-reviewing).
 
 ### Responding When Your Work Is Reviewed
 
@@ -1256,7 +1256,7 @@ If a collaborator shares data with you, treat it with respect:
 - **Acknowledge the source** appropriately — through authorship, acknowledgements, or data citations depending on the contribution.
 - **Return the favor.** If you generate data that might be useful to your collaborators, offer to share it.
 
-## When Adrian Should Be Involved
+## When to Loop Me In
 
 You do not need my permission to collaborate with other scientists. I encourage it. But there are a few situations where you should loop me in:
 
@@ -1287,11 +1287,11 @@ Science benefits from diverse perspectives, and a healthy lab climate is everyon
 
 ## What We Do
 
-- **Annual task and opportunity audit:** Adrian regularly reviews task distribution, authorship opportunities, conference invitations, and mentoring loads across the lab to check for patterns of inequity. If imbalances are found, they are discussed openly and corrected.
+- **Annual task and opportunity audit:** I regularly review task distribution, authorship opportunities, conference invitations, and mentoring loads across the lab to check for patterns of inequity. If imbalances are found, they are discussed openly and corrected.
 
 - **Annual anonymous climate survey:** Each year, the lab conducts an anonymous survey to gauge lab climate, workload clarity, sense of belonging, and whether all lab members feel supported. Results are shared with the lab (in aggregate) and used to guide concrete changes.
 
-- **Equitable speaking time:** In lab meetings and group discussions, we actively work to give everyone space to contribute. If you notice that certain voices consistently dominate or are overlooked, say something. Raise it with the person, with Adrian, or in the anonymous survey.
+- **Equitable speaking time:** In lab meetings and group discussions, we actively work to give everyone space to contribute. If you notice that certain voices consistently dominate or are overlooked, say something. Raise it with the person, with me, or in the anonymous survey.
 
 - **Inclusive mentoring:** Graduate students mentoring undergraduates should be mindful of the added barriers that first-generation, low-income, and underrepresented students face. The lab is committed to providing equitable access to research opportunities regardless of a student's ability to volunteer unpaid time.
 
@@ -1299,7 +1299,7 @@ Science benefits from diverse perspectives, and a healthy lab climate is everyon
 
 If you notice inequitable patterns in task assignments, speaking time, credit for ideas, access to resources, or anything else, raise it. You can do so:
 
-- Directly with Adrian
+- Directly with me
 - Through the annual anonymous survey
 - Through the Graduate Advisor (Mengshu Ye) or Faculty Graduate Advisor (Hillary Young)
 - Through UCSB's Office of Equal Opportunity & Discrimination Prevention
@@ -1330,7 +1330,7 @@ The lab actively uses the following AI tools:
 - **Claude / Claude Code:** For code generation, debugging, data analysis assistance, and writing feedback
 - **NotebookLM:** For synthesizing and querying collections of research papers and notes
 - **Research Rabbit:** For literature discovery, citation mapping, and finding related papers
-- **Other tools as they emerge:** AI tools change rapidly. New tools will be adopted as they prove useful. Discuss with Adrian before integrating a new tool into a published workflow.
+- **Other tools as they emerge:** AI tools change rapidly. New tools will be adopted as they prove useful. Discuss with me before integrating a new tool into a published workflow.
 
 ### Permitted Uses
 
@@ -1346,9 +1346,9 @@ The lab actively uses the following AI tools:
 - **Never use unverified AI output as final text or data.** AI-generated text is a starting point or a tool for revision, not a finished product. AI-generated code must be tested and understood before being incorporated into an analysis pipeline.
 - **Cite AI use in publications.** When AI tools contributed to a manuscript (for example, code generation, analysis design, or text revision), disclose this in the Methods or Acknowledgements section following the journal's guidelines. Many journals now have explicit AI disclosure requirements.
 - **Understand your code.** If AI generates analysis code for you, you must understand what every line does. You are responsible for the correctness of your analysis, not the AI.
-- **Do not input unpublished data into public AI tools without permission.** Some AI tools (particularly web-based ones) retain or train on user inputs. Do not paste unpublished data, manuscripts in preparation, or grant proposals into tools unless you are confident about their data handling policies. When in doubt, use local/private instances or ask Adrian.
+- **Do not input unpublished data into public AI tools without permission.** Some AI tools (particularly web-based ones) retain or train on user inputs. Do not paste unpublished data, manuscripts in preparation, or grant proposals into tools unless you are confident about their data handling policies. When in doubt, use local/private instances or ask me.
 - **Coursework rules are separate.** For courses you are taking or TAing, follow the instructor's AI policy. It is often more restrictive than this lab policy. When in doubt, ask the instructor.
-- **Theses and dissertations.** Your thesis or dissertation is your scholarly work. AI tools can help with revision, code, and analysis (following the requirements above), but the ideas, arguments, and writing must be substantively yours. The Graduate Division's current guidance treats theses and dissertations like other academic work — unauthorized AI use constitutes academic dishonesty. If you use AI tools in your thesis work, disclose it and discuss the scope with Adrian.
+- **Theses and dissertations.** Your thesis or dissertation is your scholarly work. AI tools can help with revision, code, and analysis (following the requirements above), but the ideas, arguments, and writing must be substantively yours. The Graduate Division's current guidance treats theses and dissertations like other academic work — unauthorized AI use constitutes academic dishonesty. If you use AI tools in your thesis work, disclose it and discuss the scope with me.
 
 ### What AI Cannot Replace
 
@@ -1360,7 +1360,7 @@ The lab actively uses the following AI tools:
 
 ### Staying Current
 
-AI capabilities and university policies are evolving rapidly. This policy will be reviewed and updated annually. If you encounter a situation not covered here, ask Adrian.
+AI capabilities and university policies are evolving rapidly. This policy will be reviewed and updated annually. If you encounter a situation not covered here, ask me.
 
 
 ---
@@ -1381,9 +1381,9 @@ Burnout builds gradually. By the time you recognize it, it has usually been deve
 - **Cynicism:** Losing the sense of purpose or meaning in your research. Feeling resentful about tasks you used to find engaging. Distancing yourself from your work and your labmates.
 - **Inefficacy:** A sense that nothing you do matters or is good enough. Declining confidence in your ability to succeed.
 
-Other warning signs include persistent procrastination, withdrawing from lab activities or social interactions, difficulty concentrating, chronic fatigue, making more frequent mistakes, and avoiding meetings with your advisor. If several of these feel familiar, please talk to someone — Adrian, a labmate, CAPS, or any of the resources below.
+Other warning signs include persistent procrastination, withdrawing from lab activities or social interactions, difficulty concentrating, chronic fatigue, making more frequent mistakes, and avoiding meetings with your advisor. If several of these feel familiar, please talk to someone — me, a labmate, CAPS, or any of the resources below.
 
-## What Adrian Commits To
+## What I Commit To
 
 - I care about you as a whole person, not just your research output. If you are struggling, I want to know — not to judge, but to help.
 - I will not hold it against you if you need time away for your mental health. Treat it the same as physical illness: let me know, take the time you need, and we will figure out the rest.
@@ -1460,7 +1460,7 @@ UCSB has specific procedures for booking, advances, and reimbursement. These app
 
 ## Before You Travel
 
-All university travel requires pre-trip approval. Get written authorization from Adrian (or the appropriate PI for the funding source) before making any arrangements. The approval should include the purpose, dates, destination, estimated cost, and the funding source (FRU/project number) that will be charged. Travelers who fail to obtain prior authorization may be personally liable for expenses.
+All university travel requires pre-trip approval. Get written authorization from me (or the appropriate PI for the funding source) before making any arrangements. The approval should include the purpose, dates, destination, estimated cost, and the funding source (FRU/project number) that will be charged. Travelers who fail to obtain prior authorization may be personally liable for expenses.
 
 For grant-funded travel, check whether the sponsor has specific approval requirements. Federal grants often require prior written approval for foreign travel.
 
@@ -1541,7 +1541,7 @@ Coverage includes emergency medical evacuation, out-of-country medical care, sec
 
 ## When to Start
 
-Begin the offboarding process 2-3 months before your departure date. Some of these steps take time, and rushing them at the end leads to things falling through the cracks. Use the checklist below as a guide, and check items off with Adrian and Molly as you go.
+Begin the offboarding process 2-3 months before your departure date. Some of these steps take time, and rushing them at the end leads to things falling through the cracks. Use the checklist below as a guide, and check items off with me and Molly as you go.
 
 ## Offboarding Checklist
 
@@ -1563,7 +1563,7 @@ Begin the offboarding process 2-3 months before your departure date. Some of the
 
 ## Manuscripts in Progress
 
-If you have manuscripts in progress when you leave, discuss the timeline and plan with Adrian before your departure. Agree on:
+If you have manuscripts in progress when you leave, discuss the timeline and plan with me before your departure. Agree on:
 
 - Who is responsible for what revisions and by when.
 - Whether co-authors still in the lab will handle revisions during peer review.
@@ -1573,17 +1573,17 @@ The lab's general expectation is that you publish your own work within a couple 
 
 ## Exit Conversation
 
-Before you leave, schedule a final meeting with Adrian to discuss:
+Before you leave, schedule a final meeting with me to discuss:
 
 - How the mentoring and advising relationship worked for you — what helped, what could have been better.
 - Any feedback on the lab that might benefit current and future students.
-- Your plans and how Adrian can support your next steps (letters of recommendation, introductions, ongoing collaborations).
+- Your plans and how I can support your next steps (letters of recommendation, introductions, ongoing collaborations).
 
 This conversation is valuable in both directions. Honest feedback from departing lab members has shaped many of the policies in this manual.
 
 ## Update Your Contact Information
 
-Keep your contact information current so Adrian can reach you for reference letters, questions about your data, and collaboration opportunities. Update your mailing address, personal email, and phone number before you go.
+Keep your contact information current so I can reach you for reference letters, questions about your data, and collaboration opportunities. Update your mailing address, personal email, and phone number before you go.
 
 ## Staying Connected
 
@@ -1639,7 +1639,7 @@ Under UC's Presidential Open Access Policy, graduate students can deposit publis
 
 ## Suggestions?
 
-If you have comments, questions, or items that belong in this document or any other lab document, please let Adrian or Molly (lab manager) know. This manual is a living document. It improves when people flag what is missing or unclear.
+If you have comments, questions, or items that belong in this document or any other lab document, please let me or Molly (lab manager) know. This manual is a living document. It improves when people flag what is missing or unclear.
 
 
 ---
@@ -1654,17 +1654,17 @@ Much of the Stier Lab's research takes place on the island of Mo'orea in French 
 
 We are based at the UC Berkeley Richard B. Gump South Pacific Research Station, located on Cook's Bay, Mo'orea. The station provides:
 
-- **Housing:** On-station housing is available for researchers. Coordinate with Adrian and the station manager well in advance, as space fills up during peak season.
-- **Lab space:** Wet and dry lab facilities are available at the station. Discuss your specific needs with Adrian before arriving so space and equipment can be arranged.
+- **Housing:** On-station housing is available for researchers. Coordinate with me and the station manager well in advance, as space fills up during peak season.
+- **Lab space:** Wet and dry lab facilities are available at the station. Discuss your specific needs with me before arriving so space and equipment can be arranged.
 - **Meals:** Meals are self-cooked. There is a shared kitchen at the station, and grocery stores are accessible on the island. Budget and plan accordingly.
 
 ## Timing and Duration
 
-A typical field season runs about 3 months during the summer, often starting in May. Not every student goes every year. Timing depends on your research stage and project needs. Discuss field season plans with Adrian well before the start of the calendar year so that travel, permits, and funding can be arranged.
+A typical field season runs about 3 months during the summer, often starting in May. Not every student goes every year. Timing depends on your research stage and project needs. Discuss field season plans with me well before the start of the calendar year so that travel, permits, and funding can be arranged.
 
 ## Travel and Funding
 
-Mo'orea trips are typically funded through Adrian's grants. Book all travel through Connexxus (UCSB's travel booking portal). For international travel, you must also register at [UC Away](https://www.ucop.edu/risk-services-travel/registering.html) for UC travel insurance coverage.
+Mo'orea trips are typically funded through my grants. Book all travel through Connexxus (UCSB's travel booking portal). For international travel, you must also register at [UC Away](https://www.ucop.edu/risk-services-travel/registering.html) for UC travel insurance coverage.
 
 Start the booking and paperwork process early. International travel through university systems takes longer than you expect.
 
@@ -1677,14 +1677,14 @@ Research in French Polynesia requires permits. These are one of the least exciti
 - **Declaration APA:** All biodiversity sampling requires filing a declaration with DIREN (Direction de l'Environnement) under the Nagoya Protocol on Access and Benefit Sharing. This is mandatory.
 - **Fisheries permits:** Collection of marine animals, especially using SCUBA, requires permits from the French Polynesian fisheries department.
 - **Housing reservations:** Book housing at the Gump Station through the UC Natural Reserve System (UCNRS) reservation system at [RAMS](https://rams.ucnrs.org/). Submit your application at least 2 months before your first visit to allow time for immigration paperwork.
-- **General advice:** Start the permit process as early as possible and keep Adrian informed of your progress. Build in extra time for delays, especially if this is your first trip.
+- **General advice:** Start the permit process as early as possible and keep me informed of your progress. Build in extra time for delays, especially if this is your first trip.
 
 ## Equipment and Shipping
 
-- **Large equipment** is typically shipped to the station in advance. Work with Adrian and Molly Brzezinski (lab manager) on shipping logistics, customs requirements, and timing.
+- **Large equipment** is typically shipped to the station in advance. Work with me and Molly Brzezinski (lab manager) on shipping logistics, customs requirements, and timing.
 - **Smaller gear and personal equipment** is often brought in duffel bags. Pack thoughtfully. Replacement parts and specialty items are not easy to find on the island.
 - We maintain shared equipment at the Gump Station, including field supplies (transect tapes, zip-locks, vials), lab equipment (balances, microscopes), and dive gear. These are available to all lab members working in Mo'orea. Replace items as they are used, lost, or destroyed. Please help maintain a current inventory.
-- Make an equipment list and review it with Adrian and experienced lab members before your first trip.
+- Make an equipment list and review it with me and experienced lab members before your first trip.
 
 ## Being a Guest in Mo'orea
 
@@ -1753,7 +1753,7 @@ Visit a travel medicine clinic at least 4-6 weeks before departure. Mo'orea has 
 
 **Logistics:**
 - Flights booked through Connexxus
-- Equipment list reviewed with Adrian and experienced lab members
+- Equipment list reviewed with me and experienced lab members
 - Shipping arranged for large equipment (coordinate with Molly Brzezinski)
 - Local SIM card or eSIM plan selected
 - Copies of passport, permits, and insurance stored digitally and with a labmate at home
@@ -1766,7 +1766,7 @@ Visit a travel medicine clinic at least 4-6 weeks before departure. Mo'orea has 
 
 ## Safety
 
-General lab and field safety protocols apply (see the Safety section). Mo'orea-specific hazards are covered below. All first-time travelers will attend a pre-departure safety briefing with Adrian and experienced lab members.
+General lab and field safety protocols apply (see the Safety section). Mo'orea-specific hazards are covered below. All first-time travelers will attend a pre-departure safety briefing with me and experienced lab members.
 
 ### Medical Facilities
 
@@ -1889,11 +1889,11 @@ Some guidance:
 
 If a reporter contacts you about your work, great. A few things to know:
 
-- **You can say yes.** You do not need permission from Adrian or UCSB to talk to a reporter, though giving Adrian a heads-up is appreciated.
+- **You can say yes.** You do not need my permission or UCSB's to talk to a reporter, though giving me a heads-up is appreciated.
 - **You can ask for questions in advance.** Most reporters will share their questions or topic beforehand if you ask.
 - **You can review quotes.** It is reasonable to ask to see your quotes before publication. Not all reporters will agree, but many will.
 - **UCSB Public Affairs** can help. If a media request feels big or sensitive, the UCSB Office of Public Affairs and Communication can provide media training and help you prepare. They are at [news.ucsb.edu](https://news.ucsb.edu/).
-- **Talk to Adrian** if a media inquiry involves anything politically sensitive, controversial, or related to a grant funder. Not because you need permission, but because it helps to think through framing together.
+- **Talk to me** if a media inquiry involves anything politically sensitive, controversial, or related to a grant funder. Not because you need permission, but because it helps to think through framing together.
 
 ## Outreach and Broader Impacts
 
@@ -1912,7 +1912,7 @@ If outreach is important to you, include it in your IDP and we will make space f
 
 # Welcome to the Stier Lab and UCSB!
 
-We are excited to welcome you to our community. We want your transition into the research group to go smoothly. This checklist and the activities below will help you get started in your first quarter. Ask Adrian any questions you have!
+We are excited to welcome you to our community. We want your transition into the research group to go smoothly. This checklist and the activities below will help you get started in your first quarter. Ask me any questions you have!
 
 ---
 
@@ -1920,7 +1920,7 @@ We are excited to welcome you to our community. We want your transition into the
 
 ### Slack (Primary Communication)
 
-Slack is Adrian's primary communication tool and the fastest way to reach him. The lab uses it for day-to-day communication, quick questions, coordination, and sharing updates. It is available as a web platform, desktop app, and phone app.
+Slack is my primary communication tool and the fastest way to reach me. The lab uses it for day-to-day communication, quick questions, coordination, and sharing updates. It is available as a web platform, desktop app, and phone app.
 
 - Download at [slack.com](https://www.slack.com)
 - Request access to the Stier Lab workspace: **stierlab.slack.com**
@@ -1928,7 +1928,7 @@ Slack is Adrian's primary communication tool and the fastest way to reach him. T
 
 ### Email & Google Calendar
 
-Email works well for longer-form communication and anything that needs a paper trail. Be aware that emails can get lost in Adrian's inbox. If something is time-sensitive and you have not heard back, follow up on Slack.
+Email works well for longer-form communication and anything that needs a paper trail. Be aware that emails can get lost in my inbox. If something is time-sensitive and you have not heard back, follow up on Slack.
 
 Once you have your UCSB email and Connect account:
 
@@ -1953,7 +1953,7 @@ UCSB provides unlimited Box cloud storage. This is your best option for large fi
 Our preferred citation manager.
 
 - Create an account at [zotero.org](https://www.zotero.org/)
-- Send your username to Adrian or a labmate, and we'll invite you to the lab's shared citation groups
+- Send your username to me or a labmate, and we'll invite you to the lab's shared citation groups
 - You can also create personal libraries and share them with collaborators
 
 ### VPN (Ivanti Secure Access)
@@ -1981,7 +1981,7 @@ Once you're connected to the Stier Lab shared folder, familiarize yourself with 
 
 ## Keys and Building Access
 
-- **Noble Hall, Bio2 keys:** Pick up from Kurt Bellefeuille in the Bio Storeroom (Bldg 569, Rm 1101). Andi Jorgensen or Adrian can submit the key request form on the UCSB website on your behalf. Allow at least 24 hours before pickup.
+- **Noble Hall, Bio2 keys:** Pick up from Kurt Bellefeuille in the Bio Storeroom (Bldg 569, Rm 1101). Andi Jorgensen or I can submit the key request form on the UCSB website on your behalf. Allow at least 24 hours before pickup.
 - **Digital access (ID card):** Email Andi Jorgensen (amjorgen@ucsb.edu) with your UCSB ID number and which buildings you need access to (MSRB, LSB, Bio 2).
 - **The Point / boatyard / aquarium:** Coordinate with Christoph Pierre (pierre@lifesci.ucsb.edu) for keys and access codes.
 
@@ -2008,7 +2008,7 @@ Complete these as soon as possible. See the Required Trainings section of the La
 - [ ] Fundamentals of Laboratory Safety
 - [ ] UC Preventing Harassment & Discrimination
 - [ ] Gateway 101 (if you will be ordering supplies)
-- [ ] LHAT Group training (have Adrian add you to the Stier Lab LHAT Group)
+- [ ] LHAT Group training (I will add you to the Stier Lab LHAT Group)
 - [ ] IACUC training (if your research involves animals, start early because this takes time)
 
 ---
@@ -2021,7 +2021,7 @@ Get your ID at the information desk at the University Center. Have your Perm num
 
 ## Individual Development Plan (IDP)
 
-All lab members complete and review an IDP each year. The IDP sets milestones, tracks progress, and gives structure to conversations about your professional development with Adrian.
+All lab members complete and review an IDP each year. The IDP sets milestones, tracks progress, and gives structure to conversations about your professional development with me.
 
 ### Getting Started
 
@@ -2035,7 +2035,7 @@ Save your results for future comparison.
 
 ### Self-Assessment Questions
 
-Use the information from these assessments to reflect on the following. These are starting points for your IDP conversations with Adrian, not a to-do list. Your answers will change as your circumstances evolve.
+Use the information from these assessments to reflect on the following. These are starting points for your IDP conversations with me, not a to-do list. Your answers will change as your circumstances evolve.
 
 **Strengths and growth areas:**
 - What are your biggest strengths coming into this position? (List at least 3)
@@ -2094,8 +2094,8 @@ Track your goals using a simple table:
 - [ ] Get keys and building access set up
 - [ ] Connect to WiFi, Ethernet, Slack, Google Drive, and Zotero
 - [ ] Read the Lab Manual, Working Agreement, and SCUBA Manual
-- [ ] Complete your first IDP draft and schedule an initial meeting with Adrian
-- [ ] Complete the Mentor/Mentee Agreement with Adrian (see the Mentoring and Advising Structure section)
+- [ ] Complete your first IDP draft and schedule an initial meeting with me
+- [ ] Complete the Mentor/Mentee Agreement with me (see the Mentoring and Advising Structure section)
 - [ ] Review and sign the Lab Working Agreement at the first lab meeting of the year
 - [ ] Set up at least two backup locations for your research data (see Data Management section)
 - [ ] Meet the people in the Valuable Contacts section, especially Andi Jorgensen, Mengshu Ye, and the marine operations staff if you'll be doing fieldwork

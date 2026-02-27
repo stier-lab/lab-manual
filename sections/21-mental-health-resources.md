@@ -14,9 +14,9 @@ Burnout builds gradually. By the time you recognize it, it has usually been deve
 - **Cynicism:** Losing the sense of purpose or meaning in your research. Feeling resentful about tasks you used to find engaging. Distancing yourself from your work and your labmates.
 - **Inefficacy:** A sense that nothing you do matters or is good enough. Declining confidence in your ability to succeed.
 
-Other warning signs include persistent procrastination, withdrawing from lab activities or social interactions, difficulty concentrating, chronic fatigue, making more frequent mistakes, and avoiding meetings with your advisor. If several of these feel familiar, please talk to someone — Adrian, a labmate, CAPS, or any of the resources below.
+Other warning signs include persistent procrastination, withdrawing from lab activities or social interactions, difficulty concentrating, chronic fatigue, making more frequent mistakes, and avoiding meetings with your advisor. If several of these feel familiar, please talk to someone — me, a labmate, CAPS, or any of the resources below.
 
-## What Adrian Commits To
+## What I Commit To
 
 - I care about you as a whole person, not just your research output. If you are struggling, I want to know — not to judge, but to help.
 - I will not hold it against you if you need time away for your mental health. Treat it the same as physical illness: let me know, take the time you need, and we will figure out the rest.

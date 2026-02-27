@@ -4,7 +4,7 @@ UCSB has specific procedures for booking, advances, and reimbursement. These app
 
 ## Before You Travel
 
-All university travel requires pre-trip approval. Get written authorization from Adrian (or the appropriate PI for the funding source) before making any arrangements. The approval should include the purpose, dates, destination, estimated cost, and the funding source (FRU/project number) that will be charged. Travelers who fail to obtain prior authorization may be personally liable for expenses.
+All university travel requires pre-trip approval. Get written authorization from me (or the appropriate PI for the funding source) before making any arrangements. The approval should include the purpose, dates, destination, estimated cost, and the funding source (FRU/project number) that will be charged. Travelers who fail to obtain prior authorization may be personally liable for expenses.
 
 For grant-funded travel, check whether the sponsor has specific approval requirements. Federal grants often require prior written approval for foreign travel.
 

@@ -27,7 +27,7 @@ If a collaborator shares data with you, treat it with respect:
 - **Acknowledge the source** appropriately — through authorship, acknowledgements, or data citations depending on the contribution.
 - **Return the favor.** If you generate data that might be useful to your collaborators, offer to share it.
 
-## When Adrian Should Be Involved
+## When to Loop Me In
 
 You do not need my permission to collaborate with other scientists. I encourage it. But there are a few situations where you should loop me in:
 

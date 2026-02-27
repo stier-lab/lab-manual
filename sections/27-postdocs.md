@@ -16,7 +16,7 @@ Your level of independence will be higher than that of a graduate student. I exp
 
 **Professional development.** Actively build skills you will need as a PI: grant writing, project management, hiring and supervising people, teaching (if relevant to your goals), and navigating the job market. I am happy to help with any of these.
 
-## What Adrian Provides
+## What I Provide
 
 - Regular one-on-one meetings (weekly or biweekly, your preference).
 - Feedback on manuscripts, grant proposals, and job applications.

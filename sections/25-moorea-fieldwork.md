@@ -8,17 +8,17 @@ Much of the Stier Lab's research takes place on the island of Mo'orea in French 
 
 We are based at the UC Berkeley Richard B. Gump South Pacific Research Station, located on Cook's Bay, Mo'orea. The station provides:
 
-- **Housing:** On-station housing is available for researchers. Coordinate with Adrian and the station manager well in advance, as space fills up during peak season.
-- **Lab space:** Wet and dry lab facilities are available at the station. Discuss your specific needs with Adrian before arriving so space and equipment can be arranged.
+- **Housing:** On-station housing is available for researchers. Coordinate with me and the station manager well in advance, as space fills up during peak season.
+- **Lab space:** Wet and dry lab facilities are available at the station. Discuss your specific needs with me before arriving so space and equipment can be arranged.
 - **Meals:** Meals are self-cooked. There is a shared kitchen at the station, and grocery stores are accessible on the island. Budget and plan accordingly.
 
 ## Timing and Duration
 
-A typical field season runs about 3 months during the summer, often starting in May. Not every student goes every year. Timing depends on your research stage and project needs. Discuss field season plans with Adrian well before the start of the calendar year so that travel, permits, and funding can be arranged.
+A typical field season runs about 3 months during the summer, often starting in May. Not every student goes every year. Timing depends on your research stage and project needs. Discuss field season plans with me well before the start of the calendar year so that travel, permits, and funding can be arranged.
 
 ## Travel and Funding
 
-Mo'orea trips are typically funded through Adrian's grants. Book all travel through Connexxus (UCSB's travel booking portal). For international travel, you must also register at [UC Away](https://www.ucop.edu/risk-services-travel/registering.html) for UC travel insurance coverage.
+Mo'orea trips are typically funded through my grants. Book all travel through Connexxus (UCSB's travel booking portal). For international travel, you must also register at [UC Away](https://www.ucop.edu/risk-services-travel/registering.html) for UC travel insurance coverage.
 
 Start the booking and paperwork process early. International travel through university systems takes longer than you expect.
 
@@ -31,14 +31,14 @@ Research in French Polynesia requires permits. These are one of the least exciti
 - **Declaration APA:** All biodiversity sampling requires filing a declaration with DIREN (Direction de l'Environnement) under the Nagoya Protocol on Access and Benefit Sharing. This is mandatory.
 - **Fisheries permits:** Collection of marine animals, especially using SCUBA, requires permits from the French Polynesian fisheries department.
 - **Housing reservations:** Book housing at the Gump Station through the UC Natural Reserve System (UCNRS) reservation system at [RAMS](https://rams.ucnrs.org/). Submit your application at least 2 months before your first visit to allow time for immigration paperwork.
-- **General advice:** Start the permit process as early as possible and keep Adrian informed of your progress. Build in extra time for delays, especially if this is your first trip.
+- **General advice:** Start the permit process as early as possible and keep me informed of your progress. Build in extra time for delays, especially if this is your first trip.
 
 ## Equipment and Shipping
 
-- **Large equipment** is typically shipped to the station in advance. Work with Adrian and Molly Brzezinski (lab manager) on shipping logistics, customs requirements, and timing.
+- **Large equipment** is typically shipped to the station in advance. Work with me and Molly Brzezinski (lab manager) on shipping logistics, customs requirements, and timing.
 - **Smaller gear and personal equipment** is often brought in duffel bags. Pack thoughtfully. Replacement parts and specialty items are not easy to find on the island.
 - We maintain shared equipment at the Gump Station, including field supplies (transect tapes, zip-locks, vials), lab equipment (balances, microscopes), and dive gear. These are available to all lab members working in Mo'orea. Replace items as they are used, lost, or destroyed. Please help maintain a current inventory.
-- Make an equipment list and review it with Adrian and experienced lab members before your first trip.
+- Make an equipment list and review it with me and experienced lab members before your first trip.
 
 ## Being a Guest in Mo'orea
 
@@ -107,7 +107,7 @@ Visit a travel medicine clinic at least 4-6 weeks before departure. Mo'orea has 
 
 **Logistics:**
 - Flights booked through Connexxus
-- Equipment list reviewed with Adrian and experienced lab members
+- Equipment list reviewed with me and experienced lab members
 - Shipping arranged for large equipment (coordinate with Molly Brzezinski)
 - Local SIM card or eSIM plan selected
 - Copies of passport, permits, and insurance stored digitally and with a labmate at home
@@ -120,7 +120,7 @@ Visit a travel medicine clinic at least 4-6 weeks before departure. Mo'orea has 
 
 ## Safety
 
-General lab and field safety protocols apply (see the Safety section). Mo'orea-specific hazards are covered below. All first-time travelers will attend a pre-departure safety briefing with Adrian and experienced lab members.
+General lab and field safety protocols apply (see the Safety section). Mo'orea-specific hazards are covered below. All first-time travelers will attend a pre-departure safety briefing with me and experienced lab members.
 
 ### Medical Facilities
 

@@ -24,7 +24,7 @@ My default is that the first author serves as both the corresponding author and 
 
 There are exceptions. If you are leaving academia and will not maintain an active email, or if you will be unreachable for an extended period (say, a long field season without internet), we can designate someone else. But the default is that the person who led the work is the person the world contacts about it.
 
-## When Adrian Expects to Be a Co-Author
+## When I Expect to Be a Co-Author
 
 I do not expect to be on every paper that comes out of this lab. I want to be clear about that. If the work is closely tied to one of my grants (using funding I secured, building on questions central to the grant), co-authorship is typical. If your research has grown into something quite distinct from my own program, it does not need to include me. That is fine. I prefer a healthy mentoring relationship over an inflated publication list.
 

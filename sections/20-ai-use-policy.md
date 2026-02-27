@@ -19,7 +19,7 @@ The lab actively uses the following AI tools:
 - **Claude / Claude Code:** For code generation, debugging, data analysis assistance, and writing feedback
 - **NotebookLM:** For synthesizing and querying collections of research papers and notes
 - **Research Rabbit:** For literature discovery, citation mapping, and finding related papers
-- **Other tools as they emerge:** AI tools change rapidly. New tools will be adopted as they prove useful. Discuss with Adrian before integrating a new tool into a published workflow.
+- **Other tools as they emerge:** AI tools change rapidly. New tools will be adopted as they prove useful. Discuss with me before integrating a new tool into a published workflow.
 
 ### Permitted Uses
 
@@ -35,9 +35,9 @@ The lab actively uses the following AI tools:
 - **Never use unverified AI output as final text or data.** AI-generated text is a starting point or a tool for revision, not a finished product. AI-generated code must be tested and understood before being incorporated into an analysis pipeline.
 - **Cite AI use in publications.** When AI tools contributed to a manuscript (for example, code generation, analysis design, or text revision), disclose this in the Methods or Acknowledgements section following the journal's guidelines. Many journals now have explicit AI disclosure requirements.
 - **Understand your code.** If AI generates analysis code for you, you must understand what every line does. You are responsible for the correctness of your analysis, not the AI.
-- **Do not input unpublished data into public AI tools without permission.** Some AI tools (particularly web-based ones) retain or train on user inputs. Do not paste unpublished data, manuscripts in preparation, or grant proposals into tools unless you are confident about their data handling policies. When in doubt, use local/private instances or ask Adrian.
+- **Do not input unpublished data into public AI tools without permission.** Some AI tools (particularly web-based ones) retain or train on user inputs. Do not paste unpublished data, manuscripts in preparation, or grant proposals into tools unless you are confident about their data handling policies. When in doubt, use local/private instances or ask me.
 - **Coursework rules are separate.** For courses you are taking or TAing, follow the instructor's AI policy. It is often more restrictive than this lab policy. When in doubt, ask the instructor.
-- **Theses and dissertations.** Your thesis or dissertation is your scholarly work. AI tools can help with revision, code, and analysis (following the requirements above), but the ideas, arguments, and writing must be substantively yours. The Graduate Division's current guidance treats theses and dissertations like other academic work — unauthorized AI use constitutes academic dishonesty. If you use AI tools in your thesis work, disclose it and discuss the scope with Adrian.
+- **Theses and dissertations.** Your thesis or dissertation is your scholarly work. AI tools can help with revision, code, and analysis (following the requirements above), but the ideas, arguments, and writing must be substantively yours. The Graduate Division's current guidance treats theses and dissertations like other academic work — unauthorized AI use constitutes academic dishonesty. If you use AI tools in your thesis work, disclose it and discuss the scope with me.
 
 ### What AI Cannot Replace
 
@@ -49,4 +49,4 @@ The lab actively uses the following AI tools:
 
 ### Staying Current
 
-AI capabilities and university policies are evolving rapidly. This policy will be reviewed and updated annually. If you encounter a situation not covered here, ask Adrian.
+AI capabilities and university policies are evolving rapidly. This policy will be reviewed and updated annually. If you encounter a situation not covered here, ask me.
