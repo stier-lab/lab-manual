@@ -19,13 +19,13 @@ Some common formats:
 - **Brainstorming sessions.** Got a half-formed idea for a new project or collaboration? Bring it. The group is good at pressure-testing ideas and finding angles you have not considered.
 - **Visitors.** When a job candidate or seminar speaker visits, we sometimes use lab meeting for an informal conversation with them.
 
-- **Lab values check-in.** Periodically, we use lab meeting to check in on how we are doing as a group. Are people feeling supported? Is the workload distribution fair? Is anything brewing that we should address? These conversations are not about airing grievances. They are about maintaining the culture we want before small problems become big ones.
+- **Lab values check-in.** Periodically, we use lab meeting to check in on how we are doing as a group — what is working well, what could be better, and whether anything needs attention.
 
 There is no single "right" way to lead a lab meeting. Some people use slides. Some draw on the whiteboard. Some just talk. The only requirement is that you come prepared and give the rest of us enough context to be useful.
 
 ## Attendance
 
-Lab meeting attendance is expected for all graduate students and postdocs. If you have a genuine conflict (a TA section, a medical appointment, fieldwork), that is fine. Just let us know. But treat it as a real commitment, not an optional event.
+Lab meeting attendance is expected for all graduate students and postdocs. If you have a conflict (a TA section, a medical appointment, fieldwork), that is fine. Just let us know. But treat it as a real commitment, not an optional event.
 
 Undergraduates are welcome and encouraged to attend, even if you are just observing. You will learn a lot about how scientific thinking works by watching people wrestle with ideas in real time.
 

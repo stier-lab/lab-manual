@@ -41,7 +41,7 @@ I think it matters that people in the lab actually enjoy spending time together.
 
 ### Seminars
 
-Attend EEMB seminars, thesis defenses, and other departmental talks when your schedule allows. Even more valuable: talk about what you heard with labmates afterward. This is how you build intellectual breadth and stay connected to the wider scientific community. I consider it one of the most valuable parts of being at a research university. I notice when people take advantage of it.
+Attend EEMB seminars, thesis defenses, and other departmental talks when your schedule allows. See the Lab Meetings section for more on departmental seminars.
 
 ## Photos, Videos, and Media
 

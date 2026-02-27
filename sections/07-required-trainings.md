@@ -9,7 +9,7 @@ You must complete several trainings before you can get to work. It feels like a 
 **Step 2:** Complete the following trainings:
 
 - Cyber Security Awareness Training
-- Fundamentals of Laboratory Safety (grad students: in-person during orientation, post-docs/undergrads: online LS60, technicians: live or online)
+- Fundamentals of Laboratory Safety (grad students: in-person during orientation, postdocs/undergrads: online LS60, technicians: live or online)
 - UC Preventing Harassment & Discrimination (formerly UC Sexual Harassment Training)
 - Gateway 101 (only if you will be ordering supplies)
 

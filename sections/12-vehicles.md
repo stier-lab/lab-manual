@@ -33,7 +33,7 @@ Keep the truck clean. Remove trash, personal gear, and field equipment after eac
 
 ### Maintenance
 
-Contact Molly Brzezinski (lab manager) for issues. If she is unavailable, contact Doug Hatt at the UCSB garage (805-893-3692). Before taking the truck on a long trip, check fluid levels, tire pressure, and general condition. Report any problems immediately -- do not leave them for the next person to discover. Update the Truck Maintenance Log on Google Drive after any service.
+Contact Molly Brzezinski (lab manager) for issues. If she is unavailable, contact Doug Hatt at the UCSB garage ((805) 893-3692). Before taking the truck on a long trip, check fluid levels, tire pressure, and general condition. Report any problems immediately -- do not leave them for the next person to discover. Update the Truck Maintenance Log on Google Drive after any service.
 
 ## University Vehicle Policies
 
@@ -46,4 +46,4 @@ A few additional rules apply to all university vehicles under BUS-46:
 
 ## UCSB Vehicle Rentals
 
-Rentals are available for university business through TPS (805-893-2924). They offer sedans and larger vehicles, but these cannot be used for towing. Charges go to a university account.
+Rentals are available for university business through TPS ((805) 893-2924). They offer sedans and larger vehicles, but these cannot be used for towing. Charges go to a university account.

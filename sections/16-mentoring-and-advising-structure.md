@@ -8,7 +8,7 @@ The lab uses several structured tools for transparent, consistent mentoring:
 
 - **Individual Development Plans (IDPs):** Annual review with quarterly check-ins. Covers research milestones, skills development, and career planning.
 
-- **Annual meetings with Graduate Advisor:** All students meet with the Graduate Advisor (currently Mengshu Ye) yearly (for at least the first two years) to provide feedback on mentorship. Adrian also meets with the Graduate Advisor to address any concerns.
+- **Annual meetings with Graduate Advisor:** All students meet with the Graduate Advisor (currently Mengshu Ye) yearly (for at least the first two years) to provide feedback on mentorship.
 
 ## Mentor/Mentee Agreement
 
@@ -38,10 +38,7 @@ The Graduate Division's [mentoring resources page](https://www.graddiv.ucsb.edu/
 
 - Timely feedback on written work within agreed-upon timelines.
 - Quarterly milestone tracking aligned with your IDP.
-- Documented meeting summaries shared after each advising meeting, ending with a clear list of agreed-upon goals and next steps so we leave on the same page.
-- Written role descriptions for GSR/TA responsibilities each quarter, including clear separation of paid vs. voluntary tasks.
-- A written description of how student accomplishments support recommendation letters, provided at the start of the advising relationship.
-- Monthly updates to the Department Chair and Graduate Advisor (Mengshu Ye) on lab climate and student progress.
+- Meeting summaries with agreed-upon goals and next steps after advising meetings.
 
 ## What Students Commit To
 
@@ -54,7 +51,7 @@ The Graduate Division's [mentoring resources page](https://www.graddiv.ucsb.edu/
 
 Good advising depends on honest, two-way communication. Adrian needs your feedback to be an effective advisor, and you need feedback from Adrian, your committee, and your labmates to grow as a scientist.
 
-**Give feedback to your advisor.** If something in the advising relationship is not working — the pace of feedback, the frequency of meetings, the clarity of expectations, anything — say so. You can raise it directly, through the annual anonymous survey, or through the Graduate Advisor. Adrian cannot fix problems he does not know about, and he would rather hear about a small issue now than a big one later. This is not a one-time conversation. It is an ongoing part of the relationship.
+**Give feedback to your advisor.** If something in the advising relationship is not working — the pace of feedback, the frequency of meetings, the clarity of expectations, anything — say so. You can raise it directly or through the Graduate Advisor. Adrian cannot fix problems he does not know about, and he would rather hear about a small issue now than a big one later. This is not a one-time conversation. It is an ongoing part of the relationship.
 
 **Communicate regularly with your committee.** Your committee exists to support your development, not just to evaluate you at milestones. Do not wait until your annual meeting to reach out. Send brief updates between meetings. If you are stuck on a question that falls within a committee member's expertise, email them. If your research direction is shifting, let them know before the next formal meeting rather than surprising them. Committee members who are kept in the loop give better advice and are stronger advocates for you when it matters — for job references, fellowship letters, and your defense.
 

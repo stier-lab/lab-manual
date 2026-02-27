@@ -27,7 +27,7 @@ Document your methods as you go, not after the fact. You will forget details fas
 
 - **Keep a lab/field notebook.** The format is up to you: a physical notebook, a digital document, or a dedicated app. What matters is that you use it consistently and that it is backed up. Physical notebooks should be photographed or scanned regularly.
 - **Record enough detail that someone else could reproduce your work.** Include dates, locations, equipment used, settings, deviations from protocol, and anything unexpected. If you modified a standard procedure, note what you changed and why.
-- **For field work (especially Mo'orea):** Record site coordinates, environmental conditions, water temperature, depth, tide state, weather, and anything that might affect your data. Take photos of your setup. These details are invaluable when interpreting results months later.
+- **For fieldwork (especially Mo'orea):** Record site coordinates, environmental conditions, water temperature, depth, tide state, weather, and anything that might affect your data. Take photos of your setup. These details are invaluable when interpreting results months later.
 - **Videos of methods** can be extremely useful, especially for complex field or lab procedures. A short video of your sampling technique or experimental setup is worth pages of written description.
 - Store your notebook entries alongside your project data on the lab NAS or Google Drive so they are accessible to the lab after you leave.
 
@@ -48,9 +48,9 @@ Document your methods as you go, not after the fact. You will forget details fas
 
 ## Lab Policy on Data After Departure
 
-When you leave the lab, archive your research data and code on the lab NAS and/or Google Drive with appropriate metadata. This applies even if the research was not funded by Adrian's grants.
+When you leave the lab, archive your research data and code on the lab NAS and/or Google Drive with appropriate metadata. This applies to research conducted primarily within the Stier Lab. For work conducted under other PIs or external funding with separate data requirements, follow those policies.
 
-No one will publish your unpublished data without your permission for at least three years after your departure. After three years, Adrian reserves the right to publish the work, most likely with you as lead author. The strong expectation is that you publish your own work within a couple of years of graduating.
+No one will publish your unpublished data without your permission for at least three years after your departure. After three years, I may work with you to publish the data, with you as lead author. If you are unreachable after reasonable efforts, I may publish the work with appropriate attribution. The strong expectation is that you publish your own work within a couple of years of graduating.
 
 For work funded by external grants, data archiving requirements from the funding agency (e.g., NSF, NOAA) apply. These requirements can mandate public data availability on a specific timeline.
 

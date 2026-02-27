@@ -23,7 +23,7 @@ Access [Connexxus](https://bfs.ucsb.edu/travel_entertainment/travel-planning/con
 
 Rental cars require prior department approval and will not be reimbursed without it. When booking, use the UC contract IDs: Hertz (72130), Enterprise (XZ32A01), or National (through Connexxus). These contracts include full insurance coverage — decline all additional insurance at the counter. UC will not reimburse purchased additional insurance.
 
-If using a personal vehicle instead, mileage reimbursement is $0.70/mile (as of January 2025). Total mileage cost should not exceed the cost of a rental car or airfare.
+If using a personal vehicle instead, mileage reimbursement is $0.725/mile (as of January 2026). Total mileage cost should not exceed the cost of a rental car or airfare.
 
 ## Meals and Lodging
 

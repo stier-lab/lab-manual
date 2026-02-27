@@ -14,9 +14,9 @@ One practical suggestion: keep a running list of who contributed what as a proje
 
 ## Authorship Order
 
-I use the "PI is last" convention that is standard in ecology. For papers led by students or post-docs, the first author is the person who led the project and the writing effort. Other authors are listed in decreasing order of contribution, with me typically in the last position as the senior or supervising author. For papers I lead, authors are listed in order of decreasing contribution.
+I use the "PI is last" convention that is standard in ecology. For papers led by students or postdocs, the first author is the person who led the project and the writing effort. Other authors are listed in decreasing order of contribution, with me typically in the last position as the senior or supervising author. For papers I lead, authors are listed in order of decreasing contribution.
 
-The first author, in consultation with the rest of the team, decides on author order. If there are disagreements, bring them to me and we will work it out together.
+The first author, in consultation with the rest of the team, decides on author order. If there are disagreements, bring them to me and we will work it out together. If the disagreement involves me, the Conflict Resolution section describes your options for raising it with the Graduate Advisor, the Department Chair, or the Ombuds Office.
 
 ## Corresponding and Contact Author
 

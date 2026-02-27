@@ -183,5 +183,8 @@ Track your goals using a simple table:
 - [ ] Connect to WiFi, Ethernet, Slack, Google Drive, and Zotero
 - [ ] Read the Lab Manual, Working Agreement, and SCUBA Manual
 - [ ] Complete your first IDP draft and schedule an initial meeting with Adrian
+- [ ] Complete the Mentor/Mentee Agreement with Adrian (see the Mentoring and Advising Structure section)
+- [ ] Review and sign the Lab Working Agreement at the first lab meeting of the year
+- [ ] Set up at least two backup locations for your research data (see Data Management section)
 - [ ] Meet the people in the Valuable Contacts section, especially Andi Jorgensen, Mengshu Ye, and the marine operations staff if you'll be doing fieldwork
 - [ ] If eligible for NSF GRFP, begin preparing your application immediately (see the Graduate Student Funding section)

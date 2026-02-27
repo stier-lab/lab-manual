@@ -4,7 +4,7 @@ This section covers shared computing resources, network access, and tools you wi
 
 ## Lab Computer
 
-The lab has a high-power iMac in Noble 2224 with 40 GB RAM. Use the guest account (password: mamalobster). If you need a private account, talk to Adrian. Log out when done. Do not leave personal accounts open.
+The lab has a high-power iMac in Noble 2224 with 40 GB RAM. Ask Molly or Adrian for the guest account password. If you need a private account, talk to Adrian. Log out when done. Do not leave personal accounts open.
 
 ## Lab Server (Network Attached Storage / NAS)
 
@@ -21,7 +21,7 @@ Connect to LifeSci[BuildingName] for computers and LifeSciGadget for phones. New
 
 ## Personal Computers
 
-You are expected to have your own laptop for research, writing, and analysis. This is a personal responsibility. If this is a financial hardship, talk to Adrian -- there may be options through the department or Graduate Division. The shared lab iMac in Noble 2224 is available for heavy computing tasks, but it is not a substitute for having your own machine.
+You will need your own laptop for research, writing, and analysis. If this is a financial hardship, talk to Adrian — there may be options through the department or Graduate Division. The shared lab iMac in Noble 2224 is available for heavy computing tasks, but it is not a substitute for having your own machine.
 
 If your laptop dies or needs repair, the Life Sciences Computing Group has loaner machines. The Graduate Division may also have a loaner program. Do not let a broken computer silently stall your progress for weeks.
 

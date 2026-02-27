@@ -76,7 +76,7 @@ Adrian will review grant drafts and provide feedback. For larger proposals, expe
 You are responsible for conference costs. Available travel support:
 
 - **Ellen Schamberg Burley Award** (EEMB): For advanced doctoral candidates presenting at scientific meetings
-- **Academic Senate Doctoral Student Travel Grant:** $450 (CA), $900 (US), $1,500 (international). You must be advanced to candidacy.
+- **Academic Senate Doctoral Student Travel Grant:** $250 (virtual), $900 (domestic), $1,500 (international). You must be advanced to candidacy.
 - **GSA Conference Travel Grant:** Up to $200 reimbursement, for students NOT yet advanced to candidacy
 - **Adrian's grants:** If your presentation is related to an active grant, he may be able to help
 - Some conferences offer registration fee waivers for student volunteers
@@ -87,11 +87,15 @@ See the Travel section for booking procedures, travel advances, and reimbursemen
 
 As a graduate student employee at UCSB (whether you hold a TA or GSR appointment), you are a member of **UAW Local 4811** (United Auto Workers). This is the union that represents over 48,000 academic workers across all 10 UC campuses. Dues are automatically deducted from your paycheck.
 
-UAW 4811 was formed through a 2023 merger of two earlier unions: UAW Local 2865 (which represented Teaching Assistants, Readers, and Tutors) and Student Researchers United / SRU-UAW (which represented Graduate Student Researchers). The merger brought all graduate student employees under one bargaining unit.
+UAW 4811 was formed through a 2024 merger of three earlier unions: UAW Local 2865 (Teaching Assistants, Readers, and Tutors), Student Researchers United / SRU-UAW (Graduate Student Researchers), and UAW Local 5810 (Postdocs and Academic Researchers). The merger brought all academic workers under one bargaining unit.
 
 **The 2022 strike.** In November 2022, about 48,000 UC academic workers walked off the job in what became the largest higher education strike in U.S. history. The strike lasted roughly six weeks and produced major gains. Minimum salaries for graduate employees increased by about 46%. Parental leave expanded to 8 weeks of fully paid leave. Childcare reimbursements were established. New workplace protections against abusive conduct were written into the contract.
 
-**Where things stand now.** The 2022 contracts expired in May 2025, and new negotiations are ongoing. Labor relations at the UC are an evolving situation that will continue to change throughout your time here. I encourage you to stay informed about your contract and your rights, regardless of your personal feelings about unions. Understanding your contract helps you understand your pay, your workload limits (a 50% appointment means a maximum of 20 hours per week), your grievance rights, and the protections available to you.
+**Where things stand now.** The 2022 contracts were extended through late 2025, and new negotiations are ongoing. Labor relations at the UC are an evolving situation that will continue to change throughout your time here. I encourage you to stay informed about your contract and your rights, regardless of your personal feelings about unions. Understanding your contract helps you understand your pay, your workload limits (a 50% appointment means a maximum of 20 hours per week), your grievance rights, and the protections available to you.
+
+**Your rights.** If you believe your contract rights have been violated -- workload exceeding your appointment percentage, pay issues, unsafe working conditions, or anything else covered by the contract -- you have the right to file a formal grievance through UAW Local 4811. Contact your campus steward for guidance. Retaliation for exercising your contract rights or participating in union activity (attending meetings, bargaining, informational actions) is prohibited under California labor law and the Higher Education Employer-Employee Relations Act.
+
+**Parental leave and caregiving.** The 2022 contract established 8 weeks of fully paid parental leave for graduate student employees and childcare reimbursements. If you are a parent or caregiver, these provisions apply to you. Contact your steward or the UAW 4811 website for current details, as specific provisions may change with new contracts. If caregiving responsibilities affect your schedule, talk to me -- we will work out flexible arrangements. Being a parent or caregiver will not be held against you in evaluations, opportunities, or recommendations. UCSB also offers childcare through the [Orfalea Family Children's Center](https://childrenscenter.sa.ucsb.edu/) and maintains lactation rooms across campus.
 
 **Key resources:**
 - **UAW 4811 website:** [uaw4811.org](https://uaw4811.org/), with contract text, bargaining updates, and know-your-rights information

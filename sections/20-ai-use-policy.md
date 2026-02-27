@@ -37,6 +37,7 @@ The lab actively uses the following AI tools:
 - **Understand your code.** If AI generates analysis code for you, you must understand what every line does. You are responsible for the correctness of your analysis, not the AI.
 - **Do not input unpublished data into public AI tools without permission.** Some AI tools (particularly web-based ones) retain or train on user inputs. Do not paste unpublished data, manuscripts in preparation, or grant proposals into tools unless you are confident about their data handling policies. When in doubt, use local/private instances or ask Adrian.
 - **Coursework rules are separate.** For courses you are taking or TAing, follow the instructor's AI policy. It is often more restrictive than this lab policy. When in doubt, ask the instructor.
+- **Theses and dissertations.** Your thesis or dissertation is your scholarly work. AI tools can help with revision, code, and analysis (following the requirements above), but the ideas, arguments, and writing must be substantively yours. The Graduate Division's current guidance treats theses and dissertations like other academic work — unauthorized AI use constitutes academic dishonesty. If you use AI tools in your thesis work, disclose it and discuss the scope with Adrian.
 
 ### What AI Cannot Replace
 

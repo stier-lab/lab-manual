@@ -14,11 +14,11 @@ If you experience or witness harassment or bullying:
 
 - **For formal complaints,** contact UCSB's Title IX Compliance & Discrimination and Harassment Prevention Office (TIX/DHP) at (805) 893-2701 or tixoffice@titleix.ucsb.edu.
 
-Retaliation against anyone who raises a concern is absolutely prohibited. It will be treated as a separate, serious violation. See the Mentor/Mentee Agreement and Lab Working Agreement for specifics on no-retaliation commitments.
+Retaliation against anyone who raises a concern is absolutely prohibited. It will be treated as a separate, serious violation.
 
 > **Warning:** Under UC policy, all faculty (including Adrian) are Responsible Employees. This means that if you disclose an experience of sexual harassment, sexual violence, relationship violence, or stalking, Adrian is required to report it to the TIX/DHP Office. Adrian cannot promise confidentiality for these matters. If you want to speak with someone confidentially before deciding whether to make a formal report, contact one of these Confidential Resources:
 
-> **Info:** **CARE** (Campus Advocacy, Resources & Education): 24/7 line (805) 893-4613. Office: Student Resource Building 2145. CARE@sa.ucsb.edu | **CAPS** (Counseling & Psychological Services): (805) 893-4411. Building 599, next to Storke Tower. Confidential counseling available to all registered students. | **Ombuds Office:** Confidential, informal, independent, and neutral. 1205-K Girvetz Hall, (805) 893-3285.
+> **Info:** **CARE** (Campus Advocacy, Resources & Education): 24/7 line (805) 893-4613. Office: Student Resource Building 2145. CARE@sa.ucsb.edu | **CAPS** (Counseling & Psychological Services): (805) 893-4411. Building 599 / Annex 434, next to Storke Tower. Confidential counseling available to all registered students. | **Ombuds Office:** Confidential, informal, independent, and neutral. 1205-K Girvetz Hall, (805) 893-3285.
 
 These offices will not report to the university without your permission (with narrow exceptions such as imminent danger or child abuse). You do not have to decide anything before talking to them.
 
@@ -30,9 +30,9 @@ Graduate school is demanding. Taking care of your mental, emotional, and physica
 
 **If you're struggling:** Talk to Adrian. You do not need to share details. You have a right to privacy. But letting him know you need time or adjusted expectations helps both of you. If you prefer to talk to someone else, that is fine too. Other lab members, the Graduate Advisor, and campus counseling services are all available.
 
-**Don't come to lab sick.** If you have a physical condition that affects your work, talk to Adrian so accommodations can be made.
+**Do not come to lab sick.** If you have a condition that affects your work -- physical, cognitive, psychiatric, or any other -- talk to me so we can figure out accommodations. You can also contact the [Disabled Students Program](https://dsp.sa.ucsb.edu/) (DSP) directly at (805) 893-2668. DSP coordinates accommodations under the ADA, and you are not required to disclose your disability to me. They will work with you and, as needed, with the department.
 
-See the Mental Health Resources section later in this manual for specific campus services.
+See the Mental Health Resources section for specific campus services.
 
 ## Lab and Field Safety
 

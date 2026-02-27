@@ -29,7 +29,7 @@ If a collaborator shares data with you, treat it with respect:
 
 ## When Adrian Should Be Involved
 
-You do not need Adrian's permission to collaborate with other scientists. I encourage it. But there are a few situations where you should loop me in:
+You do not need my permission to collaborate with other scientists. I encourage it. But there are a few situations where you should loop me in:
 
 - **New collaborations that use lab resources** (equipment, boat time, grant funding, field site access).
 - **Collaborations that overlap with other projects in the lab.** If someone else in the lab is already working with the same group or on a closely related question, we need to coordinate.

@@ -1,6 +1,6 @@
 # Undergraduates in the Lab
 
-Undergraduates are a welcome and important part of our lab community. Most will work under the guidance of a graduate student or post-doc. Adrian should know about all undergraduate projects. Consult him on any issues that come up.
+Undergraduates are a welcome and important part of our lab community. Most will work under the guidance of a graduate student or postdoc. Adrian should know about all undergraduate projects. Consult him on any issues that come up.
 
 ## Expectations for Mentors
 
@@ -21,7 +21,7 @@ Undergraduates are a welcome and important part of our lab community. Most will 
 
 ## Getting Started
 
-New undergraduates should plan on an onboarding period of 2-4 weeks where you learn lab protocols, safety procedures, and the basics of the project you will be contributing to. Your graduate mentor will guide this process. Complete all required safety trainings (see the Required Trainings section) before beginning any lab or field work.
+New undergraduates should plan on an onboarding period of 2-4 weeks where you learn lab protocols, safety procedures, and the basics of the project you will be contributing to. Your graduate mentor will guide this process. Complete all required safety trainings (see the Required Trainings section) before beginning any lab or fieldwork.
 
 ## Research Opportunities
 

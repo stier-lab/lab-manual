@@ -7,7 +7,7 @@ University of California, Santa Barbara
 
 ---
 
-Welcome to the Ocean Recoveries Lab! You are now part of a community working to understand how marine ecosystems collapse and recover, and how we can build resilience in a changing world. This applies whether you are a graduate student, post-doc, technician, or undergraduate researcher.
+Welcome to the Ocean Recoveries Lab! You are now part of a community working to understand how marine ecosystems collapse and recover, and how we can build resilience in a changing world. This applies whether you are a graduate student, postdoc, technician, or undergraduate researcher.
 
 Our research spans coral reefs in Mo'orea (French Polynesia), kelp forests along the Santa Barbara coast, and Caribbean reef systems. We combine field experiments, evidence synthesis, and predictive modeling to study the mechanisms of ecosystem resistance, recovery, and reorganization. The lab is part of two NSF Long-Term Ecological Research programs: the Moorea Coral Reef LTER and the Santa Barbara Coastal LTER. These programs provide long-term datasets, infrastructure, and collaborative networks that enrich our work. You can learn more about current projects and the broader research program at oceanrecoveries.com.
 
@@ -63,7 +63,7 @@ I think it matters that people in the lab actually enjoy spending time together.
 
 ### Seminars
 
-Attend EEMB seminars, thesis defenses, and other departmental talks when your schedule allows. Even more valuable: talk about what you heard with labmates afterward. This is how you build intellectual breadth and stay connected to the wider scientific community. I consider it one of the most valuable parts of being at a research university. I notice when people take advantage of it.
+Attend EEMB seminars, thesis defenses, and other departmental talks when your schedule allows. See the Lab Meetings section for more on departmental seminars.
 
 ## Photos, Videos, and Media
 
@@ -96,11 +96,11 @@ If you experience or witness harassment or bullying:
 
 - **For formal complaints,** contact UCSB's Title IX Compliance & Discrimination and Harassment Prevention Office (TIX/DHP) at (805) 893-2701 or tixoffice@titleix.ucsb.edu.
 
-Retaliation against anyone who raises a concern is absolutely prohibited. It will be treated as a separate, serious violation. See the Mentor/Mentee Agreement and Lab Working Agreement for specifics on no-retaliation commitments.
+Retaliation against anyone who raises a concern is absolutely prohibited. It will be treated as a separate, serious violation.
 
 > **Warning:** Under UC policy, all faculty (including Adrian) are Responsible Employees. This means that if you disclose an experience of sexual harassment, sexual violence, relationship violence, or stalking, Adrian is required to report it to the TIX/DHP Office. Adrian cannot promise confidentiality for these matters. If you want to speak with someone confidentially before deciding whether to make a formal report, contact one of these Confidential Resources:
 
-> **Info:** **CARE** (Campus Advocacy, Resources & Education): 24/7 line (805) 893-4613. Office: Student Resource Building 2145. CARE@sa.ucsb.edu | **CAPS** (Counseling & Psychological Services): (805) 893-4411. Building 599, next to Storke Tower. Confidential counseling available to all registered students. | **Ombuds Office:** Confidential, informal, independent, and neutral. 1205-K Girvetz Hall, (805) 893-3285.
+> **Info:** **CARE** (Campus Advocacy, Resources & Education): 24/7 line (805) 893-4613. Office: Student Resource Building 2145. CARE@sa.ucsb.edu | **CAPS** (Counseling & Psychological Services): (805) 893-4411. Building 599 / Annex 434, next to Storke Tower. Confidential counseling available to all registered students. | **Ombuds Office:** Confidential, informal, independent, and neutral. 1205-K Girvetz Hall, (805) 893-3285.
 
 These offices will not report to the university without your permission (with narrow exceptions such as imminent danger or child abuse). You do not have to decide anything before talking to them.
 
@@ -112,9 +112,9 @@ Graduate school is demanding. Taking care of your mental, emotional, and physica
 
 **If you're struggling:** Talk to Adrian. You do not need to share details. You have a right to privacy. But letting him know you need time or adjusted expectations helps both of you. If you prefer to talk to someone else, that is fine too. Other lab members, the Graduate Advisor, and campus counseling services are all available.
 
-**Don't come to lab sick.** If you have a physical condition that affects your work, talk to Adrian so accommodations can be made.
+**Do not come to lab sick.** If you have a condition that affects your work -- physical, cognitive, psychiatric, or any other -- talk to me so we can figure out accommodations. You can also contact the [Disabled Students Program](https://dsp.sa.ucsb.edu/) (DSP) directly at (805) 893-2668. DSP coordinates accommodations under the ADA, and you are not required to disclose your disability to me. They will work with you and, as needed, with the department.
 
-See the Mental Health Resources section later in this manual for specific campus services.
+See the Mental Health Resources section for specific campus services.
 
 ## Lab and Field Safety
 
@@ -266,7 +266,7 @@ Handles Gateway package deliveries. He will email you when your order arrives fo
 - Email: oakley@ucsb.edu
 - Office: 4101 Life Sciences Building (LSB)
 
-*EEMB Fax:* 805-893-5885
+*EEMB Fax:* (805) 893-5885
 
 ### Molly Brzezinski, Lab Manager
 
@@ -296,7 +296,7 @@ Offices at the Point next to The Reef. They can help you become a boat captain, 
 
 Associate Specialist with the Santa Barbara Coastal Long-Term Ecological Research program (SBC-LTER), Unit Dive & Boat Safety Officer, and Launchmaster of the Small Boat Committee. An expert in nearly every type of marine operation. Great for feasibility consultations, gear recommendations, and site selection.
 
-- Phone: 805-893-7295
+- Phone: (805) 893-7295
 - Email: c_nelson@lifesci.ucsb.edu
 
 ## Mechanical Assistance
@@ -319,7 +319,7 @@ Contact for lab truck maintenance and repairs. See the Vehicles section for deta
 
 - Phone: (805) 893-3692
 
-## Travel Administration
+## Travel and Finance Administration
 
 ### Kim Taylor, MSI Travel Unit Analyst
 
@@ -327,6 +327,12 @@ Contact Kim for travel advances and reimbursements on MSI-administered grants.
 
 - Phone: (805) 893-8078
 - Email: travel@msi.ucsb.edu
+
+### Melia Cutcher, MSI Chief Accounting Officer
+
+For MSI-administered grant reimbursements through Concur, add Melia as an expense delegate. Contact her for MSI financial questions.
+
+- Email: mcutcher@msi.ucsb.edu
 
 ## Other Campus Resources
 
@@ -340,6 +346,15 @@ Available for academic progress and related well-being discussions. See the Ment
 ### Kristen Labonte, UCSB Library Liaison for EEMB
 
 Can help with literature searches, interlibrary loans, data management plans, and library resources. Find her contact info on the UCSB Library website.
+
+### Office of International Students & Scholars (OISS)
+
+International students should contact OISS for visa questions, travel signatures, employment authorization, and immigration compliance. Start travel signature requests at least 5-10 business days before international travel.
+
+- Phone: (805) 893-2929
+- Email: oiss@sa.ucsb.edu
+- Office: Student Resource Building, Room 3130
+- Website: [oiss.ucsb.edu](https://oiss.ucsb.edu/)
 
 ## Lab Contacts and Emergency Contact Info
 
@@ -359,7 +374,7 @@ You must complete several trainings before you can get to work. It feels like a 
 **Step 2:** Complete the following trainings:
 
 - Cyber Security Awareness Training
-- Fundamentals of Laboratory Safety (grad students: in-person during orientation, post-docs/undergrads: online LS60, technicians: live or online)
+- Fundamentals of Laboratory Safety (grad students: in-person during orientation, postdocs/undergrads: online LS60, technicians: live or online)
 - UC Preventing Harassment & Discrimination (formerly UC Sexual Harassment Training)
 - Gateway 101 (only if you will be ordering supplies)
 
@@ -463,7 +478,7 @@ This section covers shared computing resources, network access, and tools you wi
 
 ## Lab Computer
 
-The lab has a high-power iMac in Noble 2224 with 40 GB RAM. Use the guest account (password: mamalobster). If you need a private account, talk to Adrian. Log out when done. Do not leave personal accounts open.
+The lab has a high-power iMac in Noble 2224 with 40 GB RAM. Ask Molly or Adrian for the guest account password. If you need a private account, talk to Adrian. Log out when done. Do not leave personal accounts open.
 
 ## Lab Server (Network Attached Storage / NAS)
 
@@ -480,7 +495,7 @@ Connect to LifeSci[BuildingName] for computers and LifeSciGadget for phones. New
 
 ## Personal Computers
 
-You are expected to have your own laptop for research, writing, and analysis. This is a personal responsibility. If this is a financial hardship, talk to Adrian -- there may be options through the department or Graduate Division. The shared lab iMac in Noble 2224 is available for heavy computing tasks, but it is not a substitute for having your own machine.
+You will need your own laptop for research, writing, and analysis. If this is a financial hardship, talk to Adrian — there may be options through the department or Graduate Division. The shared lab iMac in Noble 2224 is available for heavy computing tasks, but it is not a substitute for having your own machine.
 
 If your laptop dies or needs repair, the Life Sciences Computing Group has loaner machines. The Graduate Division may also have a loaner program. Do not let a broken computer silently stall your progress for weeks.
 
@@ -649,7 +664,7 @@ Keep the truck clean. Remove trash, personal gear, and field equipment after eac
 
 ### Maintenance
 
-Contact Molly Brzezinski (lab manager) for issues. If she is unavailable, contact Doug Hatt at the UCSB garage (805-893-3692). Before taking the truck on a long trip, check fluid levels, tire pressure, and general condition. Report any problems immediately -- do not leave them for the next person to discover. Update the Truck Maintenance Log on Google Drive after any service.
+Contact Molly Brzezinski (lab manager) for issues. If she is unavailable, contact Doug Hatt at the UCSB garage ((805) 893-3692). Before taking the truck on a long trip, check fluid levels, tire pressure, and general condition. Report any problems immediately -- do not leave them for the next person to discover. Update the Truck Maintenance Log on Google Drive after any service.
 
 ## University Vehicle Policies
 
@@ -662,14 +677,14 @@ A few additional rules apply to all university vehicles under BUS-46:
 
 ## UCSB Vehicle Rentals
 
-Rentals are available for university business through TPS (805-893-2924). They offer sedans and larger vehicles, but these cannot be used for towing. Charges go to a university account.
+Rentals are available for university business through TPS ((805) 893-2924). They offer sedans and larger vehicles, but these cannot be used for towing. Charges go to a university account.
 
 
 ---
 
 # Undergraduates in the Lab
 
-Undergraduates are a welcome and important part of our lab community. Most will work under the guidance of a graduate student or post-doc. Adrian should know about all undergraduate projects. Consult him on any issues that come up.
+Undergraduates are a welcome and important part of our lab community. Most will work under the guidance of a graduate student or postdoc. Adrian should know about all undergraduate projects. Consult him on any issues that come up.
 
 ## Expectations for Mentors
 
@@ -690,7 +705,7 @@ Undergraduates are a welcome and important part of our lab community. Most will 
 
 ## Getting Started
 
-New undergraduates should plan on an onboarding period of 2-4 weeks where you learn lab protocols, safety procedures, and the basics of the project you will be contributing to. Your graduate mentor will guide this process. Complete all required safety trainings (see the Required Trainings section) before beginning any lab or field work.
+New undergraduates should plan on an onboarding period of 2-4 weeks where you learn lab protocols, safety procedures, and the basics of the project you will be contributing to. Your graduate mentor will guide this process. Complete all required safety trainings (see the Required Trainings section) before beginning any lab or fieldwork.
 
 ## Research Opportunities
 
@@ -799,7 +814,7 @@ Adrian will review grant drafts and provide feedback. For larger proposals, expe
 You are responsible for conference costs. Available travel support:
 
 - **Ellen Schamberg Burley Award** (EEMB): For advanced doctoral candidates presenting at scientific meetings
-- **Academic Senate Doctoral Student Travel Grant:** $450 (CA), $900 (US), $1,500 (international). You must be advanced to candidacy.
+- **Academic Senate Doctoral Student Travel Grant:** $250 (virtual), $900 (domestic), $1,500 (international). You must be advanced to candidacy.
 - **GSA Conference Travel Grant:** Up to $200 reimbursement, for students NOT yet advanced to candidacy
 - **Adrian's grants:** If your presentation is related to an active grant, he may be able to help
 - Some conferences offer registration fee waivers for student volunteers
@@ -810,11 +825,15 @@ See the Travel section for booking procedures, travel advances, and reimbursemen
 
 As a graduate student employee at UCSB (whether you hold a TA or GSR appointment), you are a member of **UAW Local 4811** (United Auto Workers). This is the union that represents over 48,000 academic workers across all 10 UC campuses. Dues are automatically deducted from your paycheck.
 
-UAW 4811 was formed through a 2023 merger of two earlier unions: UAW Local 2865 (which represented Teaching Assistants, Readers, and Tutors) and Student Researchers United / SRU-UAW (which represented Graduate Student Researchers). The merger brought all graduate student employees under one bargaining unit.
+UAW 4811 was formed through a 2024 merger of three earlier unions: UAW Local 2865 (Teaching Assistants, Readers, and Tutors), Student Researchers United / SRU-UAW (Graduate Student Researchers), and UAW Local 5810 (Postdocs and Academic Researchers). The merger brought all academic workers under one bargaining unit.
 
 **The 2022 strike.** In November 2022, about 48,000 UC academic workers walked off the job in what became the largest higher education strike in U.S. history. The strike lasted roughly six weeks and produced major gains. Minimum salaries for graduate employees increased by about 46%. Parental leave expanded to 8 weeks of fully paid leave. Childcare reimbursements were established. New workplace protections against abusive conduct were written into the contract.
 
-**Where things stand now.** The 2022 contracts expired in May 2025, and new negotiations are ongoing. Labor relations at the UC are an evolving situation that will continue to change throughout your time here. I encourage you to stay informed about your contract and your rights, regardless of your personal feelings about unions. Understanding your contract helps you understand your pay, your workload limits (a 50% appointment means a maximum of 20 hours per week), your grievance rights, and the protections available to you.
+**Where things stand now.** The 2022 contracts were extended through late 2025, and new negotiations are ongoing. Labor relations at the UC are an evolving situation that will continue to change throughout your time here. I encourage you to stay informed about your contract and your rights, regardless of your personal feelings about unions. Understanding your contract helps you understand your pay, your workload limits (a 50% appointment means a maximum of 20 hours per week), your grievance rights, and the protections available to you.
+
+**Your rights.** If you believe your contract rights have been violated -- workload exceeding your appointment percentage, pay issues, unsafe working conditions, or anything else covered by the contract -- you have the right to file a formal grievance through UAW Local 4811. Contact your campus steward for guidance. Retaliation for exercising your contract rights or participating in union activity (attending meetings, bargaining, informational actions) is prohibited under California labor law and the Higher Education Employer-Employee Relations Act.
+
+**Parental leave and caregiving.** The 2022 contract established 8 weeks of fully paid parental leave for graduate student employees and childcare reimbursements. If you are a parent or caregiver, these provisions apply to you. Contact your steward or the UAW 4811 website for current details, as specific provisions may change with new contracts. If caregiving responsibilities affect your schedule, talk to me -- we will work out flexible arrangements. Being a parent or caregiver will not be held against you in evaluations, opportunities, or recommendations. UCSB also offers childcare through the [Orfalea Family Children's Center](https://childrenscenter.sa.ucsb.edu/) and maintains lactation rooms across campus.
 
 **Key resources:**
 - **UAW 4811 website:** [uaw4811.org](https://uaw4811.org/), with contract text, bargaining updates, and know-your-rights information
@@ -840,7 +859,7 @@ I encourage you to read broadly, including well outside your immediate subfield.
 
 My role in this process differs depending on where you are. For PhD students, developing an original research question is a core part of the training. I will push back, suggest readings, point you toward gaps I find exciting, and help you refine your thinking. But the question needs to be yours. For MS students, given the compressed timeline, I will be more hands-on in helping define the scope and I will sometimes suggest a question directly. Either way, we will talk about this a lot in our one-on-one meetings, especially in your first year.
 
-**Teaching Assistantships:** All EEMB students are required to TA at least 2 quarters. TA support is a large part of most funding packages. Classes vary in their workload. Some are straightforward and leave you plenty of time for research. Others are intensive and require weekly prep. The best way to figure out which classes work for you is to ask other grad students who have TAed them recently. Your fellow students are the most honest and up-to-date source on what to expect. I am happy to weigh in too, but the student grapevine is your best bet for the real picture. If you are considering TAing a course Adrian teaches, you are welcome to reach out to previous TAs for that course to hear about their experience.
+**Teaching Assistantships:** All EEMB students are required to TA at least 2 quarters. TA support is a large part of most funding packages. Classes vary in their workload. Some are straightforward and leave you plenty of time for research. Others are intensive and require weekly prep. The best way to figure out which classes work for you is to ask other grad students who have TAed them recently. Your fellow students are the most honest and up-to-date source on what to expect. I am happy to weigh in too, but the student grapevine is your best bet for the real picture.
 
 **Annual progress reports:** EEMB requires an annual Progress Report and Study Plan, filed with your committee. This makes sure you and your committee agree on where you are and what comes next. Your committee will meet at least once per year to review progress. Between formal meetings, keep your committee in the loop with brief updates — a short email when you have a result, a question when you are stuck, or a heads-up when your direction shifts. Committee members who hear from you regularly give better advice and write stronger letters on your behalf.
 
@@ -850,13 +869,13 @@ My role in this process differs depending on where you are. For PhD students, de
 
 **Publications:** Write and submit papers as you progress through your program. Do not wait until the end. Ideally, most of your publishable work will be in review or published by the time you defend. This makes your next career transition much easier.
 
-**Committee review of manuscripts:** Give each manuscript to your committee and incorporate feedback before submitting to a journal. This avoids the situation where a committee member raises concerns about published work at your defense.
+**Committee review of manuscripts:** Give each manuscript to your committee and incorporate feedback before submitting to a journal. See the Publishing and Peer Review section for the full internal review process.
 
 **Required coursework (Year 1):** All EEMB graduate students must complete EEMB 500 (Campus Orientation), 507 (Introduction to Graduate Research), 508 and 509 (Levels of Biological Organization I & II), 290 (Introduction to Faculty Research), and 502 (Teaching Techniques).
 
 ## MS Students
 
-Target: file your thesis by the end of your second year. The maximum time allowed by EEMB is 4 years. This is fast, so there is little time to waste. Adrian is more inclined to directly help MS students define or refine a research question than he is with PhD students, given the compressed timeline. Starting research the summer before you matriculate can give you a meaningful head start.
+Target: file your thesis by the end of your second year. The maximum time allowed by EEMB is 4 years. This is fast, so there is little time to waste. I am more inclined to directly help MS students define or refine a research question than I am with PhD students, given the compressed timeline. Starting research the summer before you matriculate can give you a meaningful head start.
 
 MS students can choose Plan I (thesis, minimum 30 units) or Plan II (comprehensive exam, minimum 36 units). Discuss with Adrian which path makes sense for your goals.
 
@@ -897,7 +916,7 @@ The lab uses several structured tools for transparent, consistent mentoring:
 
 - **Individual Development Plans (IDPs):** Annual review with quarterly check-ins. Covers research milestones, skills development, and career planning.
 
-- **Annual meetings with Graduate Advisor:** All students meet with the Graduate Advisor (currently Mengshu Ye) yearly (for at least the first two years) to provide feedback on mentorship. Adrian also meets with the Graduate Advisor to address any concerns.
+- **Annual meetings with Graduate Advisor:** All students meet with the Graduate Advisor (currently Mengshu Ye) yearly (for at least the first two years) to provide feedback on mentorship.
 
 ## Mentor/Mentee Agreement
 
@@ -927,10 +946,7 @@ The Graduate Division's [mentoring resources page](https://www.graddiv.ucsb.edu/
 
 - Timely feedback on written work within agreed-upon timelines.
 - Quarterly milestone tracking aligned with your IDP.
-- Documented meeting summaries shared after each advising meeting, ending with a clear list of agreed-upon goals and next steps so we leave on the same page.
-- Written role descriptions for GSR/TA responsibilities each quarter, including clear separation of paid vs. voluntary tasks.
-- A written description of how student accomplishments support recommendation letters, provided at the start of the advising relationship.
-- Monthly updates to the Department Chair and Graduate Advisor (Mengshu Ye) on lab climate and student progress.
+- Meeting summaries with agreed-upon goals and next steps after advising meetings.
 
 ## What Students Commit To
 
@@ -943,7 +959,7 @@ The Graduate Division's [mentoring resources page](https://www.graddiv.ucsb.edu/
 
 Good advising depends on honest, two-way communication. Adrian needs your feedback to be an effective advisor, and you need feedback from Adrian, your committee, and your labmates to grow as a scientist.
 
-**Give feedback to your advisor.** If something in the advising relationship is not working — the pace of feedback, the frequency of meetings, the clarity of expectations, anything — say so. You can raise it directly, through the annual anonymous survey, or through the Graduate Advisor. Adrian cannot fix problems he does not know about, and he would rather hear about a small issue now than a big one later. This is not a one-time conversation. It is an ongoing part of the relationship.
+**Give feedback to your advisor.** If something in the advising relationship is not working — the pace of feedback, the frequency of meetings, the clarity of expectations, anything — say so. You can raise it directly or through the Graduate Advisor. Adrian cannot fix problems he does not know about, and he would rather hear about a small issue now than a big one later. This is not a one-time conversation. It is an ongoing part of the relationship.
 
 **Communicate regularly with your committee.** Your committee exists to support your development, not just to evaluate you at milestones. Do not wait until your annual meeting to reach out. Send brief updates between meetings. If you are stuck on a question that falls within a committee member's expertise, email them. If your research direction is shifting, let them know before the next formal meeting rather than surprising them. Committee members who are kept in the loop give better advice and are stronger advocates for you when it matters — for job references, fellowship letters, and your defense.
 
@@ -1032,9 +1048,9 @@ One practical suggestion: keep a running list of who contributed what as a proje
 
 ## Authorship Order
 
-I use the "PI is last" convention that is standard in ecology. For papers led by students or post-docs, the first author is the person who led the project and the writing effort. Other authors are listed in decreasing order of contribution, with me typically in the last position as the senior or supervising author. For papers I lead, authors are listed in order of decreasing contribution.
+I use the "PI is last" convention that is standard in ecology. For papers led by students or postdocs, the first author is the person who led the project and the writing effort. Other authors are listed in decreasing order of contribution, with me typically in the last position as the senior or supervising author. For papers I lead, authors are listed in order of decreasing contribution.
 
-The first author, in consultation with the rest of the team, decides on author order. If there are disagreements, bring them to me and we will work it out together.
+The first author, in consultation with the rest of the team, decides on author order. If there are disagreements, bring them to me and we will work it out together. If the disagreement involves me, the Conflict Resolution section describes your options for raising it with the Graduate Advisor, the Department Chair, or the Ombuds Office.
 
 ## Corresponding and Contact Author
 
@@ -1092,7 +1108,7 @@ Document your methods as you go, not after the fact. You will forget details fas
 
 - **Keep a lab/field notebook.** The format is up to you: a physical notebook, a digital document, or a dedicated app. What matters is that you use it consistently and that it is backed up. Physical notebooks should be photographed or scanned regularly.
 - **Record enough detail that someone else could reproduce your work.** Include dates, locations, equipment used, settings, deviations from protocol, and anything unexpected. If you modified a standard procedure, note what you changed and why.
-- **For field work (especially Mo'orea):** Record site coordinates, environmental conditions, water temperature, depth, tide state, weather, and anything that might affect your data. Take photos of your setup. These details are invaluable when interpreting results months later.
+- **For fieldwork (especially Mo'orea):** Record site coordinates, environmental conditions, water temperature, depth, tide state, weather, and anything that might affect your data. Take photos of your setup. These details are invaluable when interpreting results months later.
 - **Videos of methods** can be extremely useful, especially for complex field or lab procedures. A short video of your sampling technique or experimental setup is worth pages of written description.
 - Store your notebook entries alongside your project data on the lab NAS or Google Drive so they are accessible to the lab after you leave.
 
@@ -1113,9 +1129,9 @@ Document your methods as you go, not after the fact. You will forget details fas
 
 ## Lab Policy on Data After Departure
 
-When you leave the lab, archive your research data and code on the lab NAS and/or Google Drive with appropriate metadata. This applies even if the research was not funded by Adrian's grants.
+When you leave the lab, archive your research data and code on the lab NAS and/or Google Drive with appropriate metadata. This applies to research conducted primarily within the Stier Lab. For work conducted under other PIs or external funding with separate data requirements, follow those policies.
 
-No one will publish your unpublished data without your permission for at least three years after your departure. After three years, Adrian reserves the right to publish the work, most likely with you as lead author. The strong expectation is that you publish your own work within a couple of years of graduating.
+No one will publish your unpublished data without your permission for at least three years after your departure. After three years, I may work with you to publish the data, with you as lead author. If you are unreachable after reasonable efforts, I may publish the work with appropriate attribution. The strong expectation is that you publish your own work within a couple of years of graduating.
 
 For work funded by external grants, data archiving requirements from the funding agency (e.g., NSF, NOAA) apply. These requirements can mandate public data availability on a specific timeline.
 
@@ -1230,7 +1246,7 @@ If a collaborator shares data with you, treat it with respect:
 
 ## When Adrian Should Be Involved
 
-You do not need Adrian's permission to collaborate with other scientists. I encourage it. But there are a few situations where you should loop me in:
+You do not need my permission to collaborate with other scientists. I encourage it. But there are a few situations where you should loop me in:
 
 - **New collaborations that use lab resources** (equipment, boat time, grant funding, field site access).
 - **Collaborations that overlap with other projects in the lab.** If someone else in the lab is already working with the same group or on a closely related question, we need to coordinate.
@@ -1320,6 +1336,7 @@ The lab actively uses the following AI tools:
 - **Understand your code.** If AI generates analysis code for you, you must understand what every line does. You are responsible for the correctness of your analysis, not the AI.
 - **Do not input unpublished data into public AI tools without permission.** Some AI tools (particularly web-based ones) retain or train on user inputs. Do not paste unpublished data, manuscripts in preparation, or grant proposals into tools unless you are confident about their data handling policies. When in doubt, use local/private instances or ask Adrian.
 - **Coursework rules are separate.** For courses you are taking or TAing, follow the instructor's AI policy. It is often more restrictive than this lab policy. When in doubt, ask the instructor.
+- **Theses and dissertations.** Your thesis or dissertation is your scholarly work. AI tools can help with revision, code, and analysis (following the requirements above), but the ideas, arguments, and writing must be substantively yours. The Graduate Division's current guidance treats theses and dissertations like other academic work — unauthorized AI use constitutes academic dishonesty. If you use AI tools in your thesis work, disclose it and discuss the scope with Adrian.
 
 ### What AI Cannot Replace
 
@@ -1342,7 +1359,7 @@ AI capabilities and university policies are evolving rapidly. This policy will b
 
 Graduate school is hard. Not in the vague, "everyone says it's tough" sense, but in ways that are well-documented and measurable. Studies consistently find that around 40% of graduate students experience clinically significant anxiety or depression — roughly six times the rate in the general population. Imposter syndrome is pervasive. Burnout is common. These are not signs of personal weakness. They are structural features of the graduate school experience that need to be actively managed.
 
-I include this section not as a formality but because I believe that taking care of yourself is a prerequisite for doing good science. You cannot think clearly, write well, or be a good collaborator if you are running on empty. Seeking help is not a sign that something is wrong with you. It is a sign that you are taking your work and your wellbeing seriously.
+I include this section not as a formality but because I believe that taking care of yourself is a prerequisite for doing good science. You cannot think clearly, write well, or be a good collaborator if you are running on empty. Seeking help is not a sign that something is wrong with you. It is a sign that you are taking your work and your well-being seriously.
 
 ## Recognizing Burnout
 
@@ -1377,7 +1394,7 @@ A few things I believe about sustainability in graduate school:
 CAPS offers one-time consultations, individual counseling, group therapy, and crisis support. Through UC health insurance, you can also access off-campus mental health appointments.
 
 - Location: Building 599, Annex building 434 (next to Storke Tower)
-- Phone: 805-893-4411 (24/7)
+- Phone: (805) 893-4411 (24/7)
 
 ### UCSB Mental Health Peer Program
 
@@ -1408,7 +1425,7 @@ Confidential short-term therapy, consultation, and wellness workshops available 
 
 Ryan Sims is available for discussions about academic progress and related behavioral health.
 
-- Phone: 805-893-2068
+- Phone: (805) 893-2068
 - Email: ryan.sims@graddiv.ucsb.edu
 
 ### Student Mental Health Coordination Services (SMHCS)
@@ -1450,7 +1467,7 @@ Access [Connexxus](https://bfs.ucsb.edu/travel_entertainment/travel-planning/con
 
 Rental cars require prior department approval and will not be reimbursed without it. When booking, use the UC contract IDs: Hertz (72130), Enterprise (XZ32A01), or National (through Connexxus). These contracts include full insurance coverage — decline all additional insurance at the counter. UC will not reimburse purchased additional insurance.
 
-If using a personal vehicle instead, mileage reimbursement is $0.70/mile (as of January 2025). Total mileage cost should not exceed the cost of a rental car or airfare.
+If using a personal vehicle instead, mileage reimbursement is $0.725/mile (as of January 2026). Total mileage cost should not exceed the cost of a rental car or airfare.
 
 ## Meals and Lodging
 
@@ -1801,13 +1818,13 @@ Some common formats:
 - **Brainstorming sessions.** Got a half-formed idea for a new project or collaboration? Bring it. The group is good at pressure-testing ideas and finding angles you have not considered.
 - **Visitors.** When a job candidate or seminar speaker visits, we sometimes use lab meeting for an informal conversation with them.
 
-- **Lab values check-in.** Periodically, we use lab meeting to check in on how we are doing as a group. Are people feeling supported? Is the workload distribution fair? Is anything brewing that we should address? These conversations are not about airing grievances. They are about maintaining the culture we want before small problems become big ones.
+- **Lab values check-in.** Periodically, we use lab meeting to check in on how we are doing as a group — what is working well, what could be better, and whether anything needs attention.
 
 There is no single "right" way to lead a lab meeting. Some people use slides. Some draw on the whiteboard. Some just talk. The only requirement is that you come prepared and give the rest of us enough context to be useful.
 
 ## Attendance
 
-Lab meeting attendance is expected for all graduate students and postdocs. If you have a genuine conflict (a TA section, a medical appointment, fieldwork), that is fine. Just let us know. But treat it as a real commitment, not an optional event.
+Lab meeting attendance is expected for all graduate students and postdocs. If you have a conflict (a TA section, a medical appointment, fieldwork), that is fine. Just let us know. But treat it as a real commitment, not an optional event.
 
 Undergraduates are welcome and encouraged to attend, even if you are just observing. You will learn a lot about how scientific thinking works by watching people wrestle with ideas in real time.
 
@@ -2066,6 +2083,9 @@ Track your goals using a simple table:
 - [ ] Connect to WiFi, Ethernet, Slack, Google Drive, and Zotero
 - [ ] Read the Lab Manual, Working Agreement, and SCUBA Manual
 - [ ] Complete your first IDP draft and schedule an initial meeting with Adrian
+- [ ] Complete the Mentor/Mentee Agreement with Adrian (see the Mentoring and Advising Structure section)
+- [ ] Review and sign the Lab Working Agreement at the first lab meeting of the year
+- [ ] Set up at least two backup locations for your research data (see Data Management section)
 - [ ] Meet the people in the Valuable Contacts section, especially Andi Jorgensen, Mengshu Ye, and the marine operations staff if you'll be doing fieldwork
 - [ ] If eligible for NSF GRFP, begin preparing your application immediately (see the Graduate Student Funding section)
 

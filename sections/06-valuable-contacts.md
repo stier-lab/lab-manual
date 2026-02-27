@@ -54,7 +54,7 @@ Handles Gateway package deliveries. He will email you when your order arrives fo
 - Email: oakley@ucsb.edu
 - Office: 4101 Life Sciences Building (LSB)
 
-*EEMB Fax:* 805-893-5885
+*EEMB Fax:* (805) 893-5885
 
 ### Molly Brzezinski, Lab Manager
 
@@ -84,7 +84,7 @@ Offices at the Point next to The Reef. They can help you become a boat captain, 
 
 Associate Specialist with the Santa Barbara Coastal Long-Term Ecological Research program (SBC-LTER), Unit Dive & Boat Safety Officer, and Launchmaster of the Small Boat Committee. An expert in nearly every type of marine operation. Great for feasibility consultations, gear recommendations, and site selection.
 
-- Phone: 805-893-7295
+- Phone: (805) 893-7295
 - Email: c_nelson@lifesci.ucsb.edu
 
 ## Mechanical Assistance
@@ -107,7 +107,7 @@ Contact for lab truck maintenance and repairs. See the Vehicles section for deta
 
 - Phone: (805) 893-3692
 
-## Travel Administration
+## Travel and Finance Administration
 
 ### Kim Taylor, MSI Travel Unit Analyst
 
@@ -115,6 +115,12 @@ Contact Kim for travel advances and reimbursements on MSI-administered grants.
 
 - Phone: (805) 893-8078
 - Email: travel@msi.ucsb.edu
+
+### Melia Cutcher, MSI Chief Accounting Officer
+
+For MSI-administered grant reimbursements through Concur, add Melia as an expense delegate. Contact her for MSI financial questions.
+
+- Email: mcutcher@msi.ucsb.edu
 
 ## Other Campus Resources
 
@@ -128,6 +134,15 @@ Available for academic progress and related well-being discussions. See the Ment
 ### Kristen Labonte, UCSB Library Liaison for EEMB
 
 Can help with literature searches, interlibrary loans, data management plans, and library resources. Find her contact info on the UCSB Library website.
+
+### Office of International Students & Scholars (OISS)
+
+International students should contact OISS for visa questions, travel signatures, employment authorization, and immigration compliance. Start travel signature requests at least 5-10 business days before international travel.
+
+- Phone: (805) 893-2929
+- Email: oiss@sa.ucsb.edu
+- Office: Student Resource Building, Room 3130
+- Website: [oiss.ucsb.edu](https://oiss.ucsb.edu/)
 
 ## Lab Contacts and Emergency Contact Info
 

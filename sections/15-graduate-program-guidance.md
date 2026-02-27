@@ -14,7 +14,7 @@ I encourage you to read broadly, including well outside your immediate subfield.
 
 My role in this process differs depending on where you are. For PhD students, developing an original research question is a core part of the training. I will push back, suggest readings, point you toward gaps I find exciting, and help you refine your thinking. But the question needs to be yours. For MS students, given the compressed timeline, I will be more hands-on in helping define the scope and I will sometimes suggest a question directly. Either way, we will talk about this a lot in our one-on-one meetings, especially in your first year.
 
-**Teaching Assistantships:** All EEMB students are required to TA at least 2 quarters. TA support is a large part of most funding packages. Classes vary in their workload. Some are straightforward and leave you plenty of time for research. Others are intensive and require weekly prep. The best way to figure out which classes work for you is to ask other grad students who have TAed them recently. Your fellow students are the most honest and up-to-date source on what to expect. I am happy to weigh in too, but the student grapevine is your best bet for the real picture. If you are considering TAing a course Adrian teaches, you are welcome to reach out to previous TAs for that course to hear about their experience.
+**Teaching Assistantships:** All EEMB students are required to TA at least 2 quarters. TA support is a large part of most funding packages. Classes vary in their workload. Some are straightforward and leave you plenty of time for research. Others are intensive and require weekly prep. The best way to figure out which classes work for you is to ask other grad students who have TAed them recently. Your fellow students are the most honest and up-to-date source on what to expect. I am happy to weigh in too, but the student grapevine is your best bet for the real picture.
 
 **Annual progress reports:** EEMB requires an annual Progress Report and Study Plan, filed with your committee. This makes sure you and your committee agree on where you are and what comes next. Your committee will meet at least once per year to review progress. Between formal meetings, keep your committee in the loop with brief updates — a short email when you have a result, a question when you are stuck, or a heads-up when your direction shifts. Committee members who hear from you regularly give better advice and write stronger letters on your behalf.
 
@@ -24,13 +24,13 @@ My role in this process differs depending on where you are. For PhD students, de
 
 **Publications:** Write and submit papers as you progress through your program. Do not wait until the end. Ideally, most of your publishable work will be in review or published by the time you defend. This makes your next career transition much easier.
 
-**Committee review of manuscripts:** Give each manuscript to your committee and incorporate feedback before submitting to a journal. This avoids the situation where a committee member raises concerns about published work at your defense.
+**Committee review of manuscripts:** Give each manuscript to your committee and incorporate feedback before submitting to a journal. See the Publishing and Peer Review section for the full internal review process.
 
 **Required coursework (Year 1):** All EEMB graduate students must complete EEMB 500 (Campus Orientation), 507 (Introduction to Graduate Research), 508 and 509 (Levels of Biological Organization I & II), 290 (Introduction to Faculty Research), and 502 (Teaching Techniques).
 
 ## MS Students
 
-Target: file your thesis by the end of your second year. The maximum time allowed by EEMB is 4 years. This is fast, so there is little time to waste. Adrian is more inclined to directly help MS students define or refine a research question than he is with PhD students, given the compressed timeline. Starting research the summer before you matriculate can give you a meaningful head start.
+Target: file your thesis by the end of your second year. The maximum time allowed by EEMB is 4 years. This is fast, so there is little time to waste. I am more inclined to directly help MS students define or refine a research question than I am with PhD students, given the compressed timeline. Starting research the summer before you matriculate can give you a meaningful head start.
 
 MS students can choose Plan I (thesis, minimum 30 units) or Plan II (comprehensive exam, minimum 36 units). Discuss with Adrian which path makes sense for your goals.
 

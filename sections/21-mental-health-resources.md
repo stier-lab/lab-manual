@@ -4,7 +4,7 @@
 
 Graduate school is hard. Not in the vague, "everyone says it's tough" sense, but in ways that are well-documented and measurable. Studies consistently find that around 40% of graduate students experience clinically significant anxiety or depression — roughly six times the rate in the general population. Imposter syndrome is pervasive. Burnout is common. These are not signs of personal weakness. They are structural features of the graduate school experience that need to be actively managed.
 
-I include this section not as a formality but because I believe that taking care of yourself is a prerequisite for doing good science. You cannot think clearly, write well, or be a good collaborator if you are running on empty. Seeking help is not a sign that something is wrong with you. It is a sign that you are taking your work and your wellbeing seriously.
+I include this section not as a formality but because I believe that taking care of yourself is a prerequisite for doing good science. You cannot think clearly, write well, or be a good collaborator if you are running on empty. Seeking help is not a sign that something is wrong with you. It is a sign that you are taking your work and your well-being seriously.
 
 ## Recognizing Burnout
 
@@ -39,7 +39,7 @@ A few things I believe about sustainability in graduate school:
 CAPS offers one-time consultations, individual counseling, group therapy, and crisis support. Through UC health insurance, you can also access off-campus mental health appointments.
 
 - Location: Building 599, Annex building 434 (next to Storke Tower)
-- Phone: 805-893-4411 (24/7)
+- Phone: (805) 893-4411 (24/7)
 
 ### UCSB Mental Health Peer Program
 
@@ -70,7 +70,7 @@ Confidential short-term therapy, consultation, and wellness workshops available 
 
 Ryan Sims is available for discussions about academic progress and related behavioral health.
 
-- Phone: 805-893-2068
+- Phone: (805) 893-2068
 - Email: ryan.sims@graddiv.ucsb.edu
 
 ### Student Mental Health Coordination Services (SMHCS)
