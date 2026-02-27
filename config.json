@@ -37,7 +37,8 @@
       "sections": [
         { "file": "14-graduate-student-funding.md", "id": "funding", "title": "Graduate Funding", "num": "14" },
         { "file": "15-graduate-program-guidance.md", "id": "program", "title": "Program Guidance", "num": "15" },
-        { "file": "16-mentoring-and-advising-structure.md", "id": "mentoring", "title": "Mentoring & Advising", "num": "16" }
+        { "file": "16-mentoring-and-advising-structure.md", "id": "mentoring", "title": "Mentoring & Advising", "num": "16" },
+        { "file": "27-postdocs.md", "id": "postdocs", "title": "Postdocs", "num": "27" }
       ]
     },
     {
@@ -45,6 +46,8 @@
       "sections": [
         { "file": "17-authorship-policy.md", "id": "authorship", "title": "Authorship Policy", "num": "17" },
         { "file": "18-data-management-and-reproducible-science.md", "id": "data", "title": "Data & Reproducibility", "num": "18" },
+        { "file": "28-publishing-and-peer-review.md", "id": "publishing", "title": "Publishing & Peer Review", "num": "28" },
+        { "file": "30-collaboration.md", "id": "collaboration", "title": "Collaboration", "num": "30" },
         { "file": "19-gender-equity-and-lab-climate.md", "id": "equity", "title": "Gender Equity & Climate", "num": "19" },
         { "file": "20-ai-use-policy.md", "id": "ai", "title": "AI Use Policy", "num": "20" }
       ]
@@ -62,7 +65,8 @@
       "label": "Field & Community",
       "sections": [
         { "file": "25-moorea-fieldwork.md", "id": "moorea", "title": "Mo'orea Fieldwork", "num": "25" },
-        { "file": "26-lab-meetings.md", "id": "lab-meetings", "title": "Lab Meetings", "num": "26" }
+        { "file": "26-lab-meetings.md", "id": "lab-meetings", "title": "Lab Meetings", "num": "26" },
+        { "file": "29-science-communication.md", "id": "scicomm", "title": "Science Communication", "num": "29" }
       ]
     }
   ],

@@ -65,6 +65,14 @@ I think it matters that people in the lab actually enjoy spending time together.
 
 Attend EEMB seminars, thesis defenses, and other departmental talks when your schedule allows. Even more valuable: talk about what you heard with labmates afterward. This is how you build intellectual breadth and stay connected to the wider scientific community. I consider it one of the most valuable parts of being at a research university. I notice when people take advantage of it.
 
+## Photos, Videos, and Media
+
+We take a lot of photos and videos — in the field, in the lab, at social events, and during outreach. These images are valuable for the lab website, social media, presentations, grant proposals, and departmental communications.
+
+Before using a photo or video of a lab member in any public-facing context (website, social media, presentation to an external audience, news article), ask the person for permission. This applies even if they were present when the photo was taken. Some people are comfortable being featured publicly; others are not. Respect that without requiring an explanation.
+
+If you would prefer not to appear in lab photos or on the lab website, let Adrian or the lab manager know. You will not be asked to justify it, and it will not affect anything.
+
 ## Roles and Awareness
 
 You will play multiple roles in this lab: student, teacher, mentor to undergrads, peer. Be aware of how your behavior carries different weight in different contexts, especially when there is a power differential. The way you give feedback to an undergraduate mentee is not the same as how you push back on a fellow grad student's interpretation. Both differ from how you raise a concern with me.
@@ -755,9 +763,36 @@ Other fellowships to consider:
 
 New applicants are automatically considered for campus fellowship competitions. The department strongly encourages extramural pre-doctoral fellowship applications.
 
-## Research Expenses
+## Research Expenses and Writing Your Own Grants
 
-Part of becoming an independent scientist is learning to fund your own research. Adrian will help you identify funding sources. He will support your work through his grants when your project aligns with them. But you should also write and submit small grants throughout your program (e.g., Sigma Xi, UCSB departments, disciplinary societies, UC Natural Reserve System Mathias Grants). Design projects that are financially feasible. Talk to Adrian before purchasing anything from his accounts. Always know the correct funding source/speed type for any purchase. See the Purchasing, Shipping, and Reimbursement section for logistics.
+Part of becoming an independent scientist is learning to fund your own research. Adrian will help you identify funding sources. He will support your work through his grants when your project aligns with them. But you should also write and submit small grants throughout your program. Design projects that are financially feasible. Talk to Adrian before purchasing anything from his accounts. Always know the correct funding source/speed type for any purchase. See the Purchasing, Shipping, and Reimbursement section for logistics.
+
+### Why Write Grants as a Student?
+
+Grant writing is a skill you will use for the rest of your scientific career. Starting early — even with small proposals — builds the muscle. Each proposal you write forces you to clarify your thinking, articulate significance, and plan a realistic budget and timeline. Funded grants also look good on your CV, demonstrate independence to future employers, and free up lab resources for other students.
+
+### Where to Apply
+
+Start small and build up. Opportunities include:
+
+- **UCSB sources:** Graduate Division Dissertation Fellowship, Block Grant summer funding, departmental awards
+- **UC system:** UC Natural Reserve System Mathias Grants (relevant if you work at a UC reserve, including Gump Station)
+- **Scientific societies:** Sigma Xi Grants-in-Aid of Research, Ecology and Evolution of Communities grants from disciplinary societies (ESA, SICB, etc.)
+- **Federal pre-doctoral fellowships:** NSF GRFP (see the Fellowships section above), NDSEG, Ford Foundation
+- **Conservation and marine-specific:** Nancy Foster Scholarship (NOAA), Explorer's Club grants, National Geographic Early Career Grant, Myers Oceanographic Trust
+
+The Consolidated Funding List in the shared Google Drive folder tracks opportunities and deadlines. Check it at the start of each quarter.
+
+### The Process
+
+1. **Identify the opportunity** well before the deadline. Most proposals take 4-8 weeks of serious work. Major fellowships like NSF GRFP take several months.
+2. **Read the solicitation carefully.** Understand what the funder values, what the review criteria are, and what they are not funding. Tailor your proposal to the specific program.
+3. **Draft a rough outline** and discuss it with Adrian before writing. This is where most proposals go wrong — not in the writing, but in the framing and feasibility.
+4. **Write the full draft.** Budget enough time for multiple revisions. A first draft is never the final draft.
+5. **Get feedback.** Share with Adrian and at least one labmate. If possible, share with someone who has successfully applied to the same program.
+6. **Revise and submit.** Leave time for the administrative side — institutional approvals, budget forms, and biosketches. UCSB's Office of Research requires lead time for proposals that go through the university.
+
+Adrian will review grant drafts and provide feedback. For larger proposals, expect multiple rounds of revision. For small grants, one round may be sufficient. Either way, do not wait until the last week to ask for feedback.
 
 ## Conferences
 
@@ -914,6 +949,70 @@ Good advising depends on honest, two-way communication. Adrian needs your feedba
 
 **This applies to everyone in the lab.** Whether you are a graduate student, postdoc, lab manager, or undergraduate researcher, you should feel that giving feedback — up, down, and sideways — is a normal and expected part of being in this lab. Adrian is not the only person who benefits from hearing what is and is not working. Labmates mentoring undergraduates, collaborators sharing a project, and TAs working with an instructor all benefit from the same principle: say something early, say it directly, and assume the other person wants to hear it.
 
+## Letters of Recommendation
+
+At some point you will need letters from Adrian — for fellowships, jobs, graduate school applications, or awards. Strong letters require planning on both sides.
+
+**Give adequate notice.** Ask at least three to four weeks before the deadline. Adrian writes careful, detailed letters, and doing that well takes time. Last-minute requests produce weaker letters.
+
+**Provide materials.** When you ask for a letter, send Adrian:
+
+- The opportunity description (job posting, fellowship solicitation, etc.)
+- Your current CV
+- A short summary of what you want the letter to emphasize (your research, teaching, mentoring, specific skills)
+- Any specific points that would strengthen your application (a connection to the funder's mission, a relevant skill, an experience the reader should know about)
+- The deadline and submission instructions
+
+**Have a conversation.** For important applications (faculty jobs, major fellowships), schedule a brief meeting to talk through your candidacy. This helps Adrian tailor the letter to the specific opportunity and the specific review committee.
+
+**Follow up.** If you have not received confirmation that the letter was submitted a few days before the deadline, send a reminder. This is not rude. It is responsible.
+
+**Be honest about fit.** If you are not sure Adrian is the best person to write a particular letter (for example, if you need someone who can speak to your teaching or to a subfield Adrian does not work in), ask. He will tell you honestly whether he is the right choice, and he can suggest alternatives.
+
+**Adrian's commitment.** If Adrian agrees to write you a letter, he will write a strong one. He does not write lukewarm letters. If he has concerns about writing a compelling letter for a particular opportunity, he will tell you directly so you can make an informed decision about who to ask.
+
+
+---
+
+# Postdocs
+
+## Your Role in the Lab
+
+Postdocs occupy a unique position. You are no longer a student, but you are not yet fully independent. The goal of a postdoc in this lab is to help you make that transition. You should leave here with publications, an independent research identity, a professional network, and the skills to run your own program.
+
+Your level of independence will be higher than that of a graduate student. I expect you to drive your own projects, manage your time without much oversight, and bring ideas to me rather than waiting for direction. That said, you are not on your own. I am here to provide feedback, open doors, co-develop ideas, and help you navigate the job market. The balance between independence and mentorship will shift over the course of your appointment, and we should talk about where it is and where you want it to be.
+
+## Expectations
+
+**Research output.** The postdoc years are when you build the publication record that defines the next stage of your career. I expect you to be writing and submitting papers throughout your appointment — not saving everything for the end. We will set specific manuscript targets in your mentoring agreement and revisit them quarterly.
+
+**Mentoring.** I expect postdocs to help mentor graduate students and undergraduates in the lab. This is not free labor. Mentoring is a skill you need for your career, and doing it well here gives you concrete evidence for job applications. But it should not consume your research time. If mentoring responsibilities are becoming too heavy, tell me.
+
+**Lab citizenship.** Attend lab meetings, contribute to discussions, and be a constructive presence. You bring experience and perspective that students benefit from enormously. Your engagement with the lab community matters, even when your own work feels all-consuming.
+
+**Professional development.** Actively build skills you will need as a PI: grant writing, project management, hiring and supervising people, teaching (if relevant to your goals), and navigating the job market. I am happy to help with any of these.
+
+## What Adrian Provides
+
+- Regular one-on-one meetings (weekly or biweekly, your preference).
+- Feedback on manuscripts, grant proposals, and job applications.
+- Honest career advice, including about non-academic paths if that is where your interests lead.
+- Introductions to collaborators and colleagues at conferences and through my network.
+- Support for independent funding applications (K99, Smith Fellows, NOAA, etc.). I will review drafts and write strong letters.
+- A clear understanding of authorship expectations on shared projects. We will discuss this at the start and revisit as projects develop.
+
+## Funding and Logistics
+
+Postdoc positions are typically funded through specific grants with defined terms. Make sure you understand your appointment length, salary, benefits eligibility, and what happens if the grant ends before your planned departure. Ask these questions before you start, not after.
+
+UCSB postdocs are represented by UAW Local 4811 (the same union as graduate student employees). Know your contract, your benefits, and your rights. The union website at [uaw4811.org](https://uaw4811.org/) has the current contract and resources.
+
+## The Job Market
+
+Start preparing earlier than you think. If you are on a two-year postdoc, the job market cycle means you may be applying during your first year. We will talk about your timeline early and adjust expectations accordingly. I will help with application materials, practice job talks in lab meeting, and make calls on your behalf. But you need to drive the process. Set up job alerts, track deadlines, and keep a running list of target positions.
+
+If your career goals change during the postdoc — toward industry, government, NGOs, or something else — that is completely fine. Tell me so I can help you prepare for the path you actually want.
+
 
 ---
 
@@ -1025,6 +1124,129 @@ For work funded by external grants, data archiving requirements from the funding
 Under the UC Research Data Policy (effective July 2022), the University owns research data generated during university research. Students must collect, manage, and share research data in accordance with their discipline's standards, UC/UCSB policies, and applicable legal requirements. Data from grant-funded research must be FAIR (Findable, Accessible, Interoperable, Reusable). This does not change the lab's practical policies above. It means your data practices must meet both lab and university standards.
 
 For the lab's AI use policy, see the separate AI Use Policy section.
+
+
+---
+
+# Publishing and Peer Review
+
+## The Publishing Process
+
+Publishing is how we contribute to the scientific record. It is also how you build a career. This section walks through the process so you know what to expect, especially if you have not published before.
+
+### Writing the Paper
+
+Start writing earlier than you think you should. You do not need a complete dataset or a final analysis to begin drafting an introduction, sketching out methods, or outlining the argument. Writing clarifies thinking. Many of the best insights about a project come during the writing, not before it.
+
+A few practical notes:
+
+- **Write in stages.** A rough draft does not need to be good. It needs to exist. Get something on paper, then improve it. Perfectionism at the drafting stage is the single biggest obstacle to productivity.
+- **Use a reference manager.** Zotero is the lab standard. Insert citations as you write, not after. Retrofitting citations into a finished draft is miserable work.
+- **Write for your reader, not for yourself.** Your methods section should be reproducible. Your results should be interpretable without reading the methods. Your discussion should connect back to the questions you posed in the introduction. This sounds obvious, but most first drafts fail at it.
+- **Circulate drafts to labmates** before giving them to Adrian. Fresh eyes catch things you cannot see. Labmates are also faster than Adrian at turning around feedback on a draft. Use this to your advantage.
+
+### Internal Review
+
+Before any manuscript goes to a journal, it goes through internal review:
+
+1. **Labmate feedback.** Share with one or two labmates and incorporate their suggestions.
+2. **Adrian's review.** Give Adrian a clean draft (not a rough first pass). He will return substantive feedback, usually within the timeline you agreed on in your mentoring agreement. If he is slow, remind him.
+3. **Committee review.** For dissertation chapters, circulate to your committee and incorporate their feedback before journal submission. This avoids the painful scenario where a committee member raises concerns about published work at your defense.
+4. **Co-author review.** All co-authors must see and approve the final version before submission. No exceptions. This includes the abstract.
+
+### Choosing a Journal
+
+Pick a journal before you finish writing. The journal's scope and audience should shape how you frame the paper. Consider impact factor, audience, open access options, turnaround time, and cost. Adrian will have opinions. So will your co-authors. Discuss this as a group.
+
+### Submission and Revision
+
+- **Cover letters matter.** Write a clear, concise cover letter that explains why the paper fits the journal and what makes it significant. Do not just summarize the abstract.
+- **Suggested reviewers.** Most journals ask for suggested reviewers. Choose people who are qualified, do not have conflicts of interest, and are likely to engage constructively with your work. Adrian can help you identify appropriate reviewers.
+- **Rejection happens.** Most papers are rejected at least once. It stings, but it is normal. Read the reviews carefully, decide what is useful, revise the paper, and resubmit elsewhere. Do not let a rejection sit on your desk for months. Process it, improve the paper, and move on.
+- **Responding to reviewers.** Write a detailed, point-by-point response to every comment. Be respectful and thorough, even when you disagree. When you disagree with a reviewer, explain your reasoning clearly and provide evidence. Never be dismissive.
+- **Turnaround.** Aim to resubmit a revision within 4-8 weeks of receiving reviews. Journals notice when revisions take months, and the editors may send it back out for re-review.
+
+### Preprints
+
+I encourage posting preprints (e.g., on [bioRxiv](https://www.biorxiv.org/) or [EcoEvoRxiv](https://ecoevorxiv.org/)) when you submit to a journal. Preprints make your work available immediately, establish priority, and invite early feedback. Most ecology journals accept papers that have been posted as preprints. Check the journal's policy before posting, and discuss timing with your co-authors.
+
+## Peer Review
+
+### Reviewing for Journals
+
+At some point during your graduate career or postdoc, you will be asked to review a manuscript for a journal. This is a core professional responsibility. The system works because scientists review each other's work.
+
+**When to say yes:**
+- The paper is in your area of expertise
+- You can complete the review in the requested timeframe (usually 2-4 weeks)
+- You do not have a conflict of interest with the authors
+
+**When to say no:**
+- You are overcommitted (it is better to decline than to agree and be late)
+- The paper is outside your expertise
+- You have a conflict of interest
+
+**How we handle reviews in the lab:**
+- If you are a student and want to co-review with Adrian, ask. This is a great learning opportunity. Adrian will submit the review under his name and acknowledge your contribution to the editor.
+- Once you have co-reviewed a few papers, you are ready to review independently. When you accept your first solo review invitation, let Adrian know — it is a milestone worth noting.
+- Write reviews you would want to receive: specific, constructive, and focused on improving the science. Identify genuine problems, but do not nitpick for the sake of it. Recommend clearly: accept, minor revision, major revision, or reject. Do not hedge.
+- Keep reviews confidential. Do not share the manuscript or discuss its contents with anyone other than Adrian (if co-reviewing).
+
+### Responding When Your Work Is Reviewed
+
+Read reviews when you are calm. Your first reaction to critical feedback is almost never your best reaction. Give yourself a day before drafting a response. Then address every point systematically. The goal is not to win an argument with an anonymous reviewer. The goal is to make the paper better.
+
+
+---
+
+# Collaboration
+
+## Working with People Outside the Lab
+
+Some of your best work will involve people who are not in this lab. Collaborations with other labs, other departments, other institutions, and non-academic partners are a normal and encouraged part of how we do science. Coral reef ecology is inherently interdisciplinary, and the questions we ask often require expertise we do not have in-house.
+
+That said, collaborations work best when expectations are clear from the start. Most collaboration problems stem from unspoken assumptions — about who does what, who gets credit, and who owns the data.
+
+## Setting Up a Collaboration
+
+When starting a new collaboration, have an explicit conversation (ideally in writing) about:
+
+- **Roles and responsibilities.** Who is doing what? Who is leading the project? Who is providing data, analysis, field support, or other resources?
+- **Authorship.** Discuss expected authorship early, using the principles in the Authorship Policy section. Revisit as the project develops. Do not wait until the paper is written.
+- **Data sharing.** Who collects the data? Who has access to it during the project? What happens to the data after the project ends? If you are using someone else's data, clarify the terms before you start analyzing it.
+- **Timeline.** What is the expected timeline for the project? What happens if one party falls behind?
+- **Communication.** How often will you check in? What is the preferred mode of communication? Who is the point of contact on each side?
+
+For large or multi-institutional collaborations, consider putting this in a written agreement or memo of understanding. It does not need to be formal or legal. A shared document that everyone has signed off on is enough. The point is to have something to refer back to if memories diverge.
+
+## Using Shared Data
+
+If a collaborator shares data with you, treat it with respect:
+
+- **Do not share it further** without explicit permission.
+- **Do not use it for purposes beyond** what was agreed. If you see an interesting pattern that could become a separate paper, ask before pursuing it.
+- **Acknowledge the source** appropriately — through authorship, acknowledgements, or data citations depending on the contribution.
+- **Return the favor.** If you generate data that might be useful to your collaborators, offer to share it.
+
+## When Adrian Should Be Involved
+
+You do not need Adrian's permission to collaborate with other scientists. I encourage it. But there are a few situations where you should loop me in:
+
+- **New collaborations that use lab resources** (equipment, boat time, grant funding, field site access).
+- **Collaborations that overlap with other projects in the lab.** If someone else in the lab is already working with the same group or on a closely related question, we need to coordinate.
+- **Anything involving a formal agreement** (data sharing agreements, MOUs, permits under the lab's name).
+- **Collaborations with industry or government** that might involve intellectual property, conflicts of interest, or political sensitivities.
+
+Beyond those cases, go ahead. Meeting people at conferences and starting conversations about shared interests is one of the best things you can do for your career. If a conversation turns into a potential project, let me know so I can help if needed — or just stay out of the way.
+
+## Being a Good Collaborator
+
+A few things that go a long way:
+
+- **Do what you said you would do, when you said you would do it.** Reliability is the single most important trait in a collaborator. Your reputation is built on whether people can count on you.
+- **Communicate when things change.** If you are going to be late on a deliverable, say so early. People can adjust. What they cannot handle is silence followed by a missed deadline.
+- **Be generous with credit.** When in doubt, include someone rather than exclude them. A generous authorship policy builds goodwill and future collaborations.
+- **Respond to emails.** Collaborators who go silent are collaborators who do not get invited back. Even a quick "I saw this, will get to it next week" keeps the relationship healthy.
 
 
 ---
@@ -1600,6 +1822,61 @@ Our job as a lab is to make that vulnerability productive. We ask questions to u
 ## Departmental Seminars
 
 Beyond our own lab meetings, EEMB departmental seminars are an important part of intellectual life at UCSB. I encourage everyone to attend when your schedule permits. The talks expose you to ideas and systems well outside your own work. That breadth matters. Some of the most interesting questions in ecology emerge at the boundaries between subfields. When you do attend a seminar, talk about it with labmates afterward. Even a quick conversation over coffee can sharpen your thinking about your own research.
+
+
+---
+
+# Science Communication and Public Engagement
+
+## Why It Matters
+
+We study ecosystems that people care about — coral reefs, marine communities, the ocean. The public funds our work and is affected by what we discover. Communicating our science beyond academic journals is not optional or extracurricular. It is part of the job.
+
+That said, communicating well to non-specialist audiences is a skill, and like any skill it requires practice and thought. This section covers expectations and some practical guidance.
+
+## Representing the Lab
+
+When you give a public talk, post on social media about your research, talk to a journalist, or write for a general audience, you are representing yourself, the lab, UCSB, and the scientific community. This is not meant to make you anxious. It is meant to make you thoughtful.
+
+A few principles:
+
+- **Be accurate.** Do not overstate your findings. Resist the temptation to make results sound more dramatic or certain than they are. Uncertainty is part of science, and the public respects honesty more than hype.
+- **Stay in your lane.** Speak with authority about your own work and your area of expertise. When asked about topics outside your expertise, say so. "That is not my area, but here is someone who would know" is a perfectly good answer.
+- **Credit your collaborators.** Science is collaborative. When discussing work publicly, acknowledge the team.
+- **Distinguish your views from the lab's.** If you are expressing a personal opinion (about policy, management, or anything controversial), make clear that you are speaking for yourself and not for the lab or UCSB.
+
+## Social Media
+
+Social media is a powerful tool for sharing your work, building your professional network, and engaging with the public and other scientists. Many ecology careers have benefited from a thoughtful social media presence. I encourage you to use it if it fits your style.
+
+Some guidance:
+
+- **Share your science.** Post about your publications, fieldwork, conference talks, and scientific interests. Photos and short videos from the field do well and help people connect with what we do.
+- **Engage constructively.** Academic social media can be contentious. You do not need to participate in every debate. When you do engage, be professional and assume good faith.
+- **Think before posting.** The internet is permanent. A quick reaction to a controversy can follow you for years. If you are unsure about something, sleep on it or ask a labmate.
+- **Protect unpublished work.** Sharing fieldwork photos and general project updates is fine. Sharing unpublished results, figures, or data is not — unless you and your co-authors have agreed to it.
+
+## Talking to Journalists and Media
+
+If a reporter contacts you about your work, great. A few things to know:
+
+- **You can say yes.** You do not need permission from Adrian or UCSB to talk to a reporter, though giving Adrian a heads-up is appreciated.
+- **You can ask for questions in advance.** Most reporters will share their questions or topic beforehand if you ask.
+- **You can review quotes.** It is reasonable to ask to see your quotes before publication. Not all reporters will agree, but many will.
+- **UCSB Public Affairs** can help. If a media request feels big or sensitive, the UCSB Office of Public Affairs and Communication can provide media training and help you prepare. They are at [news.ucsb.edu](https://news.ucsb.edu/).
+- **Talk to Adrian** if a media inquiry involves anything politically sensitive, controversial, or related to a grant funder. Not because you need permission, but because it helps to think through framing together.
+
+## Outreach and Broader Impacts
+
+Many grants (especially NSF) require broader impacts activities. More importantly, outreach connects our work to the communities affected by it. Opportunities include:
+
+- UCSB's Research Experience and Education Facility (REEF) and the campus aquarium
+- Local school visits and classroom presentations
+- Science nights and community events in Santa Barbara
+- Outreach tied to fieldwork in Mo'orea (working with local schools and communities)
+- Writing for general-audience outlets (blogs, The Conversation, popular science magazines)
+
+If outreach is important to you, include it in your IDP and we will make space for it. It counts as real, valuable work in this lab.
 
 
 ---

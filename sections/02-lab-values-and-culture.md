@@ -43,6 +43,14 @@ I think it matters that people in the lab actually enjoy spending time together.
 
 Attend EEMB seminars, thesis defenses, and other departmental talks when your schedule allows. Even more valuable: talk about what you heard with labmates afterward. This is how you build intellectual breadth and stay connected to the wider scientific community. I consider it one of the most valuable parts of being at a research university. I notice when people take advantage of it.
 
+## Photos, Videos, and Media
+
+We take a lot of photos and videos — in the field, in the lab, at social events, and during outreach. These images are valuable for the lab website, social media, presentations, grant proposals, and departmental communications.
+
+Before using a photo or video of a lab member in any public-facing context (website, social media, presentation to an external audience, news article), ask the person for permission. This applies even if they were present when the photo was taken. Some people are comfortable being featured publicly; others are not. Respect that without requiring an explanation.
+
+If you would prefer not to appear in lab photos or on the lab website, let Adrian or the lab manager know. You will not be asked to justify it, and it will not affect anything.
+
 ## Roles and Awareness
 
 You will play multiple roles in this lab: student, teacher, mentor to undergrads, peer. Be aware of how your behavior carries different weight in different contexts, especially when there is a power differential. The way you give feedback to an undergraduate mentee is not the same as how you push back on a fellow grad student's interpretation. Both differ from how you raise a concern with me.

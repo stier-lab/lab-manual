@@ -40,9 +40,36 @@ Other fellowships to consider:
 
 New applicants are automatically considered for campus fellowship competitions. The department strongly encourages extramural pre-doctoral fellowship applications.
 
-## Research Expenses
+## Research Expenses and Writing Your Own Grants
 
-Part of becoming an independent scientist is learning to fund your own research. Adrian will help you identify funding sources. He will support your work through his grants when your project aligns with them. But you should also write and submit small grants throughout your program (e.g., Sigma Xi, UCSB departments, disciplinary societies, UC Natural Reserve System Mathias Grants). Design projects that are financially feasible. Talk to Adrian before purchasing anything from his accounts. Always know the correct funding source/speed type for any purchase. See the Purchasing, Shipping, and Reimbursement section for logistics.
+Part of becoming an independent scientist is learning to fund your own research. Adrian will help you identify funding sources. He will support your work through his grants when your project aligns with them. But you should also write and submit small grants throughout your program. Design projects that are financially feasible. Talk to Adrian before purchasing anything from his accounts. Always know the correct funding source/speed type for any purchase. See the Purchasing, Shipping, and Reimbursement section for logistics.
+
+### Why Write Grants as a Student?
+
+Grant writing is a skill you will use for the rest of your scientific career. Starting early — even with small proposals — builds the muscle. Each proposal you write forces you to clarify your thinking, articulate significance, and plan a realistic budget and timeline. Funded grants also look good on your CV, demonstrate independence to future employers, and free up lab resources for other students.
+
+### Where to Apply
+
+Start small and build up. Opportunities include:
+
+- **UCSB sources:** Graduate Division Dissertation Fellowship, Block Grant summer funding, departmental awards
+- **UC system:** UC Natural Reserve System Mathias Grants (relevant if you work at a UC reserve, including Gump Station)
+- **Scientific societies:** Sigma Xi Grants-in-Aid of Research, Ecology and Evolution of Communities grants from disciplinary societies (ESA, SICB, etc.)
+- **Federal pre-doctoral fellowships:** NSF GRFP (see the Fellowships section above), NDSEG, Ford Foundation
+- **Conservation and marine-specific:** Nancy Foster Scholarship (NOAA), Explorer's Club grants, National Geographic Early Career Grant, Myers Oceanographic Trust
+
+The Consolidated Funding List in the shared Google Drive folder tracks opportunities and deadlines. Check it at the start of each quarter.
+
+### The Process
+
+1. **Identify the opportunity** well before the deadline. Most proposals take 4-8 weeks of serious work. Major fellowships like NSF GRFP take several months.
+2. **Read the solicitation carefully.** Understand what the funder values, what the review criteria are, and what they are not funding. Tailor your proposal to the specific program.
+3. **Draft a rough outline** and discuss it with Adrian before writing. This is where most proposals go wrong — not in the writing, but in the framing and feasibility.
+4. **Write the full draft.** Budget enough time for multiple revisions. A first draft is never the final draft.
+5. **Get feedback.** Share with Adrian and at least one labmate. If possible, share with someone who has successfully applied to the same program.
+6. **Revise and submit.** Leave time for the administrative side — institutional approvals, budget forms, and biosketches. UCSB's Office of Research requires lead time for proposals that go through the university.
+
+Adrian will review grant drafts and provide feedback. For larger proposals, expect multiple rounds of revision. For small grants, one round may be sufficient. Either way, do not wait until the last week to ask for feedback.
 
 ## Conferences
 

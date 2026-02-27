@@ -59,3 +59,25 @@ Good advising depends on honest, two-way communication. Adrian needs your feedba
 **Communicate regularly with your committee.** Your committee exists to support your development, not just to evaluate you at milestones. Do not wait until your annual meeting to reach out. Send brief updates between meetings. If you are stuck on a question that falls within a committee member's expertise, email them. If your research direction is shifting, let them know before the next formal meeting rather than surprising them. Committee members who are kept in the loop give better advice and are stronger advocates for you when it matters — for job references, fellowship letters, and your defense.
 
 **This applies to everyone in the lab.** Whether you are a graduate student, postdoc, lab manager, or undergraduate researcher, you should feel that giving feedback — up, down, and sideways — is a normal and expected part of being in this lab. Adrian is not the only person who benefits from hearing what is and is not working. Labmates mentoring undergraduates, collaborators sharing a project, and TAs working with an instructor all benefit from the same principle: say something early, say it directly, and assume the other person wants to hear it.
+
+## Letters of Recommendation
+
+At some point you will need letters from Adrian — for fellowships, jobs, graduate school applications, or awards. Strong letters require planning on both sides.
+
+**Give adequate notice.** Ask at least three to four weeks before the deadline. Adrian writes careful, detailed letters, and doing that well takes time. Last-minute requests produce weaker letters.
+
+**Provide materials.** When you ask for a letter, send Adrian:
+
+- The opportunity description (job posting, fellowship solicitation, etc.)
+- Your current CV
+- A short summary of what you want the letter to emphasize (your research, teaching, mentoring, specific skills)
+- Any specific points that would strengthen your application (a connection to the funder's mission, a relevant skill, an experience the reader should know about)
+- The deadline and submission instructions
+
+**Have a conversation.** For important applications (faculty jobs, major fellowships), schedule a brief meeting to talk through your candidacy. This helps Adrian tailor the letter to the specific opportunity and the specific review committee.
+
+**Follow up.** If you have not received confirmation that the letter was submitted a few days before the deadline, send a reminder. This is not rude. It is responsible.
+
+**Be honest about fit.** If you are not sure Adrian is the best person to write a particular letter (for example, if you need someone who can speak to your teaching or to a subfield Adrian does not work in), ask. He will tell you honestly whether he is the right choice, and he can suggest alternatives.
+
+**Adrian's commitment.** If Adrian agrees to write you a letter, he will write a strong one. He does not write lukewarm letters. If he has concerns about writing a compelling letter for a particular opportunity, he will tell you directly so you can make an informed decision about who to ask.
