@@ -1,6 +1,5 @@
 node_modules/
 .DS_Store
-docs/
 old manual/
 firebase-debug.log
 output.md

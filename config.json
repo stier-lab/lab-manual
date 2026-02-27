@@ -67,6 +67,7 @@
     }
   ],
   "appendix": [
-    { "file": "onboarding-checklist.md", "id": "onboarding", "title": "Onboarding Checklist", "badge": "NEW" }
+    { "file": "onboarding-checklist.md", "id": "onboarding", "title": "Onboarding Checklist", "badge": "NEW" },
+    { "file": "working-agreement.md", "id": "working-agreement", "title": "Lab Working Agreement" }
   ]
 }
