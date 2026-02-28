@@ -510,7 +510,7 @@ Back up your work regularly -- ideally daily. Hard drives fail, laptops get stol
 
 ## Software Licenses
 
-The lab maintains licenses for specialized software used on shared and personal machines. License keys and installation records are stored in Google Drive (Stier Lab > Admin > Software Licenses). If you need access to lab-licensed software, check this folder first before purchasing anything.
+The lab maintains licenses for specialized software used on shared and personal machines. License keys and installation records are stored in Google Drive (`Admin > Lab computer information`). If you need access to lab-licensed software, check this folder first before purchasing anything.
 
 **Current lab software (check the folder for the latest list):**
 
@@ -523,9 +523,9 @@ The lab maintains licenses for specialized software used on shared and personal 
 
 **UCSB site licenses:** UCSB provides free or discounted access to many software packages through [UCSB Software Licensing](https://www.software.ucsb.edu/). Check here before buying anything. Common free options include Microsoft Office 365, MATLAB, Adobe Creative Cloud (varies by department), and antivirus software.
 
-**Important:** When you install lab-purchased software on any machine, record the license key, installation date, and machine name in the Software Licenses folder. License keys are expensive and hard to replace if lost. Do not store them only on the machine where the software is installed — if that machine dies, the key is gone.
+**Important:** When you install lab-purchased software on any machine, record the license key, installation date, and machine name in the `Lab computer information` folder. License keys are expensive and hard to replace if lost. Do not store them only on the machine where the software is installed — if that machine dies, the key is gone.
 
-**Vendor contacts:** For equipment-specific software issues (microscope cameras, analytical instruments), vendor contact information is in the Software Licenses folder. Try the vendor before LSCG — LSCG supports general computing, not specialized scientific instruments.
+**Vendor contacts:** For equipment-specific software issues (microscope cameras, analytical instruments), vendor contact information is in the `Lab computer information` folder. Try the vendor before LSCG — LSCG supports general computing, not specialized scientific instruments.
 
 ## Printing
 
@@ -663,7 +663,7 @@ Before placing any order, you need to know the funding source. Each purchase mus
 
 **How to choose the right account:** Most routine lab supplies (consumables, field gear, small equipment) are charged to the primary active research grant. If your purchase is for a specific project funded by a specific grant, use that grant's account. When in doubt, ask Molly or check the lab Funding Sheet (see below). Never guess — a wrong account charge is harder to fix than a quick Slack message.
 
-Log all purchases using lab funds on the **Expense Sheet** in Google Drive (Stier Lab > Admin > Expense Sheet). Note the funding source, supplier, items, and relevant details. The **Funding Sheet** (Stier Lab > Funding) lists active grants and their account strings.
+Log all purchases using lab funds on the **Expense Sheet** in Google Drive (Stier Lab > Admin > Purchasing > Expenses > Working Stier Lab Expense Worksheet). Note the funding source, supplier, items, and relevant details. The **Funding Project Code List** (Stier Lab > Admin > Purchasing > Funding Project Code List) lists active grants and their account strings.
 
 ## Gateway
 

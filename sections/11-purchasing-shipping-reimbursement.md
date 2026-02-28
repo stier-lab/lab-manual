@@ -8,7 +8,7 @@ Before placing any order, you need to know the funding source. Each purchase mus
 
 **How to choose the right account:** Most routine lab supplies (consumables, field gear, small equipment) are charged to the primary active research grant. If your purchase is for a specific project funded by a specific grant, use that grant's account. When in doubt, ask Molly or check the lab Funding Sheet (see below). Never guess — a wrong account charge is harder to fix than a quick Slack message.
 
-Log all purchases using lab funds on the **Expense Sheet** in Google Drive (Stier Lab > Admin > Expense Sheet). Note the funding source, supplier, items, and relevant details. The **Funding Sheet** (Stier Lab > Funding) lists active grants and their account strings.
+Log all purchases using lab funds on the **Expense Sheet** in Google Drive (Stier Lab > Admin > Purchasing > Expenses > Working Stier Lab Expense Worksheet). Note the funding source, supplier, items, and relevant details. The **Funding Project Code List** (Stier Lab > Admin > Purchasing > Funding Project Code List) lists active grants and their account strings.
 
 ## Gateway
 
