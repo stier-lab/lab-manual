@@ -4,7 +4,7 @@ You must complete several trainings before you can get to work. It feels like a 
 
 ## Basic Training
 
-**Step 1:** Log in to the [UC Learning Center](https://www.learningcenter.ucsb.edu). Employees log in with UCNetID. Graduate students and volunteers use the Non-Employee login. Email ehstraining@ehs.ucsb.edu with your name, UCNetID, email, affiliation type, and PI name.
+**Step 1:** Log in to the [UC Learning Center](https://www.learningcenter.ucsb.edu/). Employees log in with UCNetID. Graduate students and volunteers use the Non-Employee login. Email ehstraining@ehs.ucsb.edu with your name, UCNetID, email, affiliation type, and PI name.
 
 **Step 2:** Complete the following trainings:
 

@@ -369,7 +369,7 @@ You must complete several trainings before you can get to work. It feels like a 
 
 ## Basic Training
 
-**Step 1:** Log in to the [UC Learning Center](https://www.learningcenter.ucsb.edu). Employees log in with UCNetID. Graduate students and volunteers use the Non-Employee login. Email ehstraining@ehs.ucsb.edu with your name, UCNetID, email, affiliation type, and PI name.
+**Step 1:** Log in to the [UC Learning Center](https://www.learningcenter.ucsb.edu/). Employees log in with UCNetID. Graduate students and volunteers use the Non-Employee login. Email ehstraining@ehs.ucsb.edu with your name, UCNetID, email, affiliation type, and PI name.
 
 **Step 2:** Complete the following trainings:
 
@@ -527,7 +527,7 @@ Lab email: stierlab@googlegroups.com. The lab has two calendars. "Stier Lab" tra
 
 ## Slack
 
-Lab workspace: [stierlab.slack.com](https://stierlab.slack.com). Download the app for your phone. Create topic-specific channels as needed.
+Lab workspace: [stierlab.slack.com](https://stierlab.slack.com/). Download the app for your phone. Create topic-specific channels as needed.
 
 ## Zotero
 
@@ -1922,7 +1922,7 @@ We are excited to welcome you to our community. We want your transition into the
 
 Slack is my primary communication tool and the fastest way to reach me. The lab uses it for day-to-day communication, quick questions, coordination, and sharing updates. It is available as a web platform, desktop app, and phone app.
 
-- Download at [slack.com](https://slack.com)
+- Download at [slack.com](https://slack.com/)
 - Request access to the Stier Lab workspace: **stierlab.slack.com**
 - Create or join topic-specific channels for projects you're involved with
 
@@ -2027,7 +2027,7 @@ All lab members complete and review an IDP each year. The IDP sets milestones, t
 
 Begin with a self-assessment. Complete the assessments at:
 
-- **myIDP** (AAAS): [myidp.sciencecareers.org](https://myidp.sciencecareers.org/) (Skills, Interests, and Values assessments)
+- **ChemIDP** (ACS): [chemidp.acs.org](https://chemidp.acs.org/) (Skills, Interests, and Values assessments — works for all STEM fields, not just chemistry)
 - **University of Wisconsin IDP guide**: [grad.wisc.edu/professional-development/individual-development-plan](https://grad.wisc.edu/professional-development/individual-development-plan/)
 - **Rutgers IDP guide**: [grad.rutgers.edu/academics/individual-development-plans](https://grad.rutgers.edu/academics/individual-development-plans)
 
@@ -2057,7 +2057,7 @@ Use the information from these assessments to reflect on the following. These ar
 
 ### Goal-Setting
 
-Here is a tool for short and long-term goal-setting: [myIDP Career Advancement Goals](https://myidp.sciencecareers.org/CareerAdvancementGoals/QuickTips)
+Here is a tool for short and long-term goal-setting: [ChemIDP Career Planning](https://chemidp.acs.org/)
 
 Use the SMART framework when setting goals:
 
@@ -2080,7 +2080,7 @@ Track your goals using a simple table:
 
 ### Additional IDP Resources
 
-- AAAS myIDP: [myidp.sciencecareers.org](https://myidp.sciencecareers.org/Overview/Summary)
+- ACS ChemIDP: [chemidp.acs.org](https://chemidp.acs.org/)
 - Rutgers IDP: [grad.rutgers.edu/academics/individual-development-plans](https://grad.rutgers.edu/academics/individual-development-plans)
 - FSU IDP: [gradschool.fsu.edu/current-students/individual-development-plan-idp](https://gradschool.fsu.edu/current-students/individual-development-plan-idp)
 - UC Berkeley IDP: [career.berkeley.edu/grad-students-postdocs](https://career.berkeley.edu/grad-students-postdocs/grad-student-services/)

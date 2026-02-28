@@ -6,7 +6,7 @@ Lab email: stierlab@googlegroups.com. The lab has two calendars. "Stier Lab" tra
 
 ## Slack
 
-Lab workspace: [stierlab.slack.com](https://stierlab.slack.com). Download the app for your phone. Create topic-specific channels as needed.
+Lab workspace: [stierlab.slack.com](https://stierlab.slack.com/). Download the app for your phone. Create topic-specific channels as needed.
 
 ## Zotero
 

@@ -6,6 +6,54 @@ const RATE_LIMIT_MS = 500;
 const TIMEOUT_MS = 10000;
 const USER_AGENT = 'StierLab-ManualAudit/1.0 (academic-use)';
 const REPORT_FILE = path.join(ROOT, 'audit-report.md');
+const COOKIES_FILE = process.argv.includes('--cookies')
+  ? (process.argv[process.argv.indexOf('--cookies') + 1] || path.join(ROOT, 'cookies.txt'))
+  : null;
+
+// ─── Cookie support ─────────────────────────────────────────────────────────
+
+let cookiesByDomain = {};
+
+function loadCookies() {
+  if (!COOKIES_FILE) return;
+  if (!fs.existsSync(COOKIES_FILE)) {
+    console.log(`Warning: Cookie file not found: ${COOKIES_FILE}\n`);
+    return;
+  }
+  const lines = fs.readFileSync(COOKIES_FILE, 'utf8').split('\n');
+  for (const line of lines) {
+    if (line.startsWith('#') || !line.trim()) continue;
+    const parts = line.split('\t');
+    if (parts.length < 7) continue;
+    const [domain, , , , , name, value] = parts;
+    const cleanDomain = domain.replace(/^\./, '');
+    if (!cookiesByDomain[cleanDomain]) cookiesByDomain[cleanDomain] = [];
+    cookiesByDomain[cleanDomain].push(`${name}=${value}`);
+  }
+  const domainCount = Object.keys(cookiesByDomain).length;
+  const cookieCount = Object.values(cookiesByDomain).reduce((s, a) => s + a.length, 0);
+  console.log(`Loaded ${cookieCount} cookies for ${domainCount} domains from ${COOKIES_FILE}\n`);
+}
+
+function getCookieHeader(url) {
+  try {
+    const hostname = new URL(url).hostname;
+    const matching = [];
+    for (const [domain, cookies] of Object.entries(cookiesByDomain)) {
+      if (hostname === domain || hostname.endsWith('.' + domain)) {
+        matching.push(...cookies);
+      }
+    }
+    return matching.length > 0 ? matching.join('; ') : null;
+  } catch { return null; }
+}
+
+function buildHeaders(url) {
+  const headers = { 'User-Agent': USER_AGENT };
+  const cookie = getCookieHeader(url);
+  if (cookie) headers['Cookie'] = cookie;
+  return headers;
+}
 
 // ─── Hand-curated content checks ─────────────────────────────────────────────
 
@@ -22,7 +70,7 @@ const CONTENT_CHECKS = [
   {
     category: 'Personnel',
     label: 'Faculty Graduate Advisor',
-    url: 'https://www.eemb.ucsb.edu/graduate',
+    url: 'https://www.eemb.ucsb.edu/people/leadership',
     manualValue: 'Hillary Young',
     searchPatterns: ['Hillary Young'],
     file: 'sections/06-valuable-contacts.md',
@@ -30,7 +78,7 @@ const CONTENT_CHECKS = [
   {
     category: 'Personnel',
     label: 'Staff Graduate Advisor',
-    url: 'https://www.eemb.ucsb.edu/graduate',
+    url: 'https://www.eemb.ucsb.edu/people/leadership',
     manualValue: 'Mengshu Ye',
     searchPatterns: ['Mengshu Ye'],
     file: 'sections/06-valuable-contacts.md',
@@ -38,7 +86,7 @@ const CONTENT_CHECKS = [
   {
     category: 'Personnel',
     label: 'Graduate Division Academic Counselor',
-    url: 'https://www.graddiv.ucsb.edu/about/staff',
+    url: 'https://www.graddiv.ucsb.edu/staff',
     manualValue: 'Ryan Sims',
     searchPatterns: ['Ryan Sims'],
     file: 'sections/21-mental-health-resources.md',
@@ -46,7 +94,7 @@ const CONTENT_CHECKS = [
   {
     category: 'Personnel',
     label: 'EEMB Library Liaison',
-    url: 'https://www.library.ucsb.edu/staff',
+    url: 'https://www.library.ucsb.edu/staff/kristen-labonte',
     manualValue: 'Kristen Labonte',
     searchPatterns: ['Labonte'],
     file: 'sections/24-library-services-and-suggestions.md',
@@ -58,7 +106,7 @@ const CONTENT_CHECKS = [
     label: 'IRS mileage reimbursement rate',
     url: 'https://www.gsa.gov/travel/plan-book/transportation-airfare-pov-etc/privately-owned-vehicle-pov-mileage-reimbursement',
     manualValue: '$0.725/mile (January 2026)',
-    searchPatterns: ['0.725', '72.5'],
+    searchPatterns: ['0.725'],
     file: 'sections/22-travel.md',
     notes: 'Updates annually in January',
   },
@@ -67,21 +115,23 @@ const CONTENT_CHECKS = [
     label: 'UC domestic meal caps (breakfast/lunch/dinner)',
     url: 'https://bfs.ucsb.edu/travel_entertainment/travel-planning',
     manualValue: 'Breakfast $34, Lunch $59, Dinner $103',
-    searchPatterns: ['34', '59', '103'],
+    searchPatterns: ['meal', 'travel'],
     file: 'sections/22-travel.md',
+    notes: 'Exact rates are in the G-28 bulletin PDF, not on this page. Verify manually at BFS.',
   },
   {
     category: 'Travel Rates',
     label: 'UC domestic lodging cap',
     url: 'https://bfs.ucsb.edu/travel_entertainment/travel-planning',
     manualValue: '$333/night',
-    searchPatterns: ['333'],
+    searchPatterns: ['lodging'],
     file: 'sections/22-travel.md',
+    notes: 'Exact cap is in the G-28 bulletin PDF, not on this page. Verify manually at BFS.',
   },
   {
     category: 'Travel Rates',
     label: 'Rental car contract IDs',
-    url: 'https://bfs.ucsb.edu/travel_entertainment/travel-planning/rental-cars',
+    url: 'https://chemengr.ucsb.edu/car-rentals-travel-packages',
     manualValue: 'Hertz 72130, Enterprise XZ32A01',
     searchPatterns: ['72130', 'XZ32A01'],
     file: 'sections/22-travel.md',
@@ -91,17 +141,18 @@ const CONTENT_CHECKS = [
   {
     category: 'Fellowships',
     label: 'Academic Senate Doctoral Student Travel Grant',
-    url: 'https://senate.ucsb.edu/grants/doctoral-student-travel-grant/',
+    url: 'https://senate.ucsb.edu/grants/doctoral-student-travel/',
     manualValue: '$250 virtual, $900 domestic, $1500 international',
-    searchPatterns: ['250', '900', '1500'],
+    searchPatterns: ['doctoral', 'travel'],
     file: 'sections/14-graduate-student-funding.md',
+    notes: 'Exact amounts are in the application PDF. Verify at senate.ucsb.edu.',
   },
   {
     category: 'Fellowships',
     label: 'NSF GRFP eligibility',
-    url: 'https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp',
+    url: 'https://www.nsfgrfp.org/applicants/applicant-eligibility.html',
     manualValue: 'Only first-year graduate students eligible (FY2026)',
-    searchPatterns: ['first-year', 'first year'],
+    searchPatterns: ['first-year graduate student'],
     file: 'sections/14-graduate-student-funding.md',
     notes: 'Eligibility changed for FY2026 solicitation',
   },
@@ -134,15 +185,15 @@ const CONTENT_CHECKS = [
   {
     category: 'Campus Services',
     label: 'DSP phone number',
-    url: 'https://dsp.sa.ucsb.edu/',
+    url: 'https://dsp.sa.ucsb.edu/dsp-office-hours-contact-information',
     manualValue: '(805) 893-2668',
-    searchPatterns: ['893-2668'],
+    searchPatterns: ['893.2668'],
     file: 'sections/03-safety.md',
   },
   {
     category: 'Campus Services',
     label: 'Hosford Clinic student cost',
-    url: 'https://education.ucsb.edu/hosford',
+    url: 'https://education.ucsb.edu/clinics-centers/hosford-clinic-office/potential-clients-resources/fees-privacy',
     manualValue: '$25 for UCSB students',
     searchPatterns: ['25'],
     file: 'sections/21-mental-health-resources.md',
@@ -264,7 +315,7 @@ async function checkUrl(entry) {
     let res = await fetch(entry.url, {
       method: 'HEAD',
       signal: controller.signal,
-      headers: { 'User-Agent': USER_AGENT },
+      headers: buildHeaders(entry.url),
       redirect: 'follow',
     });
 
@@ -273,7 +324,7 @@ async function checkUrl(entry) {
       res = await fetch(entry.url, {
         method: 'GET',
         signal: controller.signal,
-        headers: { 'User-Agent': USER_AGENT },
+        headers: buildHeaders(entry.url),
         redirect: 'follow',
       });
     }
@@ -285,7 +336,7 @@ async function checkUrl(entry) {
       res = await fetch(entry.url, {
         method: 'GET',
         signal: controller.signal,
-        headers: { 'User-Agent': USER_AGENT },
+        headers: buildHeaders(entry.url),
         redirect: 'follow',
       });
     }
@@ -335,7 +386,7 @@ async function checkContent(check) {
   try {
     const res = await fetch(check.url, {
       signal: controller.signal,
-      headers: { 'User-Agent': USER_AGENT },
+      headers: buildHeaders(check.url),
       redirect: 'follow',
     });
     clearTimeout(timeout);
@@ -581,6 +632,9 @@ function writeMarkdownReport(urlResults, contentResults) {
 async function main() {
   console.log('=== Lab Manual Audit ===');
   console.log(`Date: ${new Date().toISOString().slice(0, 10)}\n`);
+
+  // Load cookies for authenticated checks
+  loadCookies();
 
   // Discover files
   const mdFiles = getMarkdownFiles();
