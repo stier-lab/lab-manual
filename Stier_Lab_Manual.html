@@ -515,11 +515,12 @@ body::after {
   .content { padding: 32px 20px 80px; }
   .contact { padding: 16px 18px; }
 }
+<noscript><style>.section { opacity: 1 !important; transform: none !important; }</style></noscript>
 </style>
 </head>
 <body>
 
-<div class="reading-progress"><div class="reading-progress-fill" id="progressFill"></div></div>
+<div class="reading-progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" id="progressBar"><div class="reading-progress-fill" id="progressFill"></div></div>
 
 <button class="mobile-toggle" id="mobileToggle" onclick="toggleNav()" aria-label="Menu">
   <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 7h18M3 12h12M3 17h18"/></svg>
@@ -527,7 +528,7 @@ body::after {
 <div class="overlay" id="overlay" onclick="toggleNav()"></div>
 
 <!-- ═══ SIDEBAR ═══ -->
-<nav class="sidebar" id="sidebar">
+<nav class="sidebar" id="sidebar" aria-label="Table of contents">
   <div class="sidebar-header">
     <div class="sidebar-logo">
       <div class="logo-mark">
@@ -546,8 +547,8 @@ body::after {
 
   <div class="sidebar-search">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-    <input type="text" id="searchInput" placeholder="Search..." oninput="handleSearch(this.value)">
-    <span class="search-hint">/</span>
+    <input type="text" id="searchInput" placeholder="Search..." oninput="handleSearch(this.value)" aria-label="Search sections">
+    <span class="search-hint" aria-hidden="true">/</span>
   </div>
 
   <div class="nav-scroll" id="navScroll">
@@ -681,7 +682,7 @@ University of California, Santa Barbara
 <h3>Socializing</h3>
 <p>I think it matters that people in the lab actually enjoy spending time together. Lab potlucks, beach days, happy hours, whatever form it takes. The social side of lab life is not a distraction from the science. It is part of what makes a lab function well. I encourage it, though I am not going to prescribe what it looks like.</p>
 <h3>Seminars</h3>
-<p>Attend EEMB seminars, thesis defenses, and other departmental talks when your schedule allows. See the Lab Meetings section for more on departmental seminars.</p>
+<p>Attend EEMB seminars, thesis defenses, and other departmental talks when your schedule allows. See the <a href="#lab-meetings">Lab Meetings</a> section for more on departmental seminars.</p>
 <h2>Photos, Videos, and Media</h2>
 <p>We take a lot of photos and videos — in the field, in the lab, at social events, and during outreach. These images are valuable for the lab website, social media, presentations, grant proposals, and departmental communications.</p>
 <p>Before using a photo or video of a lab member in any public-facing context (website, social media, presentation to an external audience, news article), ask the person for permission. This applies even if they were present when the photo was taken. Some people are comfortable being featured publicly; others are not. Respect that without requiring an explanation.</p>
@@ -719,15 +720,15 @@ University of California, Santa Barbara
 <p><strong>Work/life balance:</strong> There is no expectation that you work evenings and weekends as a default. Some periods (field seasons, manuscript deadlines) will be more intense than others, and that is normal. But chronic overwork is not a badge of honor. It is a risk factor for burnout, poor science, and poor health. Know your limits and take care of yourself.</p>
 <p><strong>If you&#39;re struggling:</strong> Talk to me. You do not need to share details. You have a right to privacy. But letting me know you need time or adjusted expectations helps both of us. If you prefer to talk to someone else, that is fine too. Other lab members, the Graduate Advisor, and campus counseling services are all available.</p>
 <p><strong>Do not come to lab sick.</strong> If you have a condition that affects your work -- physical, cognitive, psychiatric, or any other -- talk to me so we can figure out accommodations. You can also contact the <a href="https://dsp.sa.ucsb.edu/">Disabled Students Program</a> (DSP) directly at (805) 893-2668. DSP coordinates accommodations under the ADA, and you are not required to disclose your disability to me. They will work with you and, as needed, with the department.</p>
-<p>See the Mental Health Resources section for specific campus services.</p>
+<p>See the <a href="#mental-health">Mental Health Resources</a> section for specific campus services.</p>
 <h2>Lab and Field Safety</h2>
 <p>Do not put yourself or others at risk. If you feel pressured to do something unsafe (by anyone, including me), you have the right and the responsibility to refuse. Speak up.</p>
 <ul>
 <li><p><strong>Point of contact:</strong> When conducting fieldwork, always have someone who is NOT in the field with you who knows your location and expected return time. If you do not return on schedule, they should attempt contact and request help if needed.</p>
 </li>
-<li><p><strong>SCUBA and boating:</strong> You must meet all UCSB and American Academy of Underwater Sciences (AAUS) requirements before diving. I serve on the MSI diving and boating safety board. See the Required Trainings section and the separate UCSB Dive Safety Manual (available from Eric Hessell or at <a href="https://www.marineops.ucsb.edu/">marineops.ucsb.edu</a>) for details.</p>
+<li><p><strong>SCUBA and boating:</strong> You must meet all UCSB and American Academy of Underwater Sciences (AAUS) requirements before diving. I serve on the MSI diving and boating safety board. See the <a href="#trainings">Required Trainings</a> section and the separate UCSB Dive Safety Manual (available from Eric Hessell or at <a href="https://www.marineops.ucsb.edu/">marineops.ucsb.edu</a>) for details.</p>
 </li>
-<li><p><strong>Lab chemicals:</strong> See the Chemical Health and Safety Plan subsection in Required Trainings. Always check Safety Data Sheets (SDS), complete required Standard Operating Procedures (SOPs), and get proper training before handling hazardous materials.</p>
+<li><p><strong>Lab chemicals:</strong> See the <a href="#trainings">Chemical Health and Safety Plan</a> subsection in Required Trainings. Always check Safety Data Sheets (SDS), complete required Standard Operating Procedures (SOPs), and get proper training before handling hazardous materials.</p>
 </li>
 <li><p><strong>Reporting:</strong> Report all safety incidents, near-misses, and equipment failures immediately. There is no penalty for reporting. There is a problem with not reporting.</p>
 </li>
@@ -819,12 +820,12 @@ University of California, Santa Barbara
 <h2>Mechanical Assistance</h2>
 <div class="contact"><h3>Michael (Mickey) O&#39;Connell, Marine Mechanician</h3><p>Can lend tools and advise on fabricating or maintaining research equipment. He is generous with his time and expertise. Introduce yourself early.</p><div class="contact-info"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>(805) 893-7181</span><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 01-2.06 0L2 7"/></svg>michael.oconnell@lifesci.ucsb.edu</span><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0116 0z"/><circle cx="12" cy="10" r="3"/></svg>1007 Marine Biotech</span></div></div>
 <div class="contact"><h3>Bioshop Personnel</h3><p>The Bioshop offers mechanical assistance as well.</p></div>
-<div class="contact"><h3>Doug Hatt, UCSB Garage</h3><p>Contact for lab truck maintenance and repairs. See the Vehicles section for details.</p><div class="contact-info"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>(805) 893-3692</span></div></div>
+<div class="contact"><h3>Doug Hatt, UCSB Garage</h3><p>Contact for lab truck maintenance and repairs. See the <a href="#vehicles">Vehicles</a> section for details.</p><div class="contact-info"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>(805) 893-3692</span></div></div>
 <h2>Travel and Finance Administration</h2>
 <div class="contact"><h3>Kim Taylor, MSI Travel Unit Analyst</h3><p>Contact Kim for travel advances and reimbursements on MSI-administered grants.</p><div class="contact-info"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>(805) 893-8078</span><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 01-2.06 0L2 7"/></svg>travel@msi.ucsb.edu</span></div></div>
 <div class="contact"><h3>Melia Cutcher, MSI Chief Accounting Officer</h3><p>For MSI-administered grant reimbursements through Concur, add Melia as an expense delegate. Contact her for MSI financial questions.</p><div class="contact-info"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 01-2.06 0L2 7"/></svg>mcutcher@msi.ucsb.edu</span></div></div>
 <h2>Other Campus Resources</h2>
-<div class="contact"><h3>Ryan Sims, Graduate Division Academic Counselor</h3><p>Available for academic progress and related well-being discussions. See the Mental Health Resources section.</p><div class="contact-info"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>(805) 893-2068</span><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 01-2.06 0L2 7"/></svg>ryan.sims@graddiv.ucsb.edu</span></div></div>
+<div class="contact"><h3>Ryan Sims, Graduate Division Academic Counselor</h3><p>Available for academic progress and related well-being discussions. See the <a href="#mental-health">Mental Health Resources</a> section.</p><div class="contact-info"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>(805) 893-2068</span><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 01-2.06 0L2 7"/></svg>ryan.sims@graddiv.ucsb.edu</span></div></div>
 <div class="contact"><h3>Kristen Labonte, UCSB Library Liaison for EEMB</h3><p>Can help with literature searches, interlibrary loans, data management plans, and library resources. Find her contact info on the UCSB Library website.</p></div>
 <div class="contact"><h3>Office of International Students &amp; Scholars (OISS)</h3><p>International students should contact OISS for visa questions, travel signatures, employment authorization, and immigration compliance. Start travel signature requests at least 5-10 business days before international travel.</p><div class="contact-info"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>(805) 893-2929</span><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 01-2.06 0L2 7"/></svg>oiss@sa.ucsb.edu</span><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0116 0z"/><circle cx="12" cy="10" r="3"/></svg>Student Resource Building, Room 3130</span></div></div>
 <h2>Lab Contacts and Emergency Contact Info</h2>
@@ -856,7 +857,7 @@ University of California, Santa Barbara
 <h2>Research Permits and Compliance</h2>
 <p>Beyond training, many research activities require permits and institutional approvals. You cannot conduct research until these are in hand. Permit applications can take weeks to months, so start early and build the timeline into your project planning.</p>
 <ul>
-<li><strong>IACUC:</strong> If your research involves vertebrates (including fish surveys by SCUBA), you need Institutional Animal Care and Use Committee approval. All IACUC applications go through me. See the Animal Care Training section above for the process. Creating a new protocol takes at least 2 months.</li>
+<li><strong>IACUC:</strong> If your research involves vertebrates (including fish surveys by SCUBA), you need Institutional Animal Care and Use Committee approval. All IACUC applications go through me. See the <a href="#trainings">Animal Care Training</a> section above for the process. Creating a new protocol takes at least 2 months.</li>
 <li><strong>International permits:</strong> Research at our Mo&#39;orea field site requires a Protocole d&#39;accueil and may require CITES permits for sample transport. See the Mo&#39;orea Fieldwork section for details.</li>
 <li><strong>Collecting permits:</strong> Depending on your field site, you may need state or federal collecting permits (e.g., California Department of Fish and Wildlife Scientific Collecting Permit, National Marine Sanctuary permits). Talk to me about what applies to your project.</li>
 <li><strong>IRB:</strong> If your research involves human subjects (surveys, interviews, assessments), you need Institutional Review Board approval. This is rare in our lab but can apply to training grants or interdisciplinary work. Access the IRB portal through the UCSB Office of Research.</li>
@@ -937,7 +938,7 @@ University of California, Santa Barbara
 <!-- ═══ 9. TECHNOLOGY ═══ -->
 <div class="section" id="technology">
 <h1>Technology</h1>
-<p>This section covers shared computing resources, network access, and tools you will use daily. If you run into technical issues, contact the Life Sciences Computing Group (LSCG) first. See the Valuable Contacts section for details.</p>
+<p>This section covers shared computing resources, network access, and tools you will use daily. If you run into technical issues, contact the Life Sciences Computing Group (LSCG) first. See the <a href="#contacts">Valuable Contacts</a> section for details.</p>
 <h2>Lab Computer</h2>
 <p>The lab has a high-power iMac in Noble 2224 with 40 GB RAM. Ask Molly or me for the guest account password. If you need a private account, talk to me. Log out when done. Do not leave personal accounts open.</p>
 <h2>Lab Server (Network Attached Storage / NAS)</h2>
@@ -957,7 +958,7 @@ University of California, Santa Barbara
 <ul>
 <li><strong>UCSB Box</strong> provides unlimited cloud storage and is the easiest first line of backup.</li>
 <li><strong>External hard drives</strong> provide a local backup in case you lose internet access.</li>
-<li><strong>The lab NAS</strong> is backed up regularly and is a good place to store research data (see the Data Management and Reproducible Science section).</li>
+<li><strong>The lab NAS</strong> is backed up regularly and is a good place to store research data (see the <a href="#data">Data Management and Reproducible Science</a> section).</li>
 <li>Use at least two of these. If your work exists in only one location, it is not backed up.</li>
 </ul>
 <h2>Software Licenses</h2>
@@ -1238,7 +1239,7 @@ University of California, Santa Barbara
 <p>Equipment costing $5,000 or more is classified as inventorial and has special procedures. It must be ordered through Gateway with the correct subaccount code, tagged by Equipment Management, and tracked in the university&#39;s inventory system. Purchases over $100,000 must be competitively bid. Talk to Molly or me before ordering any equipment.</p>
 <h2>Chemical and Hazardous Materials</h2>
 <p>Chemicals and hazardous materials follow the standard Gateway process with additional routing. Flag restricted items in the &quot;Additional Order Details&quot; dropdown on the Requisition Summary tab so the order routes to EH&amp;S for review. Allow extra processing time.</p>
-<p>When you order a new chemical not already in the lab, print an SDS and add it to the Chemical Health and Safety Binder in Noble 2224. See the Required Trainings section for the full Chemical Health and Safety Plan.</p>
+<p>When you order a new chemical not already in the lab, print an SDS and add it to the Chemical Health and Safety Binder in Noble 2224. See the <a href="#trainings">Required Trainings</a> section for the full Chemical Health and Safety Plan.</p>
 <h2>Reimbursements</h2>
 <ul>
 <li><strong>MSI-administered grants:</strong> Create a <a href="https://www.concursolutions.com/">Concur</a> expense report (log in with your UCSB NetID) and add Melia Cutcher as an expense delegate.</li>
@@ -1315,7 +1316,7 @@ Santa Barbara, CA 93106-9620</p>
 <li>Commit to a consistent schedule. Most undergraduate researchers work 8-12 hours per week. Whatever you agree to with your mentor, follow through reliably. Consistency matters more than total hours.</li>
 </ul>
 <h2>Getting Started</h2>
-<p>New undergraduates should plan on an onboarding period of 2-4 weeks where you learn lab protocols, safety procedures, and the basics of the project you will be contributing to. Your graduate mentor will guide this process. Complete all required safety trainings (see the Required Trainings section) before beginning any lab or fieldwork.</p>
+<p>New undergraduates should plan on an onboarding period of 2-4 weeks where you learn lab protocols, safety procedures, and the basics of the project you will be contributing to. Your graduate mentor will guide this process. Complete all required safety trainings (see the <a href="#trainings">Required Trainings</a> section) before beginning any lab or fieldwork.</p>
 <h2>Research Opportunities</h2>
 <p>We encourage undergraduates to develop their own research projects, present at lab meetings, and present posters at events like URCA Week (the UCSB Undergraduate Research and Creative Activities poster colloquium). We also encourage students to apply for funding through programs like UCSB&#39;s URCA grants. Graduate mentors should help create these opportunities.</p>
 <p>A typical trajectory for an engaged undergraduate might look like:</p>
@@ -1331,7 +1332,7 @@ Santa Barbara, CA 93106-9620</p>
 <p>Most undergraduates join as volunteers, for course credit, or with stipend support. We recognize that volunteering is not financially feasible for all students. We will work to provide equitable access to research experience regardless of financial situation. If the time commitment is a barrier, talk to me — there may be options for paid positions through grants, work-study, or URCA funding.</p>
 <h2>If Something Is Not Working</h2>
 <p>If the mentor-mentee relationship is not working — communication has broken down, expectations are unclear, or the experience is not what you hoped — talk to me. This is not a failure on anyone&#39;s part. Sometimes a better match or a different project structure makes all the difference. The goal is for every undergraduate to leave the lab having learned something meaningful.</p>
-<p>Undergraduate researchers must complete the same basic safety trainings as other lab members. See the Required Trainings section for details.</p>
+<p>Undergraduate researchers must complete the same basic safety trainings as other lab members. See the <a href="#trainings">Required Trainings</a> section for details.</p>
 </div>
 
 <!-- ═══ 14. GRADUATE FUNDING ═══ -->
@@ -1379,7 +1380,7 @@ Santa Barbara, CA 93106-9620</p>
 <li><strong>UCSB sources:</strong> Graduate Division Dissertation Fellowship, Block Grant summer funding, departmental awards</li>
 <li><strong>UC system:</strong> UC Natural Reserve System Mathias Grants (relevant if you work at a UC reserve, including Gump Station)</li>
 <li><strong>Scientific societies:</strong> Sigma Xi Grants-in-Aid of Research, Ecology and Evolution of Communities grants from disciplinary societies (ESA, SICB, etc.)</li>
-<li><strong>Federal pre-doctoral fellowships:</strong> NSF GRFP (see the Fellowships section above), NDSEG, Ford Foundation</li>
+<li><strong>Federal pre-doctoral fellowships:</strong> NSF GRFP (see the <a href="#funding">Fellowships</a> section above), NDSEG, Ford Foundation</li>
 <li><strong>Conservation and marine-specific:</strong> Nancy Foster Scholarship (NOAA), Explorer&#39;s Club grants, National Geographic Early Career Grant, Myers Oceanographic Trust</li>
 </ul>
 <p>The Consolidated Funding List in the shared Google Drive folder tracks opportunities and deadlines. Check it at the start of each quarter.</p>
@@ -1402,7 +1403,7 @@ Santa Barbara, CA 93106-9620</p>
 <li><strong>My grants:</strong> If your presentation is related to an active grant, I may be able to help</li>
 <li>Some conferences offer registration fee waivers for student volunteers</li>
 </ul>
-<p>See the Travel section for booking procedures, travel advances, and reimbursement logistics.</p>
+<p>See the <a href="#travel-sec">Travel</a> section for booking procedures, travel advances, and reimbursement logistics.</p>
 <h2>Your Union: UAW Local 4811</h2>
 <p>As a graduate student employee at UCSB (whether you hold a TA or GSR appointment), you are a member of <strong>UAW Local 4811</strong> (United Auto Workers). This is the union that represents over 48,000 academic workers across all 10 UC campuses. Dues are automatically deducted from your paycheck.</p>
 <p>UAW 4811 was formed through a 2024 merger of three earlier unions: UAW Local 2865 (Teaching Assistants, Readers, and Tutors), Student Researchers United / SRU-UAW (Graduate Student Researchers), and UAW Local 5810 (Postdocs and Academic Researchers). The merger brought all academic workers under one bargaining unit.</p>
@@ -1433,7 +1434,7 @@ Santa Barbara, CA 93106-9620</p>
 <p><strong>Individual Development Plans:</strong> All students complete and review an IDP annually. The IDP sets milestones, tracks progress, and provides structure for conversations about your professional development. Quarterly check-ins supplement the annual review.</p>
 <p><strong>Practice talks:</strong> Practice your research presentations before every conference, in lab meeting or with labmates. The first practice talk usually reveals that a talk you thought was &quot;almost done&quot; needs to be restructured. This is normal. Give yourself time. Do not wait until the last minute.</p>
 <p><strong>Publications:</strong> Write and submit papers as you progress through your program. Do not wait until the end. Ideally, most of your publishable work will be in review or published by the time you defend. This makes your next career transition much easier.</p>
-<p><strong>Committee review of manuscripts:</strong> Give each manuscript to your committee and incorporate feedback before submitting to a journal. See the Publishing and Peer Review section for the full internal review process.</p>
+<p><strong>Committee review of manuscripts:</strong> Give each manuscript to your committee and incorporate feedback before submitting to a journal. See the <a href="#publishing">Publishing and Peer Review</a> section for the full internal review process.</p>
 <p><strong>Required coursework (Year 1):</strong> All EEMB graduate students must complete EEMB 500 (Campus Orientation), 507 (Introduction to Graduate Research), 508 and 509 (Levels of Biological Organization I &amp; II), 290 (Introduction to Faculty Research), and 502 (Teaching Techniques).</p>
 <h2>MS Students</h2>
 <p>Target: file your thesis by the end of your second year. The maximum time allowed by EEMB is 4 years. This is fast, so there is little time to waste. I am more inclined to directly help MS students define or refine a research question than I am with PhD students, given the compressed timeline. Starting research the summer before you matriculate can give you a meaningful head start.</p>
@@ -1646,7 +1647,7 @@ Santa Barbara, CA 93106-9620</p>
 <li><input disabled="" type="checkbox"> <strong>Inventory unprocessed samples.</strong> Create a list of all samples, images, and specimens that still need processing. Include storage location, priority, and estimated processing time.</li>
 <li><input disabled="" type="checkbox"> <strong>QA/QC your data.</strong> Review datasets for obvious errors: impossible values, missing entries, duplicate records, and inconsistencies between field sheets and digital entries. Flag suspicious values and verify against original field sheets while the field context is fresh.</li>
 <li><input disabled="" type="checkbox"> <strong>Log collection totals.</strong> For Mo&#39;orea: record species collected, quantities, and sites in the shared collection tracking sheet. This is required for the annual bilan des prelevements report to DIREN.</li>
-<li><input disabled="" type="checkbox"> <strong>File organization.</strong> Follow the lab naming conventions: include project name, date, and descriptive content in filenames. Use the established Google Drive folder structure (see the Stier Lab Digital Tools section).</li>
+<li><input disabled="" type="checkbox"> <strong>File organization.</strong> Follow the lab naming conventions: include project name, date, and descriptive content in filenames. Use the established Google Drive folder structure (see the <a href="#digital-tools">Stier Lab Digital Tools</a> section).</li>
 </ul>
 <h3>What Belongs Where</h3>
 <table>
@@ -1828,7 +1829,7 @@ Santa Barbara, CA 93106-9620</p>
 <li>Through the Graduate Advisor (Mengshu Ye) or Faculty Graduate Advisor (Hillary Young)</li>
 <li>Through UCSB&#39;s Office of Equal Opportunity &amp; Discrimination Prevention</li>
 </ul>
-<p>You should never feel that raising an equity concern will affect your standing in the lab. See the Safety section for formal reporting channels and confidential resources.</p>
+<p>You should never feel that raising an equity concern will affect your standing in the lab. See the <a href="#safety">Safety</a> section for formal reporting channels and confidential resources.</p>
 </div>
 
 <!-- ═══ 23. AI USE POLICY ═══ -->
@@ -1951,7 +1952,7 @@ Santa Barbara, CA 93106-9620</p>
 <!-- ═══ 25. TRAVEL ═══ -->
 <div class="section" id="travel-sec">
 <h1>Travel</h1>
-<p>UCSB has specific procedures for booking, advances, and reimbursement. These apply to conferences, field sites, and any other university-related travel. Start the process early. Travel paperwork takes longer than you expect. See the Graduate Student Funding section for available travel grants.</p>
+<p>UCSB has specific procedures for booking, advances, and reimbursement. These apply to conferences, field sites, and any other university-related travel. Start the process early. Travel paperwork takes longer than you expect. See the <a href="#funding">Graduate Student Funding</a> section for available travel grants.</p>
 <h2>Before You Travel</h2>
 <p>All university travel requires pre-trip approval. Get written authorization from me (or the appropriate PI for the funding source) before making any arrangements. The approval should include the purpose, dates, destination, estimated cost, and the funding source (FRU/project number) that will be charged. Travelers who fail to obtain prior authorization may be personally liable for expenses.</p>
 <p>For grant-funded travel, check whether the sponsor has specific approval requirements. Federal grants often require prior written approval for foreign travel.</p>
@@ -2015,7 +2016,7 @@ Santa Barbara, CA 93106-9620</p>
 <p>Begin the offboarding process 2-3 months before your departure date. Some of these steps take time, and rushing them at the end leads to things falling through the cracks. Use the checklist below as a guide, and check items off with me and Molly as you go.</p>
 <h2>Offboarding Checklist</h2>
 <ul>
-<li><p><strong>Archive your data.</strong> Archive all datasets, code, and metadata on the lab NAS and/or Google Drive. Deposit published data in Dryad, Zenodo, or another appropriate repository. See the Data Management and Reproducible Science section for details on formats, metadata requirements, and the lab&#39;s data-after-departure policy.</p>
+<li><p><strong>Archive your data.</strong> Archive all datasets, code, and metadata on the lab NAS and/or Google Drive. Deposit published data in Dryad, Zenodo, or another appropriate repository. See the <a href="#data">Data Management and Reproducible Science</a> section for details on formats, metadata requirements, and the lab&#39;s data-after-departure policy.</p>
 </li>
 <li><p><strong>Clean out your samples.</strong> Remove or properly dispose of samples from freezers, the wet lab, and any shared spaces. If another student will continue processing them, coordinate the handoff directly and label everything clearly with the new point of contact.</p>
 </li>
@@ -2039,7 +2040,7 @@ Santa Barbara, CA 93106-9620</p>
 <li>Whether co-authors still in the lab will handle revisions during peer review.</li>
 <li>A realistic schedule for completion. Life after departure gets busy fast — the best time to finish a manuscript is before you leave.</li>
 </ul>
-<p>The lab&#39;s general expectation is that you publish your own work within a couple of years of graduating. For the full policy on data and publications after departure, see the Data Management and Reproducible Science section.</p>
+<p>The lab&#39;s general expectation is that you publish your own work within a couple of years of graduating. For the full policy on data and publications after departure, see the <a href="#data">Data Management and Reproducible Science</a> section.</p>
 <h2>Exit Conversation</h2>
 <p>Before you leave, schedule a final meeting with me to discuss:</p>
 <ul>
@@ -2065,7 +2066,7 @@ Santa Barbara, CA 93106-9620</p>
 <h2>Off-Campus Journal Access</h2>
 <p>You will need to access journal articles from off-campus regularly. There are three ways to do this:</p>
 <ul>
-<li><strong>VPN (recommended):</strong> Install the Ivanti VPN client. Once connected, your computer behaves as if on-campus and all publisher sites recognize your access automatically. This is the most reliable method. See the Technology section for VPN setup.</li>
+<li><strong>VPN (recommended):</strong> Install the Ivanti VPN client. Once connected, your computer behaves as if on-campus and all publisher sites recognize your access automatically. This is the most reliable method. See the <a href="#technology">Technology</a> section for VPN setup.</li>
 <li><strong>Library proxy:</strong> When you navigate through the UCSB Library website or UC Library Search, links are automatically proxied. If you land on an unproxied publisher page, use the library&#39;s Off-Campus Access Bookmark Tool (a browser bookmarklet) to re-route through the proxy.</li>
 <li><strong>UC Library Search:</strong> Searching through <a href="https://search.library.ucsb.edu">UC Library Search</a> authenticates you automatically for article PDFs.</li>
 </ul>
@@ -2125,7 +2126,7 @@ Santa Barbara, CA 93106-9620</p>
 <li>Submit through Maheata (our primary contact at DIREN). I will review before submission.</li>
 <li>Allow 4-8 weeks for processing.</li>
 </ol>
-<p><strong>Bilan des prelevements (Annual Collection Report):</strong> After each field season, we must file an annual collection report with DIREN documenting what was actually collected. This requires accurate records of species and quantities taken at each site. Track your collections in real time during fieldwork (see the Data Management and Reproducible Science section). The lab manager compiles the final report.</p>
+<p><strong>Bilan des prelevements (Annual Collection Report):</strong> After each field season, we must file an annual collection report with DIREN documenting what was actually collected. This requires accurate records of species and quantities taken at each site. Track your collections in real time during fieldwork (see the <a href="#data">Data Management and Reproducible Science</a> section). The lab manager compiles the final report.</p>
 <p><strong>Research permit sharing:</strong> The lab can use a single research permit for multiple researchers. Each person attaches it to their individual fiche de synthese (summary sheet). Coordinate with the lab manager on this.</p>
 <p><strong>North Shore moratorium:</strong> As of 2026, the North Shore of Mo&#39;orea remains under a collection moratorium. Do not plan collection activities on the North Shore without checking the current status of this restriction with me.</p>
 <p><strong>Permit storage:</strong> All current and historical permits are stored in Google Drive (Stier Lab &gt; Admin &gt; Permits). File new permits there immediately upon receipt.</p>
@@ -2259,7 +2260,7 @@ Santa Barbara, CA 93106-9620</p>
 <li>Confirm lab responsibilities are covered while you are away</li>
 </ul>
 <h2>Safety</h2>
-<p>General lab and field safety protocols apply (see the Safety section). Mo&#39;orea-specific hazards are covered below. All first-time travelers will attend a pre-departure safety briefing with me and experienced lab members.</p>
+<p>General lab and field safety protocols apply (see the <a href="#safety">Safety</a> section). Mo&#39;orea-specific hazards are covered below. All first-time travelers will attend a pre-departure safety briefing with me and experienced lab members.</p>
 <h3>Medical Facilities</h3>
 <p>The Hospital of Mo&#39;orea in Afareaitu provides basic emergency care. For serious injuries, surgical emergencies, or critical care, patients must be transferred to Centre Hospitalier de la Polynesie Francaise (CHPF/Taaone Hospital) in Papeete, Tahiti. Transport options include helicopter (dispatched by SAMU, call 15), the high-speed ferry (<del>30 minutes), or Air Tahiti (</del>7 minutes).</p>
 <p>The nearest hyperbaric (recompression) chamber is at CHPF in Papeete. There is no chamber on Mo&#39;orea. All dive planning must account for this transfer time.</p>
@@ -2447,7 +2448,7 @@ Santa Barbara, CA 93106-9620</p>
 <li><strong>Digital access (ID card):</strong> Email Andi Jorgensen (<a href="mailto:amjorgen@ucsb.edu">amjorgen@ucsb.edu</a>) with your UCSB ID number and which buildings you need access to (MSRB, LSB, Bio 2).</li>
 <li><strong>The Point / boatyard / aquarium:</strong> Coordinate with Christoph Pierre (<a href="mailto:pierre@lifesci.ucsb.edu">pierre@lifesci.ucsb.edu</a>) for keys and access codes.</li>
 </ul>
-<p>See the Facilities section of the Lab Manual for the full key list.</p>
+<p>See the <a href="#facilities">Facilities</a> section of the Lab Manual for the full key list.</p>
 <hr>
 <h2>WiFi and Network</h2>
 <ul>
@@ -2459,7 +2460,7 @@ Santa Barbara, CA 93106-9620</p>
 </ul>
 <hr>
 <h2>Required Trainings</h2>
-<p>Complete these as soon as possible. See the Required Trainings section of the Lab Manual for full details:</p>
+<p>Complete these as soon as possible. See the <a href="#trainings">Required Trainings</a> section of the Lab Manual for full details:</p>
 <ul>
 <li><input disabled="" type="checkbox"> UC Learning Center account setup (learningcenter.ucsb.edu)</li>
 <li><input disabled="" type="checkbox"> Cyber Security Awareness Training</li>
@@ -2594,11 +2595,11 @@ Santa Barbara, CA 93106-9620</p>
 <li><input disabled="" type="checkbox"> Connect to WiFi, Ethernet, Slack, Google Drive, and Zotero</li>
 <li><input disabled="" type="checkbox"> Read the Lab Manual, Working Agreement, and SCUBA Manual</li>
 <li><input disabled="" type="checkbox"> Complete your first IDP draft and schedule an initial meeting with me</li>
-<li><input disabled="" type="checkbox"> Complete the Mentor/Mentee Agreement with me (see the Mentoring and Advising Structure section)</li>
+<li><input disabled="" type="checkbox"> Complete the Mentor/Mentee Agreement with me (see the <a href="#mentoring">Mentoring and Advising Structure</a> section)</li>
 <li><input disabled="" type="checkbox"> Review and sign the Lab Working Agreement at the first lab meeting of the year</li>
-<li><input disabled="" type="checkbox"> Set up at least two backup locations for your research data (see the Data Management and Reproducible Science section)</li>
+<li><input disabled="" type="checkbox"> Set up at least two backup locations for your research data (see the <a href="#data">Data Management and Reproducible Science</a> section)</li>
 <li><input disabled="" type="checkbox"> Meet the people in the Valuable Contacts section, especially Andi Jorgensen, Mengshu Ye, and the marine operations staff if you&#39;ll be doing fieldwork</li>
-<li><input disabled="" type="checkbox"> If eligible for NSF GRFP, begin preparing your application immediately (see the Graduate Student Funding section)</li>
+<li><input disabled="" type="checkbox"> If eligible for NSF GRFP, begin preparing your application immediately (see the <a href="#funding">Graduate Student Funding</a> section)</li>
 </ul>
 </div>
 
@@ -2695,8 +2696,9 @@ sects.forEach(s => revealIO.observe(s));
 
 // Progress bar + back to top
 window.addEventListener('scroll', () => {
-  const pct = window.scrollY / (document.documentElement.scrollHeight - window.innerHeight) * 100;
+  const pct = Math.round(window.scrollY / (document.documentElement.scrollHeight - window.innerHeight) * 100);
   document.getElementById('progressFill').style.width = pct + '%';
+  document.getElementById('progressBar').setAttribute('aria-valuenow', pct);
   document.getElementById('toTop').classList.toggle('show', window.scrollY > 500);
 });
 
@@ -2712,6 +2714,16 @@ function handleSearch(q) {
     const href = n.getAttribute('href');
     const sect = href ? document.querySelector(href) : null;
     n.style.display = (!q || (sect && sect.style.display !== 'none')) ? '' : 'none';
+  });
+  // Hide group labels when all their nav items are hidden
+  document.querySelectorAll('.nav-group-label').forEach(label => {
+    let next = label.nextElementSibling;
+    let anyVisible = false;
+    while (next && !next.classList.contains('nav-group-label')) {
+      if (next.classList.contains('nav-item') && next.style.display !== 'none') anyVisible = true;
+      next = next.nextElementSibling;
+    }
+    label.style.display = (!q || anyVisible) ? '' : 'none';
   });
 }
 

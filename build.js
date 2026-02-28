@@ -19,6 +19,94 @@ const months = ['January','February','March','April','May','June','July','August
 const dateStr = `${months[now.getMonth()]} ${now.getDate()}, ${now.getFullYear()}`;
 const isoDate = now.toISOString().slice(0, 10);
 
+// --- Build section cross-reference map ---
+// Maps lowercase phrase → section ID for auto-linking "see the X section" text
+function buildCrossRefMap() {
+  const map = [];
+  for (const group of config.navGroups) {
+    for (const sec of group.sections) {
+      // Add the config title
+      map.push({ phrase: sec.title.toLowerCase(), id: sec.id });
+    }
+  }
+  for (const sec of config.appendix) {
+    map.push({ phrase: sec.title.toLowerCase(), id: sec.id });
+  }
+  // Add common alternate names that appear in the prose
+  const aliases = {
+    'data management and reproducible science': 'data',
+    'data management': 'data',
+    'required trainings': 'trainings',
+    'mental health resources': 'mental-health',
+    'mental health': 'mental-health',
+    'chemical health and safety plan': 'trainings',
+    'stier lab digital tools': 'digital-tools',
+    'digital tools': 'digital-tools',
+    'valuable contacts': 'contacts',
+    'purchasing and shipping': 'purchasing',
+    'purchasing & shipping': 'purchasing',
+    'gender equity and lab climate': 'equity',
+    'gender equity & climate': 'equity',
+    'conflict resolution': 'conflict',
+    'communication norms': 'communication',
+    'lab values and culture': 'values',
+    'lab values & culture': 'values',
+    'mentoring and advising': 'mentoring',
+    'mentoring and advising structure': 'mentoring',
+    'mentoring & advising': 'mentoring',
+    'departure and offboarding': 'departure',
+    'departure & offboarding': 'departure',
+    'library and suggestions': 'library',
+    'library & suggestions': 'library',
+    'lab meetings': 'lab-meetings',
+    'science communication': 'scicomm',
+    "mo'orea fieldwork": 'moorea',
+    'moorea fieldwork': 'moorea',
+    'authorship policy': 'authorship',
+    'graduate funding': 'funding',
+    'graduate student funding': 'funding',
+    'program guidance': 'program',
+    'graduate program guidance': 'program',
+    'publishing and peer review': 'publishing',
+    'ai use policy': 'ai',
+    'animal care training': 'trainings',
+    'travel': 'travel-sec',
+    'vehicles': 'vehicles',
+    'safety': 'safety',
+    'fellowships': 'funding',
+    'collaboration': 'collaboration',
+    'postdocs': 'postdocs',
+    'undergraduates': 'undergrads',
+    'facilities': 'facilities',
+    'technology': 'technology',
+    'onboarding checklist': 'onboarding',
+    'lab working agreement': 'working-agreement',
+  };
+  for (const [phrase, id] of Object.entries(aliases)) {
+    if (!map.some(m => m.phrase === phrase)) {
+      map.push({ phrase, id });
+    }
+  }
+  // Sort longest first so longer matches take priority
+  map.sort((a, b) => b.phrase.length - a.phrase.length);
+  return map;
+}
+const crossRefMap = buildCrossRefMap();
+
+// Auto-link "see the X section" and "See the X section" references
+function autoLinkCrossRefs(html) {
+  // Match patterns like: see the X section, See the X section, see the X subsection
+  // Avoid double-linking (skip if already inside an <a> tag)
+  return html.replace(/([Ss]ee the )([\w\s''&]+?)(section|subsection)/g, (match, prefix, name, suffix) => {
+    const nameLower = name.trim().toLowerCase().replace(/\u2019/g, "'");
+    const entry = crossRefMap.find(m => nameLower === m.phrase || nameLower.replace(/ $/, '') === m.phrase);
+    if (entry) {
+      return `${prefix}<a href="#${entry.id}">${name.trim()}</a> ${suffix}`;
+    }
+    return match;
+  });
+}
+
 // --- Markdown conversion ---
 function convertMarkdown(md, sectionId) {
   // Convert markdown to HTML
@@ -39,6 +127,9 @@ function convertMarkdown(md, sectionId) {
   if (sectionId === 'contacts') {
     html = processContactCards(html);
   }
+
+  // --- Auto-link cross-references ("see the X section") ---
+  html = autoLinkCrossRefs(html);
 
   return html;
 }

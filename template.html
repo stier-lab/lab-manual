@@ -515,11 +515,12 @@ body::after {
   .content { padding: 32px 20px 80px; }
   .contact { padding: 16px 18px; }
 }
+<noscript><style>.section { opacity: 1 !important; transform: none !important; }</style></noscript>
 </style>
 </head>
 <body>
 
-<div class="reading-progress"><div class="reading-progress-fill" id="progressFill"></div></div>
+<div class="reading-progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" id="progressBar"><div class="reading-progress-fill" id="progressFill"></div></div>
 
 <button class="mobile-toggle" id="mobileToggle" onclick="toggleNav()" aria-label="Menu">
   <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 7h18M3 12h12M3 17h18"/></svg>
@@ -527,7 +528,7 @@ body::after {
 <div class="overlay" id="overlay" onclick="toggleNav()"></div>
 
 <!-- ═══ SIDEBAR ═══ -->
-<nav class="sidebar" id="sidebar">
+<nav class="sidebar" id="sidebar" aria-label="Table of contents">
   <div class="sidebar-header">
     <div class="sidebar-logo">
       <div class="logo-mark">
@@ -546,8 +547,8 @@ body::after {
 
   <div class="sidebar-search">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-    <input type="text" id="searchInput" placeholder="Search..." oninput="handleSearch(this.value)">
-    <span class="search-hint">/</span>
+    <input type="text" id="searchInput" placeholder="Search..." oninput="handleSearch(this.value)" aria-label="Search sections">
+    <span class="search-hint" aria-hidden="true">/</span>
   </div>
 
   <div class="nav-scroll" id="navScroll">
@@ -618,8 +619,9 @@ sects.forEach(s => revealIO.observe(s));
 
 // Progress bar + back to top
 window.addEventListener('scroll', () => {
-  const pct = window.scrollY / (document.documentElement.scrollHeight - window.innerHeight) * 100;
+  const pct = Math.round(window.scrollY / (document.documentElement.scrollHeight - window.innerHeight) * 100);
   document.getElementById('progressFill').style.width = pct + '%';
+  document.getElementById('progressBar').setAttribute('aria-valuenow', pct);
   document.getElementById('toTop').classList.toggle('show', window.scrollY > 500);
 });
 
@@ -635,6 +637,16 @@ function handleSearch(q) {
     const href = n.getAttribute('href');
     const sect = href ? document.querySelector(href) : null;
     n.style.display = (!q || (sect && sect.style.display !== 'none')) ? '' : 'none';
+  });
+  // Hide group labels when all their nav items are hidden
+  document.querySelectorAll('.nav-group-label').forEach(label => {
+    let next = label.nextElementSibling;
+    let anyVisible = false;
+    while (next && !next.classList.contains('nav-group-label')) {
+      if (next.classList.contains('nav-item') && next.style.display !== 'none') anyVisible = true;
+      next = next.nextElementSibling;
+    }
+    label.style.display = (!q || anyVisible) ? '' : 'none';
   });
 }
 
