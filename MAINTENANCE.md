@@ -10,6 +10,17 @@ npm run audit
 
 This runs `audit.js`, which takes about 30 seconds. It checks every URL in the manual for liveness and verifies key facts (personnel, travel rates, phone numbers) against live web sources. Results print to the console and are saved to `audit-report.md`.
 
+### Authenticated checks
+
+Some UCSB pages are behind SSO login (Gateway, UC Learning Center). To check those too, export your browser cookies and pass them to the audit:
+
+1. Install a browser extension like "Cookie Editor" or "cookies.txt export"
+2. Log into UCSB SSO in your browser
+3. Export cookies in Netscape format to `cookies.txt` in the repo root
+4. Run: `node audit.js --cookies cookies.txt`
+
+The cookie file is gitignored. Never commit it (it contains session tokens).
+
 ## What the Audit Checks
 
 ### 1. URL Liveness (automatic)
@@ -116,7 +127,7 @@ When you need to add, remove, or modify a content check, edit the `CONTENT_CHECK
 
 ## Known Limitations
 
-- **myIDP** (myidp.sciencecareers.org): The AAAS myIDP service went offline. Three URLs in `onboarding-checklist.md` reference it. Consider replacing with an alternative IDP tool if it doesn't come back.
+- **myIDP replaced** (Feb 2026): The AAAS myIDP service (myidp.sciencecareers.org) went offline. All three references in `onboarding-checklist.md` were replaced with ChemIDP (chemidp.acs.org), an ACS-maintained alternative that works for all STEM fields.
 - **UCSB page restructuring**: UCSB periodically reorganizes websites. Source URLs in `CONTENT_CHECKS` may need updating even when the facts haven't changed.
 - **Rate limiting**: The script waits 500ms between requests to avoid being blocked. A full run takes ~30 seconds.
 - **BFS travel rates**: The actual dollar amounts are in the G-28 Travel Policy bulletin (PDF), not on the BFS landing page. The content check will often show "not found" even when the manual is correct. Verify manually at [bfs.ucsb.edu](https://bfs.ucsb.edu/travel_entertainment/travel-planning).
@@ -136,4 +147,4 @@ When you need to add, remove, or modify a content check, edit the `CONTENT_CHECK
 | Date | Notes |
 |------|-------|
 | 2026-02-27 | Initial audit script created. Found 15 redirected URLs, 6 content items needing review, 9 fetch errors. All flagged content values confirmed correct via manual web checks. |
-| 2026-02-28 | Updated 12 redirected URLs to final destinations. Confirmed Kristen Labonte still library liaison, meal/lodging rates current, NSF GRFP eligibility current, DSP phone current. |
+| 2026-02-28 | Updated 12 redirected URLs to final destinations. Confirmed Kristen Labonte still library liaison, meal/lodging rates current, NSF GRFP eligibility current, DSP phone current. Fixed all 6 content check source URLs (EEMB, Grad Div, BFS, Senate, Hosford, DSP). Replaced 3 dead myIDP links with ChemIDP. Fixed search pattern false positives. Added `--cookies` flag for authenticated pages. Audit now 17/17 verified, 0 errors. |
