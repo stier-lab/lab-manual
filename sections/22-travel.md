@@ -35,7 +35,7 @@ For domestic travel, UCSB reimburses actual meal costs (not a flat per diem) up 
 
 Receipts are required for individual meals exceeding $75. Itemized receipts are always required for lodging. The domestic lodging cap is $333/night (excluding taxes and mandatory hotel fees).
 
-For international travel, you may claim a flat per diem for meals and lodging. Look up foreign per diem rates at the [U.S. Department of State](https://aoprals.state.gov/web920/per_diem.asp) website. For domestic rates by city, check the [GSA per diem rate tables](https://www.gsa.gov/travel/plan-book/per-diem-rates).
+For international travel, you may claim a flat per diem for meals and lodging. Look up foreign per diem rates at the [U.S. Department of State](https://allowances.state.gov/web920/per_diem.asp) website. For domestic rates by city, check the [GSA per diem rate tables](https://www.gsa.gov/travel/plan-book/per-diem-rates).
 
 ## Travel Advances
 

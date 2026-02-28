@@ -40,4 +40,4 @@ The printer is on the 2nd floor of Noble next to my office. You must be connecte
 
 ## VPN Connection
 
-For off-campus access to UCSB resources, set up the Ivanti Secure Access VPN. This requires Duo multi-factor authentication enrollment. Find setup instructions at [UCSB IT](https://www.it.ucsb.edu/network-infrastructure-services/ivanti-connect-secure-campus-vpn).
+For off-campus access to UCSB resources, set up the Ivanti Secure Access VPN. This requires Duo multi-factor authentication enrollment. Find setup instructions at [UCSB IT](https://it.ucsb.edu/network-infrastructure-services/ivanti-connect-secure-campus-vpn).

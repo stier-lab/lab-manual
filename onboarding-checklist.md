@@ -10,7 +10,7 @@ We are excited to welcome you to our community. We want your transition into the
 
 Slack is my primary communication tool and the fastest way to reach me. The lab uses it for day-to-day communication, quick questions, coordination, and sharing updates. It is available as a web platform, desktop app, and phone app.
 
-- Download at [slack.com](https://www.slack.com)
+- Download at [slack.com](https://slack.com)
 - Request access to the Stier Lab workspace: **stierlab.slack.com**
 - Create or join topic-specific channels for projects you're involved with
 
@@ -48,7 +48,7 @@ Our preferred citation manager.
 
 For off-campus access to UCSB library resources, the lab NAS, and other campus services. Requires Duo multi-factor authentication.
 
-- Setup instructions at [it.ucsb.edu/ivanti-secure-access-campus-vpn](https://www.it.ucsb.edu/network-infrastructure-services/ivanti-connect-secure-campus-vpn)
+- Setup instructions at [it.ucsb.edu/ivanti-secure-access-campus-vpn](https://it.ucsb.edu/network-infrastructure-services/ivanti-connect-secure-campus-vpn)
 
 ---
 
@@ -170,9 +170,9 @@ Track your goals using a simple table:
 
 - AAAS myIDP: [myidp.sciencecareers.org](https://myidp.sciencecareers.org/Overview/Summary)
 - Rutgers IDP: [grad.rutgers.edu/academics/individual-development-plans](https://grad.rutgers.edu/academics/individual-development-plans)
-- FSU IDP: [gradschool.fsu.edu/professional-development/individual-development-plan-idp](https://gradschool.fsu.edu/professional-development/individual-development-plan-idp)
-- UC Berkeley IDP: [grad.berkeley.edu/idp](http://grad.berkeley.edu/idp/)
-- Stanford IDP (year-specific forms): [biosciences.stanford.edu/current/idp](https://biosciences.stanford.edu/current/idp/)
+- FSU IDP: [gradschool.fsu.edu/current-students/individual-development-plan-idp](https://gradschool.fsu.edu/current-students/individual-development-plan-idp)
+- UC Berkeley IDP: [career.berkeley.edu/grad-students-postdocs](https://career.berkeley.edu/grad-students-postdocs/grad-student-services/)
+- Stanford IDP (year-specific forms): [oge.stanford.edu/academics/idp](https://oge.stanford.edu/academics/idp/)
 
 ---
 

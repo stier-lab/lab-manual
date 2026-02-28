@@ -40,7 +40,7 @@ Do not put yourself or others at risk. If you feel pressured to do something uns
 
 - **Point of contact:** When conducting fieldwork, always have someone who is NOT in the field with you who knows your location and expected return time. If you do not return on schedule, they should attempt contact and request help if needed.
 
-- **SCUBA and boating:** You must meet all UCSB and American Academy of Underwater Sciences (AAUS) requirements before diving. I serve on the MSI diving and boating safety board. See the Required Trainings section and the separate UCSB Dive Safety Manual (available from Eric Hessell or at [marineops.ucsb.edu](https://marineops.ucsb.edu/)) for details.
+- **SCUBA and boating:** You must meet all UCSB and American Academy of Underwater Sciences (AAUS) requirements before diving. I serve on the MSI diving and boating safety board. See the Required Trainings section and the separate UCSB Dive Safety Manual (available from Eric Hessell or at [marineops.ucsb.edu](https://www.marineops.ucsb.edu/)) for details.
 
 - **Lab chemicals:** See the Chemical Health and Safety Plan subsection in Required Trainings. Always check Safety Data Sheets (SDS), complete required Standard Operating Procedures (SOPs), and get proper training before handling hazardous materials.
 

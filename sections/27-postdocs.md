@@ -29,7 +29,7 @@ Your level of independence will be higher than that of a graduate student. I exp
 
 Postdoc positions are typically funded through specific grants with defined terms. Make sure you understand your appointment length, salary, benefits eligibility, and what happens if the grant ends before your planned departure. Ask these questions before you start, not after.
 
-UCSB postdocs are represented by UAW Local 4811 (the same union as graduate student employees). Know your contract, your benefits, and your rights. The union website at [uaw4811.org](https://uaw4811.org/) has the current contract and resources.
+UCSB postdocs are represented by UAW Local 4811 (the same union as graduate student employees). Know your contract, your benefits, and your rights. The union website at [uaw4811.org](https://www.uaw4811.org/) has the current contract and resources.
 
 ## The Job Market
 

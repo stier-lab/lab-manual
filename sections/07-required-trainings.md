@@ -21,7 +21,7 @@ You must complete several trainings before you can get to work. It feels like a 
 
 ## Animal Care Training
 
-To work with animals at UCSB, email the Institutional Animal Care and Use Committee (IACUC) at iacuc@lifesci.ucsb.edu with your name, PI (Dr. Adrian Stier), and protocol information. Complete the IACUC Researcher Training Checklist, register at [citiprogram.org](https://www.citiprogram.org/) (Collaborative Institutional Training Initiative) with UCSB, and complete the required modules.
+To work with animals at UCSB, email the Institutional Animal Care and Use Committee (IACUC) at iacuc@lifesci.ucsb.edu with your name, PI (Dr. Adrian Stier), and protocol information. Complete the IACUC Researcher Training Checklist, register at [citiprogram.org](https://about.citiprogram.org/) (Collaborative Institutional Training Initiative) with UCSB, and complete the required modules.
 
 Note: Even SCUBA surveys involving fish require IACUC approval in many cases. If your research involves fish at all, review IACUC requirements thoroughly before deciding you do not need a protocol. Creating a new IACUC protocol takes at least 2 months. Plan accordingly.
 

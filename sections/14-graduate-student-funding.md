@@ -98,6 +98,6 @@ UAW 4811 was formed through a 2024 merger of three earlier unions: UAW Local 286
 **Parental leave and caregiving.** The 2022 contract established 8 weeks of fully paid parental leave for graduate student employees and childcare reimbursements. If you are a parent or caregiver, these provisions apply to you. Contact your steward or the UAW 4811 website for current details, as specific provisions may change with new contracts. If caregiving responsibilities affect your schedule, talk to me -- we will work out flexible arrangements. Being a parent or caregiver will not be held against you in evaluations, opportunities, or recommendations. UCSB also offers childcare through the [Orfalea Family Children's Center](https://childrenscenter.sa.ucsb.edu/) and maintains lactation rooms across campus.
 
 **Key resources:**
-- **UAW 4811 website:** [uaw4811.org](https://uaw4811.org/), with contract text, bargaining updates, and know-your-rights information
+- **UAW 4811 website:** [uaw4811.org](https://www.uaw4811.org/), with contract text, bargaining updates, and know-your-rights information
 - **Your campus steward:** Contact info available on the UAW 4811 website. If you have a question about your contract or think something is not right with your appointment, your steward can help
-- **UC bargaining updates:** [universityofcalifornia.edu/UAW](https://www.universityofcalifornia.edu/UAW)
+- **UC bargaining updates:** [universityofcalifornia.edu/press-room/labor-negotiations](https://www.universityofcalifornia.edu/press-room/labor-negotiations)
