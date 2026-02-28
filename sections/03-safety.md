@@ -36,7 +36,7 @@ See the Mental Health Resources section for specific campus services.
 
 ## Lab and Field Safety
 
-Do not put yourself or others at risk. If you feel pressured to do something unsafe (by anyone, including me) you have the right and the responsibility to refuse. Speak up.
+Do not put yourself or others at risk. If you feel pressured to do something unsafe (by anyone, including me), you have the right and the responsibility to refuse. Speak up.
 
 - **Point of contact:** When conducting fieldwork, always have someone who is NOT in the field with you who knows your location and expected return time. If you do not return on schedule, they should attempt contact and request help if needed.
 

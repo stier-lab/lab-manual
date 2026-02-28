@@ -169,7 +169,8 @@ function buildNav() {
     nav += '    <div class="nav-group-label">Appendix</div>\n';
     for (const sec of config.appendix) {
       const badge = sec.badge || '';
-      nav += `    <a class="nav-item nav-item-appendix" href="#${sec.id}"><span class="nav-num">${badge}</span>${sec.title}</a>\n`;
+      const badgeSpan = badge ? `<span class="nav-num">${badge}</span>` : '';
+      nav += `    <a class="nav-item nav-item-appendix" href="#${sec.id}">${badgeSpan}${sec.title}</a>\n`;
     }
   }
 

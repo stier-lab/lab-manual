@@ -31,7 +31,7 @@ Back up your work regularly -- ideally daily. Hard drives fail, laptops get stol
 
 - **UCSB Box** provides unlimited cloud storage and is the easiest first line of backup.
 - **External hard drives** provide a local backup in case you lose internet access.
-- **The lab NAS** is backed up regularly and is a good place to store research data (see Data Management section).
+- **The lab NAS** is backed up regularly and is a good place to store research data (see the Data Management and Reproducible Science section).
 - Use at least two of these. If your work exists in only one location, it is not backed up.
 
 ## Software Licenses

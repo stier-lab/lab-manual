@@ -17,7 +17,7 @@ Check with Molly Brzezinski or me for the current process. If you do not have au
 
 ### Scheduling and Usage Log
 
-Coordinate all truck use through the lab truck Slack channel. If someone else has it reserved, work out timing or consolidate trips. After each use, update the Truck Usage Log on Google Drive with the date, driver, destination, mileage, and any issues. Keeping the log current helps us track costs and schedule maintenance.
+Coordinate all truck use through the lab truck Slack channel. If someone else has it reserved, work out timing or consolidate trips. After each use, update the Truck Log Book on Google Drive (`Admin > Vehicles > Lab Truck > Truck Log Book`) with the date, driver, destination, mileage, and any issues. Keeping the log current helps us track costs and schedule maintenance.
 
 ### Parking
 

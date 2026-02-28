@@ -43,7 +43,7 @@ After returning from fieldwork (especially Mo'orea), prioritize data organizatio
 - [ ] **Inventory unprocessed samples.** Create a list of all samples, images, and specimens that still need processing. Include storage location, priority, and estimated processing time.
 - [ ] **QA/QC your data.** Review datasets for obvious errors: impossible values, missing entries, duplicate records, and inconsistencies between field sheets and digital entries. Flag suspicious values and verify against original field sheets while the field context is fresh.
 - [ ] **Log collection totals.** For Mo'orea: record species collected, quantities, and sites in the shared collection tracking sheet. This is required for the annual bilan des prelevements report to DIREN.
-- [ ] **File organization.** Follow the lab naming conventions: include project name, date, and descriptive content in filenames. Use the established Google Drive folder structure (see Digital Tools section).
+- [ ] **File organization.** Follow the lab naming conventions: include project name, date, and descriptive content in filenames. Use the established Google Drive folder structure (see the Stier Lab Digital Tools section).
 
 ### What Belongs Where
 

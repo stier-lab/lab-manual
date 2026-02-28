@@ -207,6 +207,6 @@ Track your goals using a simple table:
 - [ ] Complete your first IDP draft and schedule an initial meeting with me
 - [ ] Complete the Mentor/Mentee Agreement with me (see the Mentoring and Advising Structure section)
 - [ ] Review and sign the Lab Working Agreement at the first lab meeting of the year
-- [ ] Set up at least two backup locations for your research data (see Data Management section)
+- [ ] Set up at least two backup locations for your research data (see the Data Management and Reproducible Science section)
 - [ ] Meet the people in the Valuable Contacts section, especially Andi Jorgensen, Mengshu Ye, and the marine operations staff if you'll be doing fieldwork
 - [ ] If eligible for NSF GRFP, begin preparing your application immediately (see the Graduate Student Funding section)

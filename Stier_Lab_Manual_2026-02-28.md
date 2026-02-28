@@ -9,7 +9,7 @@ University of California, Santa Barbara
 
 Welcome to the Ocean Recoveries Lab! You are now part of a community working to understand how marine ecosystems collapse and recover, and how we can build resilience in a changing world. This applies whether you are a graduate student, postdoc, technician, or undergraduate researcher.
 
-Our research spans coral reefs in Mo'orea (French Polynesia), kelp forests along the Santa Barbara coast, and Caribbean reef systems. We combine field experiments, evidence synthesis, and predictive modeling to study the mechanisms of ecosystem resistance, recovery, and reorganization. The lab is part of two NSF Long-Term Ecological Research programs: the Moorea Coral Reef LTER and the Santa Barbara Coastal LTER. These programs provide long-term datasets, infrastructure, and collaborative networks that enrich our work. You can learn more about current projects and the broader research program at oceanrecoveries.com.
+Our research spans coral reefs in Mo'orea (French Polynesia), kelp forests along the Santa Barbara coast, and Caribbean reef systems. We combine field experiments, evidence synthesis, and predictive modeling to study the mechanisms of ecosystem resistance, recovery, and reorganization. The lab is part of two NSF Long-Term Ecological Research programs: the Moorea Coral Reef LTER and the Santa Barbara Coastal LTER. These programs provide long-term datasets, infrastructure, and collaborative networks that enrich our work. You can learn more about current projects and the broader research program at [oceanrecoveries.com](https://www.oceanrecoveries.com/).
 
 This manual will help you get oriented. It covers the practical logistics of working at UCSB and in our lab. It also lays out the expectations and values that shape how we work together.
 
@@ -118,7 +118,7 @@ See the Mental Health Resources section for specific campus services.
 
 ## Lab and Field Safety
 
-Do not put yourself or others at risk. If you feel pressured to do something unsafe (by anyone, including me) you have the right and the responsibility to refuse. Speak up.
+Do not put yourself or others at risk. If you feel pressured to do something unsafe (by anyone, including me), you have the right and the responsibility to refuse. Speak up.
 
 - **Point of contact:** When conducting fieldwork, always have someone who is NOT in the field with you who knows your location and expected return time. If you do not return on schedule, they should attempt contact and request help if needed.
 
@@ -505,7 +505,7 @@ Back up your work regularly -- ideally daily. Hard drives fail, laptops get stol
 
 - **UCSB Box** provides unlimited cloud storage and is the easiest first line of backup.
 - **External hard drives** provide a local backup in case you lose internet access.
-- **The lab NAS** is backed up regularly and is a good place to store research data (see Data Management section).
+- **The lab NAS** is backed up regularly and is a good place to store research data (see the Data Management and Reproducible Science section).
 - Use at least two of these. If your work exists in only one location, it is not backed up.
 
 ## Software Licenses
@@ -743,7 +743,7 @@ Check with Molly Brzezinski or me for the current process. If you do not have au
 
 ### Scheduling and Usage Log
 
-Coordinate all truck use through the lab truck Slack channel. If someone else has it reserved, work out timing or consolidate trips. After each use, update the Truck Usage Log on Google Drive with the date, driver, destination, mileage, and any issues. Keeping the log current helps us track costs and schedule maintenance.
+Coordinate all truck use through the lab truck Slack channel. If someone else has it reserved, work out timing or consolidate trips. After each use, update the Truck Log Book on Google Drive (`Admin > Vehicles > Lab Truck > Truck Log Book`) with the date, driver, destination, mileage, and any issues. Keeping the log current helps us track costs and schedule maintenance.
 
 ### Parking
 
@@ -1231,7 +1231,7 @@ After returning from fieldwork (especially Mo'orea), prioritize data organizatio
 - [ ] **Inventory unprocessed samples.** Create a list of all samples, images, and specimens that still need processing. Include storage location, priority, and estimated processing time.
 - [ ] **QA/QC your data.** Review datasets for obvious errors: impossible values, missing entries, duplicate records, and inconsistencies between field sheets and digital entries. Flag suspicious values and verify against original field sheets while the field context is fresh.
 - [ ] **Log collection totals.** For Mo'orea: record species collected, quantities, and sites in the shared collection tracking sheet. This is required for the annual bilan des prelevements report to DIREN.
-- [ ] **File organization.** Follow the lab naming conventions: include project name, date, and descriptive content in filenames. Use the established Google Drive folder structure (see Digital Tools section).
+- [ ] **File organization.** Follow the lab naming conventions: include project name, date, and descriptive content in filenames. Use the established Google Drive folder structure (see the Stier Lab Digital Tools section).
 
 ### What Belongs Where
 
@@ -1808,7 +1808,7 @@ Research in French Polynesia requires permits. These are one of the least exciti
 4. Submit through Maheata (our primary contact at DIREN). I will review before submission.
 5. Allow 4-8 weeks for processing.
 
-**Bilan des prelevements (Annual Collection Report):** After each field season, we must file an annual collection report with DIREN documenting what was actually collected. This requires accurate records of species and quantities taken at each site. Track your collections in real time during fieldwork (see Data Management section). The lab manager compiles the final report.
+**Bilan des prelevements (Annual Collection Report):** After each field season, we must file an annual collection report with DIREN documenting what was actually collected. This requires accurate records of species and quantities taken at each site. Track your collections in real time during fieldwork (see the Data Management and Reproducible Science section). The lab manager compiles the final report.
 
 **Research permit sharing:** The lab can use a single research permit for multiple researchers. Each person attaches it to their individual fiche de synthese (summary sheet). Coordinate with the lab manager on this.
 
@@ -2305,7 +2305,7 @@ Track your goals using a simple table:
 - [ ] Complete your first IDP draft and schedule an initial meeting with me
 - [ ] Complete the Mentor/Mentee Agreement with me (see the Mentoring and Advising Structure section)
 - [ ] Review and sign the Lab Working Agreement at the first lab meeting of the year
-- [ ] Set up at least two backup locations for your research data (see Data Management section)
+- [ ] Set up at least two backup locations for your research data (see the Data Management and Reproducible Science section)
 - [ ] Meet the people in the Valuable Contacts section, especially Andi Jorgensen, Mengshu Ye, and the marine operations staff if you'll be doing fieldwork
 - [ ] If eligible for NSF GRFP, begin preparing your application immediately (see the Graduate Student Funding section)
 

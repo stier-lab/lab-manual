@@ -43,7 +43,7 @@ Research in French Polynesia requires permits. These are one of the least exciti
 4. Submit through Maheata (our primary contact at DIREN). I will review before submission.
 5. Allow 4-8 weeks for processing.
 
-**Bilan des prelevements (Annual Collection Report):** After each field season, we must file an annual collection report with DIREN documenting what was actually collected. This requires accurate records of species and quantities taken at each site. Track your collections in real time during fieldwork (see Data Management section). The lab manager compiles the final report.
+**Bilan des prelevements (Annual Collection Report):** After each field season, we must file an annual collection report with DIREN documenting what was actually collected. This requires accurate records of species and quantities taken at each site. Track your collections in real time during fieldwork (see the Data Management and Reproducible Science section). The lab manager compiles the final report.
 
 **Research permit sharing:** The lab can use a single research permit for multiple researchers. Each person attaches it to their individual fiche de synthese (summary sheet). Coordinate with the lab manager on this.
 
