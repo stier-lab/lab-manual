@@ -67,6 +67,28 @@ Once you're connected to the Stier Lab shared folder, familiarize yourself with 
 
 ---
 
+## Arriving in Santa Barbara
+
+### Housing
+
+UCSB does not guarantee housing for graduate students, so start looking early. Common options:
+
+- **UCSB Graduate Housing:** Apply through [housing.ucsb.edu](https://www.housing.ucsb.edu/). San Clemente Villages and Sierra Madre Villages are popular with grad students. Waitlists can be long — apply as soon as you accept your offer.
+- **Isla Vista:** The neighborhood adjacent to campus. Walking/biking distance. Affordable by SB standards. Most leases start in September. Check Craigslist, Facebook groups ("UCSB Housing"), and local property managers (Wolfe & Associates, SN Management, Embarcadero Company).
+- **Goleta / Santa Barbara:** More options but may require a car or bus commute. The MTD bus line 11 and 24x serve campus well.
+
+### Parking
+
+If you drive to campus, purchase a parking permit through [tps.ucsb.edu](https://www.tps.ucsb.edu/). Annual permits sell out early (July-August). Remote lots are cheaper and have shuttle service. Many lab members bike or take the bus — UCSB students ride MTD buses free with their Access Card.
+
+### Getting Around
+
+- **Bike:** The most common mode of transport on campus and in IV. Register your bike with UCSB CSO to deter theft. Invest in a good U-lock.
+- **Bus:** MTD buses are free for UCSB students. Route info at [sbmtd.gov](https://sbmtd.gov/).
+- **Car:** Useful for grocery runs and fieldwork logistics, but not necessary for daily campus life.
+
+---
+
 ## Keys and Building Access
 
 - **Noble Hall, Bio2 keys:** Pick up from Kurt Bellefeuille in the Bio Storeroom (Bldg 569, Rm 1101). Andi Jorgensen or I can submit the key request form on the UCSB website on your behalf. Allow at least 24 hours before pickup.

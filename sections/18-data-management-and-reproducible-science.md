@@ -31,6 +31,30 @@ Document your methods as you go, not after the fact. You will forget details fas
 - **Videos of methods** can be extremely useful, especially for complex field or lab procedures. A short video of your sampling technique or experimental setup is worth pages of written description.
 - Store your notebook entries alongside your project data on the lab NAS or Google Drive so they are accessible to the lab after you leave.
 
+## Post-Fieldwork Data Processing
+
+After returning from fieldwork (especially Mo'orea), prioritize data organization while everything is still fresh. Do this within the first two weeks back.
+
+### Post-Fieldwork Checklist
+
+- [ ] **Organize and back up all field data.** Upload raw data files to the lab NAS and at least one cloud backup (UCSB Box or Google Drive). Do not leave data only on field laptops or SD cards.
+- [ ] **Annotate field notes.** Review your field notebook entries and add any clarifying details while you still remember them. Scan or photograph physical notebooks and store digital copies alongside your data.
+- [ ] **Create or update README files.** Every dataset directory should have a README explaining: what the data are, when and where they were collected, collection methods, variable definitions and units, any known issues or deviations from protocol.
+- [ ] **Inventory unprocessed samples.** Create a list of all samples, images, and specimens that still need processing. Include storage location, priority, and estimated processing time.
+- [ ] **QA/QC your data.** Review datasets for obvious errors: impossible values, missing entries, duplicate records, and inconsistencies between field sheets and digital entries. Flag suspicious values and verify against original field sheets while the field context is fresh.
+- [ ] **Log collection totals.** For Mo'orea: record species collected, quantities, and sites in the shared collection tracking sheet. This is required for the annual bilan des prelevements report to DIREN.
+- [ ] **File organization.** Follow the lab naming conventions: include project name, date, and descriptive content in filenames. Use the established Google Drive folder structure (see Digital Tools section).
+
+### What Belongs Where
+
+| Content | Location |
+|---------|----------|
+| Raw data files (CSV, images) | Lab NAS + UCSB Box |
+| Analysis code | GitHub (lab org) |
+| Field notebooks (scans) | Google Drive (Stier Lab > People > [Your Name]) |
+| Manuscripts in progress | Google Drive (Stier Lab > Lab Projects > [Project]) |
+| Published data packages | Dryad, Zenodo, or BCO-DMO |
+
 ## Code & Analysis
 
 - Write code so that someone else (or future you) can understand it. Comment your code. Use consistent style.

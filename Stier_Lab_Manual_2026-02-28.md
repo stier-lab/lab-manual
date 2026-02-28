@@ -508,6 +508,25 @@ Back up your work regularly -- ideally daily. Hard drives fail, laptops get stol
 - **The lab NAS** is backed up regularly and is a good place to store research data (see Data Management section).
 - Use at least two of these. If your work exists in only one location, it is not backed up.
 
+## Software Licenses
+
+The lab maintains licenses for specialized software used on shared and personal machines. License keys and installation records are stored in Google Drive (Stier Lab > Admin > Software Licenses). If you need access to lab-licensed software, check this folder first before purchasing anything.
+
+**Current lab software (check the folder for the latest list):**
+
+| Software | Used For | Installed On |
+|----------|----------|-------------|
+| Cellsens / Evident | Microscope imaging | Lab iMac (Noble 2224) |
+| Adobe Creative Cloud | Figure preparation, posters | Lab iMac |
+| R / RStudio | Statistical analysis | Personal machines (free) |
+| Microsoft Office | Documents, spreadsheets | Available through UCSB site license |
+
+**UCSB site licenses:** UCSB provides free or discounted access to many software packages through [UCSB Software Licensing](https://www.software.ucsb.edu/). Check here before buying anything. Common free options include Microsoft Office 365, MATLAB, Adobe Creative Cloud (varies by department), and antivirus software.
+
+**Important:** When you install lab-purchased software on any machine, record the license key, installation date, and machine name in the Software Licenses folder. License keys are expensive and hard to replace if lost. Do not store them only on the machine where the software is installed — if that machine dies, the key is gone.
+
+**Vendor contacts:** For equipment-specific software issues (microscope cameras, analytical instruments), vendor contact information is in the Software Licenses folder. Try the vendor before LSCG — LSCG supports general computing, not specialized scientific instruments.
+
 ## Printing
 
 The printer is on the 2nd floor of Noble next to my office. You must be connected to LifeSci Noble. For poster printing, ITST and CNSI charge $40 for a standard 48x36 poster.
@@ -537,15 +556,67 @@ This is our preferred citation manager. Create an account at [zotero.org](https:
 
 This is our shared repository for lab materials. Note that UCSB Google Drive storage is limited to 150 GB per account (shared across Gmail, Drive, and Photos). For large datasets, use the lab NAS or UCSB Box instead. Familiarize yourself with the folder structure:
 
-- Admin
-- Big Files (DO NOT SYNC)
-- Communications
-- Funding
-- Lab Projects
-- People
-- Resources
+| Folder | What's In It |
+|--------|-------------|
+| **Admin** | Safety forms (EH&S), permits (CDFW, IACUC, Mo'orea), purchasing forms, reimbursement templates, dive planning, lab meeting notes, vehicle docs, volunteer agreements |
+| **Big Files** | Large datasets — **DO NOT SYNC** to your local machine |
+| **Communications** | Posters, press releases, outreach materials, infographics, lab photos, vector art, logos, message box templates |
+| **Funding** | Consolidated Funding List, grant deadlines, example proposals (NSF, NOAA, PADI), postdoc fellowship opportunities |
+| **Lab Projects** | Project folders with standard structure (Admin/Data/Figures/Notes/Writing). See the Example Folder for the template |
+| **Lab Publications** | PDFs of all published Stier Lab papers |
+| **People** | Individual folders for current members and alumni — your personal space for meetings, grants, projects, travel |
+| **Resources** | Academic advice, R/stats resources, coding cheat sheets, species ID guides, Mo'orea mesocosm info, Tahitian lessons, conference tracker |
 
 Do not edit files owned by others without permission.
+
+### Key Documents Quick Reference
+
+If you're looking for a specific document, start here:
+
+**Purchasing and Reimbursement:**
+- Funding project codes: `Admin > Purchasing > Funding Project Code List`
+- Expense tracker: `Admin > Purchasing > Expenses > Working Stier Lab Expense Worksheet`
+- Lab inventory: `Admin > Purchasing > Stier Lab Inventory 2024`
+- Reimbursement forms (misc, travel, entertainment, MSI): `Admin > Purchasing`
+- Reimbursement tips: `Admin > Purchasing > Tips to ensure reimbursement`
+
+**Diving and Boating:**
+- Diver contact sheet: `Admin > Scientific Diving and Boating > Dive Planning > Stier Lab Diver Contact Sheet`
+- Current Mo'orea dive plan: `Admin > Scientific Diving and Boating > Dive Planning > Stier Lab Dive Plans`
+- Emergency action plan: `Admin > Scientific Diving and Boating > Emergency Action Plan`
+- UCSB Diving Manual: `Admin > Scientific Diving and Boating > Dive Planning > UCSB Diving Manual`
+- Mo'orea boat protocol: `Admin > Scientific Diving and Boating > Boating > Moorea Small Boats Protocol`
+
+**Permits and Compliance:**
+- CDFW Scientific Collecting Permit: `Admin > Permits > CDFW Permit`
+- IACUC protocols and training: `Admin > Permits > IACUC`
+- Mo'orea research permits: `Admin > Permits > Gump Station Moorea > Protocole d'accueil`
+- Chemical inventory: `Admin > EH&S > Noble 2224 > Chemicals in Nobel Hall Lab`
+
+**Fieldwork Prep:**
+- GPS coordinates and site maps: `Resources > Research Planning > Coordinates and Maps`
+- Species ID guides (Mo'orea): `Resources > Identifications > Moorea`
+- Mesocosm setup: `Resources > Moorea Mesos`
+- Tahitian language lessons: `Resources > Tahitian_Lessons`
+- Conference tracker: `Resources > Conferences > Conferences 2025-2026`
+
+**Funding:**
+- Master funding list: `Funding > Opportunities > Consolidated Funding List`
+- Grant deadlines: `Funding > Opportunities > External Grants & Due Dates`
+- Postdoc fellowships: `Funding > Opportunities > ecology & quantitative postdoc fellowship opportunities`
+- Example grants: `Funding > Example Grants` (NSF, NOAA, PADI)
+
+**Starting a New Project:**
+- Use the template: `Lab Projects > Example Folder` (Admin, Communications, Data, Figures, Notes, PDF Library, Writing)
+
+**Safety:**
+- Safety training record: `Admin > Lab Forms and Documents > Stier Lab Safety Training Record`
+- New lab worker training form: `Admin > EH&S > new_lab_worker_safety_training.pdf`
+- SOPs: `Admin > EH&S > Chemical Data Sheets and SOPs > SOPs`
+
+**For Visitors:**
+- Visitor checklist: `Admin > Visiting Scholars and Students > Resources > To do list for visiting scholars`
+- Restaurant guide: `Admin > Visiting Scholars and Students > Resources > Places to Eat and Drink in Santa Barbara and Goleta`
 
 ## Social Media and Professional Online Presence
 
@@ -559,6 +630,26 @@ A few things to keep in mind:
 - Social media can also be a distraction and a source of stress. Use it intentionally, not compulsively. If it is affecting your mental health or productivity, step back.
 - You are never required to have a social media presence. Plenty of successful scientists do not use it at all.
 
+## Annual Renewal Calendar
+
+The lab has several certifications, permits, and plans that expire on different schedules. Missing a renewal can delay fieldwork. Use this calendar to stay ahead.
+
+| Item | Typical Renewal | Who Handles | Notes |
+|------|----------------|-------------|-------|
+| CPR/First Aid certification | Annual (individual expiry dates) | Each lab member | Monthly trainings through Marine Operations. Schedule 1-2 months before Mo'orea |
+| SCUBA gear inspection | Annual | Each diver + Eric Hessell | Drop off gear 1-2 weeks before field season |
+| Webdiver profile | Annual | Each diver | Update dive logs and medical clearance |
+| Boating and diving plan | Annual | Lab manager + Adrian | Renew through Webdiver before expiration |
+| DAN dive insurance | Annual | Each diver | Renew before field season |
+| CDFW Scientific Collecting Permit | Annual report + amendments | Adrian + lab manager | File collections report; update species/personnel as needed |
+| IACUC protocols | 3-year cycle | Adrian | Amendments and renewals filed through ORAMS |
+| Mo'orea collection permits (CPCC) | Per field season | Lab manager | File bilan des prelevements (collection report) after each season |
+| CITES permits | Per shipment | Lab manager + Adrian | Start 4+ months before specimen transport |
+| IRS mileage rate | Updates January | Audit script checks automatically | |
+| UCSB meal/lodging rates | Updates September | Audit script checks automatically | |
+| Lab Working Agreement | Reviewed annually | Whole lab | First lab meeting of each academic year |
+| Individual Development Plans | Annual | Each lab member + Adrian | Review at start of academic year |
+
 
 ---
 
@@ -570,7 +661,9 @@ You will need to order supplies regularly. The system has some quirks, but it be
 
 Before placing any order, you need to know the funding source. Each purchase must be charged to a specific account (identified by a Financial Reporting Unit and Project code in the Oracle system). Molly Brzezinski (lab manager) or I will tell you which account to use. If you are not sure, ask before ordering — using the wrong account creates problems that are tedious to fix.
 
-Log all purchases using lab funds on the Expense sheet. See Molly for the link. Note the funding source, supplier, items, and relevant details.
+**How to choose the right account:** Most routine lab supplies (consumables, field gear, small equipment) are charged to the primary active research grant. If your purchase is for a specific project funded by a specific grant, use that grant's account. When in doubt, ask Molly or check the lab Funding Sheet (see below). Never guess — a wrong account charge is harder to fix than a quick Slack message.
+
+Log all purchases using lab funds on the **Expense Sheet** in Google Drive (Stier Lab > Admin > Expense Sheet). Note the funding source, supplier, items, and relevant details. The **Funding Sheet** (Stier Lab > Funding) lists active grants and their account strings.
 
 ## Gateway
 
@@ -594,6 +687,8 @@ I approve all orders. Have a senior lab member train you on your first order. Ga
 For suppliers that do not accept purchase orders, or for urgent purchases from non-catalog vendors, the lab FlexCard (purchasing card) may be used. The standard per-transaction limit is $10,000. Talk to Molly before using the FlexCard. It is the exception, not the default.
 
 If you need to pay personally and seek reimbursement, do so only as a last resort. Reimbursement may be denied if the university determines a lower price was available through a contracted vendor. Always try Gateway or the FlexCard first.
+
+**When Gateway is down:** Gateway has occasional outages or system issues that can prevent orders. If Gateway is unavailable and your purchase is time-sensitive (e.g., field season prep, conference travel), contact Molly about using the FlexCard as a temporary workaround. For non-urgent orders, wait for Gateway to come back up. Do not order through personal accounts unless you have explicit prior approval from me — unapproved personal purchases may not be reimbursable.
 
 ## Equipment Purchases
 
@@ -1123,6 +1218,30 @@ Document your methods as you go, not after the fact. You will forget details fas
 - **For fieldwork (especially Mo'orea):** Record site coordinates, environmental conditions, water temperature, depth, tide state, weather, and anything that might affect your data. Take photos of your setup. These details are invaluable when interpreting results months later.
 - **Videos of methods** can be extremely useful, especially for complex field or lab procedures. A short video of your sampling technique or experimental setup is worth pages of written description.
 - Store your notebook entries alongside your project data on the lab NAS or Google Drive so they are accessible to the lab after you leave.
+
+## Post-Fieldwork Data Processing
+
+After returning from fieldwork (especially Mo'orea), prioritize data organization while everything is still fresh. Do this within the first two weeks back.
+
+### Post-Fieldwork Checklist
+
+- [ ] **Organize and back up all field data.** Upload raw data files to the lab NAS and at least one cloud backup (UCSB Box or Google Drive). Do not leave data only on field laptops or SD cards.
+- [ ] **Annotate field notes.** Review your field notebook entries and add any clarifying details while you still remember them. Scan or photograph physical notebooks and store digital copies alongside your data.
+- [ ] **Create or update README files.** Every dataset directory should have a README explaining: what the data are, when and where they were collected, collection methods, variable definitions and units, any known issues or deviations from protocol.
+- [ ] **Inventory unprocessed samples.** Create a list of all samples, images, and specimens that still need processing. Include storage location, priority, and estimated processing time.
+- [ ] **QA/QC your data.** Review datasets for obvious errors: impossible values, missing entries, duplicate records, and inconsistencies between field sheets and digital entries. Flag suspicious values and verify against original field sheets while the field context is fresh.
+- [ ] **Log collection totals.** For Mo'orea: record species collected, quantities, and sites in the shared collection tracking sheet. This is required for the annual bilan des prelevements report to DIREN.
+- [ ] **File organization.** Follow the lab naming conventions: include project name, date, and descriptive content in filenames. Use the established Google Drive folder structure (see Digital Tools section).
+
+### What Belongs Where
+
+| Content | Location |
+|---------|----------|
+| Raw data files (CSV, images) | Lab NAS + UCSB Box |
+| Analysis code | GitHub (lab org) |
+| Field notebooks (scans) | Google Drive (Stier Lab > People > [Your Name]) |
+| Manuscripts in progress | Google Drive (Stier Lab > Lab Projects > [Project]) |
+| Published data packages | Dryad, Zenodo, or BCO-DMO |
 
 ## Code & Analysis
 
@@ -1679,12 +1798,79 @@ Research in French Polynesia requires permits. These are one of the least exciti
 - **Housing reservations:** Book housing at the Gump Station through the UC Natural Reserve System (UCNRS) reservation system at [RAMS](https://rams.ucnrs.org/). Submit your application at least 2 months before your first visit to allow time for immigration paperwork.
 - **General advice:** Start the permit process as early as possible and keep me informed of your progress. Build in extra time for delays, especially if this is your first trip.
 
+### Permit Details and Workflow
+
+**CPCC (Collection Permit):** The Comite de la Peche et de la Culture en Collectivite controls collection permits for French Polynesia. The application requires:
+
+1. Map your collection sites using Google Earth. Include GPS coordinates for each site.
+2. Verify that none of your sites fall within Marine Protected Areas (MPAs).
+3. Specify species and quantities (e.g., 500 Porites, 500 Pocillopora, 50 Favia). Be generous in your estimates — you cannot collect more than permitted, but unused quota is fine.
+4. Submit through Maheata (our primary contact at DIREN). I will review before submission.
+5. Allow 4-8 weeks for processing.
+
+**Bilan des prelevements (Annual Collection Report):** After each field season, we must file an annual collection report with DIREN documenting what was actually collected. This requires accurate records of species and quantities taken at each site. Track your collections in real time during fieldwork (see Data Management section). The lab manager compiles the final report.
+
+**Research permit sharing:** The lab can use a single research permit for multiple researchers. Each person attaches it to their individual fiche de synthese (summary sheet). Coordinate with the lab manager on this.
+
+**North Shore moratorium:** As of 2026, the North Shore of Mo'orea remains under a collection moratorium. Do not plan collection activities on the North Shore without checking the current status of this restriction with me.
+
+**Permit storage:** All current and historical permits are stored in Google Drive (Stier Lab > Admin > Permits). File new permits there immediately upon receipt.
+
+## Dive and Boat Readiness
+
+Before each field season, every diver and boat operator must confirm their certifications and equipment are current. These items expire on different schedules, so start checking 2-3 months before departure.
+
+### Pre-Season Checklist
+
+- [ ] **CPR/First Aid certification:** Must be current through the end of your field season. Trainings are offered monthly through Marine Operations. Sign up early — sessions fill up. Check your expiration date now and schedule a refresher if needed.
+- [ ] **SCUBA gear inspection:** Contact Eric Hessell at Marine Operations to schedule an equipment inspection. Drop off your gear at least 1-2 weeks before departure. Eric will update your Webdiver profile once the inspection passes.
+- [ ] **Webdiver profile:** Your scientific diving authorization, medical clearance, and logged dives must be current in the Webdiver system. Review your profile annually and update dive logs. Marine Operations uses this to verify your authorization.
+- [ ] **Boating and diving plan:** The lab's boating and diving plan must be current and approved before fieldwork. Check the expiration date and work with Molly to update and resubmit if needed. The plan is filed through Webdiver.
+- [ ] **Tiller boat training:** If you will be operating small boats, you need tiller boat certification through Marine Operations. Contact Carly at the boatyard to schedule training. This is separate from your general boating certification.
+- [ ] **DAN insurance:** Divers Alert Network insurance must be active for the duration of your fieldwork. Renew annually.
+- [ ] **Trailer and boat maintenance:** Before Mo'orea trips that involve trailering the boat, coordinate with Tony at Marine Operations to verify the trailer is road-worthy and the boat is serviced.
+
+### Contacts
+
+- **Eric Hessell** — Dive Safety Officer, gear inspections, Webdiver
+- **Carly** — Boatyard, tiller boat training
+- **Tony** — Trailer and boat maintenance
+- **Marine Operations** — [marineops.ucsb.edu](https://www.marineops.ucsb.edu/)
+
 ## Equipment and Shipping
 
 - **Large equipment** is typically shipped to the station in advance. Work with me and Molly Brzezinski (lab manager) on shipping logistics, customs requirements, and timing.
 - **Smaller gear and personal equipment** is often brought in duffel bags. Pack thoughtfully. Replacement parts and specialty items are not easy to find on the island.
 - We maintain shared equipment at the Gump Station, including field supplies (transect tapes, zip-locks, vials), lab equipment (balances, microscopes), and dive gear. These are available to all lab members working in Mo'orea. Replace items as they are used, lost, or destroyed. Please help maintain a current inventory.
 - Make an equipment list and review it with me and experienced lab members before your first trip.
+
+## Packing for Mo'orea
+
+Field seasons are typically 2-3 months. You are packing for a working research trip in a tropical environment with limited shopping options. Think practically.
+
+### Essentials to Bring
+
+- **Reef shoes** (hard-soled, closed-toe) — mandatory for lagoon work. Stonefish are real.
+- **Wetsuit** — a 3mm full suit is standard. Bring your own if possible; loaner gear is limited.
+- **Rashguards/lycra suits** — for sun protection and coral cut prevention during long dive days.
+- **Reef-safe sunscreen** (SPF 50+) — bring a large supply. UV index is extreme (10-12+) and local options are expensive. Check that it is oxybenzone-free and octinoxate-free.
+- **DEET insect repellent** (20%+) — for dengue prevention. Mosquitoes are worst at dawn and dusk.
+- **Rain jacket** — it rains even in the dry season.
+- **Headlamp** — essential for early morning and evening work, and for power outages.
+- **Dry bags** — for protecting electronics on the boat and during transport.
+- **Personal medications** — bring your full supply in original packaging. The island pharmacy is limited.
+- **Laptop and charger** — bring a power strip with a European adapter (French outlets, Type C/E). Gump Station has some adapters, but bring your own.
+
+### What Is Available on the Island
+
+- **Groceries** — multiple grocery stores on Mo'orea (Champion, Chez Daniel). Prices are roughly 2x mainland France. Budget $400-600/month for self-catering.
+- **Basic supplies** — hardware stores, pharmacies, and general stores exist but selection is limited.
+- **Dive gear rental** — available through the station for some items, but do not rely on this for critical personal gear.
+- **Laundry** — the station has washing machines. Bring enough clothes for about a week between loads.
+
+### Luggage
+
+Airlines to Papeete typically allow 2 checked bags (23 kg each) on international flights and 1 bag (23 kg) on the Air Tahiti inter-island flight. Overweight fees add up fast. Ship heavy or bulky research equipment in advance through the lab (coordinate with Molly). Pack personal gear light and focus on what you cannot buy on the island.
 
 ## Being a Guest in Mo'orea
 
@@ -1976,6 +2162,28 @@ Once you're connected to the Stier Lab shared folder, familiarize yourself with 
 - **Stier Lab Working Agreement:** General principles for interpersonal interaction and workplace culture. Reviewed and updated at the first lab meeting of each academic year
 - **Stier Lab Manual:** This document. Logistics, information, and policies for UCSB and the lab
 - **Stier Lab SCUBA Manual:** Guidelines and resources for local fieldwork and diving at UCSB
+
+---
+
+## Arriving in Santa Barbara
+
+### Housing
+
+UCSB does not guarantee housing for graduate students, so start looking early. Common options:
+
+- **UCSB Graduate Housing:** Apply through [housing.ucsb.edu](https://www.housing.ucsb.edu/). San Clemente Villages and Sierra Madre Villages are popular with grad students. Waitlists can be long — apply as soon as you accept your offer.
+- **Isla Vista:** The neighborhood adjacent to campus. Walking/biking distance. Affordable by SB standards. Most leases start in September. Check Craigslist, Facebook groups ("UCSB Housing"), and local property managers (Wolfe & Associates, SN Management, Embarcadero Company).
+- **Goleta / Santa Barbara:** More options but may require a car or bus commute. The MTD bus line 11 and 24x serve campus well.
+
+### Parking
+
+If you drive to campus, purchase a parking permit through [tps.ucsb.edu](https://www.tps.ucsb.edu/). Annual permits sell out early (July-August). Remote lots are cheaper and have shuttle service. Many lab members bike or take the bus — UCSB students ride MTD buses free with their Access Card.
+
+### Getting Around
+
+- **Bike:** The most common mode of transport on campus and in IV. Register your bike with UCSB CSO to deter theft. Invest in a good U-lock.
+- **Bus:** MTD buses are free for UCSB students. Route info at [sbmtd.gov](https://sbmtd.gov/).
+- **Car:** Useful for grocery runs and fieldwork logistics, but not necessary for daily campus life.
 
 ---
 

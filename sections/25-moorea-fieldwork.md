@@ -33,12 +33,79 @@ Research in French Polynesia requires permits. These are one of the least exciti
 - **Housing reservations:** Book housing at the Gump Station through the UC Natural Reserve System (UCNRS) reservation system at [RAMS](https://rams.ucnrs.org/). Submit your application at least 2 months before your first visit to allow time for immigration paperwork.
 - **General advice:** Start the permit process as early as possible and keep me informed of your progress. Build in extra time for delays, especially if this is your first trip.
 
+### Permit Details and Workflow
+
+**CPCC (Collection Permit):** The Comite de la Peche et de la Culture en Collectivite controls collection permits for French Polynesia. The application requires:
+
+1. Map your collection sites using Google Earth. Include GPS coordinates for each site.
+2. Verify that none of your sites fall within Marine Protected Areas (MPAs).
+3. Specify species and quantities (e.g., 500 Porites, 500 Pocillopora, 50 Favia). Be generous in your estimates — you cannot collect more than permitted, but unused quota is fine.
+4. Submit through Maheata (our primary contact at DIREN). I will review before submission.
+5. Allow 4-8 weeks for processing.
+
+**Bilan des prelevements (Annual Collection Report):** After each field season, we must file an annual collection report with DIREN documenting what was actually collected. This requires accurate records of species and quantities taken at each site. Track your collections in real time during fieldwork (see Data Management section). The lab manager compiles the final report.
+
+**Research permit sharing:** The lab can use a single research permit for multiple researchers. Each person attaches it to their individual fiche de synthese (summary sheet). Coordinate with the lab manager on this.
+
+**North Shore moratorium:** As of 2026, the North Shore of Mo'orea remains under a collection moratorium. Do not plan collection activities on the North Shore without checking the current status of this restriction with me.
+
+**Permit storage:** All current and historical permits are stored in Google Drive (Stier Lab > Admin > Permits). File new permits there immediately upon receipt.
+
+## Dive and Boat Readiness
+
+Before each field season, every diver and boat operator must confirm their certifications and equipment are current. These items expire on different schedules, so start checking 2-3 months before departure.
+
+### Pre-Season Checklist
+
+- [ ] **CPR/First Aid certification:** Must be current through the end of your field season. Trainings are offered monthly through Marine Operations. Sign up early — sessions fill up. Check your expiration date now and schedule a refresher if needed.
+- [ ] **SCUBA gear inspection:** Contact Eric Hessell at Marine Operations to schedule an equipment inspection. Drop off your gear at least 1-2 weeks before departure. Eric will update your Webdiver profile once the inspection passes.
+- [ ] **Webdiver profile:** Your scientific diving authorization, medical clearance, and logged dives must be current in the Webdiver system. Review your profile annually and update dive logs. Marine Operations uses this to verify your authorization.
+- [ ] **Boating and diving plan:** The lab's boating and diving plan must be current and approved before fieldwork. Check the expiration date and work with Molly to update and resubmit if needed. The plan is filed through Webdiver.
+- [ ] **Tiller boat training:** If you will be operating small boats, you need tiller boat certification through Marine Operations. Contact Carly at the boatyard to schedule training. This is separate from your general boating certification.
+- [ ] **DAN insurance:** Divers Alert Network insurance must be active for the duration of your fieldwork. Renew annually.
+- [ ] **Trailer and boat maintenance:** Before Mo'orea trips that involve trailering the boat, coordinate with Tony at Marine Operations to verify the trailer is road-worthy and the boat is serviced.
+
+### Contacts
+
+- **Eric Hessell** — Dive Safety Officer, gear inspections, Webdiver
+- **Carly** — Boatyard, tiller boat training
+- **Tony** — Trailer and boat maintenance
+- **Marine Operations** — [marineops.ucsb.edu](https://www.marineops.ucsb.edu/)
+
 ## Equipment and Shipping
 
 - **Large equipment** is typically shipped to the station in advance. Work with me and Molly Brzezinski (lab manager) on shipping logistics, customs requirements, and timing.
 - **Smaller gear and personal equipment** is often brought in duffel bags. Pack thoughtfully. Replacement parts and specialty items are not easy to find on the island.
 - We maintain shared equipment at the Gump Station, including field supplies (transect tapes, zip-locks, vials), lab equipment (balances, microscopes), and dive gear. These are available to all lab members working in Mo'orea. Replace items as they are used, lost, or destroyed. Please help maintain a current inventory.
 - Make an equipment list and review it with me and experienced lab members before your first trip.
+
+## Packing for Mo'orea
+
+Field seasons are typically 2-3 months. You are packing for a working research trip in a tropical environment with limited shopping options. Think practically.
+
+### Essentials to Bring
+
+- **Reef shoes** (hard-soled, closed-toe) — mandatory for lagoon work. Stonefish are real.
+- **Wetsuit** — a 3mm full suit is standard. Bring your own if possible; loaner gear is limited.
+- **Rashguards/lycra suits** — for sun protection and coral cut prevention during long dive days.
+- **Reef-safe sunscreen** (SPF 50+) — bring a large supply. UV index is extreme (10-12+) and local options are expensive. Check that it is oxybenzone-free and octinoxate-free.
+- **DEET insect repellent** (20%+) — for dengue prevention. Mosquitoes are worst at dawn and dusk.
+- **Rain jacket** — it rains even in the dry season.
+- **Headlamp** — essential for early morning and evening work, and for power outages.
+- **Dry bags** — for protecting electronics on the boat and during transport.
+- **Personal medications** — bring your full supply in original packaging. The island pharmacy is limited.
+- **Laptop and charger** — bring a power strip with a European adapter (French outlets, Type C/E). Gump Station has some adapters, but bring your own.
+
+### What Is Available on the Island
+
+- **Groceries** — multiple grocery stores on Mo'orea (Champion, Chez Daniel). Prices are roughly 2x mainland France. Budget $400-600/month for self-catering.
+- **Basic supplies** — hardware stores, pharmacies, and general stores exist but selection is limited.
+- **Dive gear rental** — available through the station for some items, but do not rely on this for critical personal gear.
+- **Laundry** — the station has washing machines. Bring enough clothes for about a week between loads.
+
+### Luggage
+
+Airlines to Papeete typically allow 2 checked bags (23 kg each) on international flights and 1 bag (23 kg) on the Air Tahiti inter-island flight. Overweight fees add up fast. Ship heavy or bulky research equipment in advance through the lab (coordinate with Molly). Pack personal gear light and focus on what you cannot buy on the island.
 
 ## Being a Guest in Mo'orea
 

@@ -6,7 +6,9 @@ You will need to order supplies regularly. The system has some quirks, but it be
 
 Before placing any order, you need to know the funding source. Each purchase must be charged to a specific account (identified by a Financial Reporting Unit and Project code in the Oracle system). Molly Brzezinski (lab manager) or I will tell you which account to use. If you are not sure, ask before ordering — using the wrong account creates problems that are tedious to fix.
 
-Log all purchases using lab funds on the Expense sheet. See Molly for the link. Note the funding source, supplier, items, and relevant details.
+**How to choose the right account:** Most routine lab supplies (consumables, field gear, small equipment) are charged to the primary active research grant. If your purchase is for a specific project funded by a specific grant, use that grant's account. When in doubt, ask Molly or check the lab Funding Sheet (see below). Never guess — a wrong account charge is harder to fix than a quick Slack message.
+
+Log all purchases using lab funds on the **Expense Sheet** in Google Drive (Stier Lab > Admin > Expense Sheet). Note the funding source, supplier, items, and relevant details. The **Funding Sheet** (Stier Lab > Funding) lists active grants and their account strings.
 
 ## Gateway
 
@@ -30,6 +32,8 @@ I approve all orders. Have a senior lab member train you on your first order. Ga
 For suppliers that do not accept purchase orders, or for urgent purchases from non-catalog vendors, the lab FlexCard (purchasing card) may be used. The standard per-transaction limit is $10,000. Talk to Molly before using the FlexCard. It is the exception, not the default.
 
 If you need to pay personally and seek reimbursement, do so only as a last resort. Reimbursement may be denied if the university determines a lower price was available through a contracted vendor. Always try Gateway or the FlexCard first.
+
+**When Gateway is down:** Gateway has occasional outages or system issues that can prevent orders. If Gateway is unavailable and your purchase is time-sensitive (e.g., field season prep, conference travel), contact Molly about using the FlexCard as a temporary workaround. For non-urgent orders, wait for Gateway to come back up. Do not order through personal accounts unless you have explicit prior approval from me — unapproved personal purchases may not be reimbursable.
 
 ## Equipment Purchases
 

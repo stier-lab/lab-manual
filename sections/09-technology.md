@@ -34,6 +34,25 @@ Back up your work regularly -- ideally daily. Hard drives fail, laptops get stol
 - **The lab NAS** is backed up regularly and is a good place to store research data (see Data Management section).
 - Use at least two of these. If your work exists in only one location, it is not backed up.
 
+## Software Licenses
+
+The lab maintains licenses for specialized software used on shared and personal machines. License keys and installation records are stored in Google Drive (Stier Lab > Admin > Software Licenses). If you need access to lab-licensed software, check this folder first before purchasing anything.
+
+**Current lab software (check the folder for the latest list):**
+
+| Software | Used For | Installed On |
+|----------|----------|-------------|
+| Cellsens / Evident | Microscope imaging | Lab iMac (Noble 2224) |
+| Adobe Creative Cloud | Figure preparation, posters | Lab iMac |
+| R / RStudio | Statistical analysis | Personal machines (free) |
+| Microsoft Office | Documents, spreadsheets | Available through UCSB site license |
+
+**UCSB site licenses:** UCSB provides free or discounted access to many software packages through [UCSB Software Licensing](https://www.software.ucsb.edu/). Check here before buying anything. Common free options include Microsoft Office 365, MATLAB, Adobe Creative Cloud (varies by department), and antivirus software.
+
+**Important:** When you install lab-purchased software on any machine, record the license key, installation date, and machine name in the Software Licenses folder. License keys are expensive and hard to replace if lost. Do not store them only on the machine where the software is installed — if that machine dies, the key is gone.
+
+**Vendor contacts:** For equipment-specific software issues (microscope cameras, analytical instruments), vendor contact information is in the Software Licenses folder. Try the vendor before LSCG — LSCG supports general computing, not specialized scientific instruments.
+
 ## Printing
 
 The printer is on the 2nd floor of Noble next to my office. You must be connected to LifeSci Noble. For poster printing, ITST and CNSI charge $40 for a standard 48x36 poster.
