@@ -13,7 +13,7 @@ When starting a new collaboration, have an explicit conversation (ideally in wri
 - **Roles and responsibilities.** Who is doing what? Who is leading the project? Who is providing data, analysis, field support, or other resources?
 - **Authorship.** Discuss expected authorship early, using the principles in the Authorship Policy section. Revisit as the project develops. Do not wait until the paper is written.
 - **Data sharing.** Who collects the data? Who has access to it during the project? What happens to the data after the project ends? If you are using someone else's data, clarify the terms before you start analyzing it.
-- **Timeline.** What is the expected timeline for the project? What happens if one party falls behind?
+- **Timeline.** What is the expected timeline for the project? What happens if one party falls behind? For external collaborators working on lab projects, the Completing Projects After Departure section includes specific response timelines.
 - **Communication.** How often will you check in? What is the preferred mode of communication? Who is the point of contact on each side?
 
 For large or multi-institutional collaborations, consider putting this in a written agreement or memo of understanding. It does not need to be formal or legal. A shared document that everyone has signed off on is enough. The point is to have something to refer back to if memories diverge.

@@ -41,3 +41,7 @@ I want to co-author at least one chapter of your dissertation, but it is not req
 - **When things change.** If you are considering adding or removing an author, communicate the rationale to all existing co-authors first.
 
 > **Warning:** Never submit a paper (including conference abstracts) without explicit approval from all listed co-authors. All co-authors should have the opportunity to review the manuscript before submission. Get explicit sign-off on the final version from every author before you click "submit." This applies to conference abstracts too. They are part of the scientific record. If you are unsure whether someone's contribution warrants authorship, ask them. Ask me. Talk about it before it becomes a problem.
+
+## After Departure
+
+If you leave the lab with unfinished projects, a separate set of expectations governs how those projects get completed, including timelines, milestone checkpoints, and what happens to authorship if progress stalls. This applies to all roles — graduate students, postdocs, undergraduates, technicians, and external collaborators. See the Completing Projects After Departure section for the full details.

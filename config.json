@@ -49,7 +49,8 @@
         { "file": "28-publishing-and-peer-review.md", "id": "publishing", "title": "Publishing & Peer Review", "num": "28" },
         { "file": "30-collaboration.md", "id": "collaboration", "title": "Collaboration", "num": "30" },
         { "file": "19-gender-equity-and-lab-climate.md", "id": "equity", "title": "Gender Equity & Climate", "num": "19" },
-        { "file": "20-ai-use-policy.md", "id": "ai", "title": "AI Use Policy", "num": "20" }
+        { "file": "20-ai-use-policy.md", "id": "ai", "title": "AI Use Policy", "num": "20" },
+        { "file": "31-project-completion.md", "id": "project-completion", "title": "Completing Projects After Departure", "num": "31" }
       ]
     },
     {
@@ -72,6 +73,7 @@
   ],
   "appendix": [
     { "file": "onboarding-checklist.md", "id": "onboarding", "title": "Onboarding Checklist", "badge": "NEW" },
-    { "file": "working-agreement.md", "id": "working-agreement", "title": "Lab Working Agreement" }
+    { "file": "working-agreement.md", "id": "working-agreement", "title": "Lab Working Agreement" },
+    { "file": "exit-plan-template.md", "id": "exit-plan", "title": "Exit Plan Template", "badge": "NEW" }
   ]
 }

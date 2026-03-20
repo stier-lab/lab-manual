@@ -24,13 +24,9 @@ Begin the offboarding process 2-3 months before your departure date. Some of the
 
 ## Manuscripts in Progress
 
-If you have manuscripts in progress when you leave, discuss the timeline and plan with me before your departure. Agree on:
+If you have manuscripts in progress when you leave, we will address them formally through the **Exit Plan Meeting**, which happens at least 8 weeks before your departure. At that meeting, we classify each project by stage, set specific milestones and deadlines, and document authorship agreements. The goal is simple: make sure your work gets published and that you get credit for it.
 
-- Who is responsible for what revisions and by when.
-- Whether co-authors still in the lab will handle revisions during peer review.
-- A realistic schedule for completion. Life after departure gets busy fast — the best time to finish a manuscript is before you leave.
-
-The lab's general expectation is that you publish your own work within a couple of years of graduating. For the full policy on data and publications after departure, see the Data Management and Reproducible Science section.
+The full details — including timelines by role, what happens if progress stalls, authorship reassignment, and my commitments to you — are in the Completing Projects After Departure section. Please read it before the Exit Plan Meeting. It is long because I want everything to be transparent, not because I expect problems.
 
 ## Exit Conversation
 

@@ -8,7 +8,7 @@ Your level of independence will be higher than that of a graduate student. I exp
 
 ## Expectations
 
-**Research output.** The postdoc years are when you build the publication record that defines the next stage of your career. I expect you to be writing and submitting papers throughout your appointment — not saving everything for the end. We will set specific manuscript targets in your mentoring agreement and revisit them quarterly.
+**Research output.** The postdoc years are when you build the publication record that defines the next stage of your career. I expect you to be writing and submitting papers throughout your appointment — not saving everything for the end. We will set specific manuscript targets in your mentoring agreement and revisit them quarterly. The Completing Projects After Departure section describes what happens if manuscripts are still in progress when your appointment ends, including compressed timelines that reflect the independence expected at this career stage.
 
 **Mentoring.** I expect postdocs to help mentor graduate students and undergraduates in the lab. This is not free labor. Mentoring is a skill you need for your career, and doing it well here gives you concrete evidence for job applications. But it should not consume your research time. If mentoring responsibilities are becoming too heavy, tell me.
 

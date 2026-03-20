@@ -16,6 +16,8 @@ If a direct conversation does not resolve things, or if you have tried and it is
 
 - **For persistent or serious issues,** UCSB's Ombuds Office provides confidential, neutral mediation services. They exist for situations where normal channels feel insufficient.
 
+- **For authorship or project completion disputes specifically,** the Completing Projects After Departure section has its own escalation pathway, including a 30-day notice window before any authorship changes. If you are navigating a disagreement about credit or timelines on a manuscript, start there.
+
 ## A Few Principles I Care About
 
 - **Address things promptly.** Conflicts fester and escalate when ignored. A small misunderstanding today can become a real problem in a month.

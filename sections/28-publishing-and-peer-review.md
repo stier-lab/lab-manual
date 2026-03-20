@@ -6,7 +6,7 @@ Publishing is how we contribute to the scientific record. It is also how you bui
 
 ### Writing the Paper
 
-Start writing earlier than you think you should. You do not need a complete dataset or a final analysis to begin drafting an introduction, sketching out methods, or outlining the argument. Writing clarifies thinking. Many of the best insights about a project come during the writing, not before it.
+Start writing earlier than you think you should. You do not need a complete dataset or a final analysis to begin drafting an introduction, sketching out methods, or outlining the argument. Writing clarifies thinking. Many of the best insights about a project come during the writing, not before it. This habit also matters practically — the lab members who finish papers fastest are the ones who started writing early. If you leave with unfinished manuscripts, specific completion timelines apply (see the Completing Projects After Departure section).
 
 A few practical notes:
 

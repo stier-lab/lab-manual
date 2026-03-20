@@ -74,7 +74,7 @@ After returning from fieldwork (especially Mo'orea), prioritize data organizatio
 
 When you leave the lab, archive your research data and code on the lab NAS and/or Google Drive with appropriate metadata. This applies to research conducted primarily within the Stier Lab. For work conducted under other PIs or external funding with separate data requirements, follow those policies.
 
-No one will publish your unpublished data without your permission for at least three years after your departure. After three years, I may work with you to publish the data, with you as lead author. If you are unreachable after reasonable efforts, I may publish the work with appropriate attribution. The strong expectation is that you publish your own work within a couple of years of graduating.
+The lab has a detailed policy covering post-departure project completion, including milestone timelines, authorship expectations, and what happens if progress stalls. The strong expectation is that you publish your own work, and the policy is designed to support that outcome with clear deadlines and continued access to lab resources. See the Completing Projects After Departure section for the full details, including the Exit Plan Meeting process and role-specific timelines.
 
 For work funded by external grants, data archiving requirements from the funding agency (e.g., NSF, NOAA) apply. These requirements can mandate public data availability on a specific timeline.
 

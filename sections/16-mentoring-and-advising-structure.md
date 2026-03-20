@@ -8,6 +8,8 @@ The lab uses several structured tools for transparent, consistent mentoring:
 
 - **Individual Development Plans (IDPs):** Annual review with quarterly check-ins. Covers research milestones, skills development, and career planning.
 
+- **Exit Plan Meeting:** Required at least 8 weeks before departure. Covers project inventory, authorship agreements, completion timelines, and data handoff. See the Completing Projects After Departure section for the full process.
+
 - **Annual meetings with Graduate Advisor:** All students meet with the Graduate Advisor (currently Mengshu Ye) yearly (for at least the first two years) to provide feedback on mentorship.
 
 ## Mentor/Mentee Agreement

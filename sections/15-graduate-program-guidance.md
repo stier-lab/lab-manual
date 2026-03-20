@@ -22,7 +22,7 @@ My role in this process differs depending on where you are. For PhD students, de
 
 **Practice talks:** Practice your research presentations before every conference, in lab meeting or with labmates. The first practice talk usually reveals that a talk you thought was "almost done" needs to be restructured. This is normal. Give yourself time. Do not wait until the last minute.
 
-**Publications:** Write and submit papers as you progress through your program. Do not wait until the end. Ideally, most of your publishable work will be in review or published by the time you defend. This makes your next career transition much easier.
+**Publications:** Write and submit papers as you progress through your program. Do not wait until the end. Ideally, most of your publishable work will be in review or published by the time you defend. This makes your next career transition much easier. If you do leave with unfinished manuscripts, the Completing Projects After Departure section lays out the timelines, milestones, and authorship expectations that apply. Reading it early is better than reading it on your way out.
 
 **Committee review of manuscripts:** Give each manuscript to your committee and incorporate feedback before submitting to a journal. See the Publishing and Peer Review section for the full internal review process.
 

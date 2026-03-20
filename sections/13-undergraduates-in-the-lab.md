@@ -48,3 +48,5 @@ Most undergraduates join as volunteers, for course credit, or with stipend suppo
 If the mentor-mentee relationship is not working — communication has broken down, expectations are unclear, or the experience is not what you hoped — talk to me. This is not a failure on anyone's part. Sometimes a better match or a different project structure makes all the difference. The goal is for every undergraduate to leave the lab having learned something meaningful.
 
 Undergraduate researchers must complete the same basic safety trainings as other lab members. See the Required Trainings section for details.
+
+If you are leaving the lab with a project in progress, the Completing Projects After Departure section includes specific expectations for undergraduates, including data handoff requirements and timelines for any manuscript work.
