@@ -1,8 +1,8 @@
 # Gender Equity and Lab Climate
 
-## Our Commitment
+## Why This Matters
 
-Science benefits from diverse perspectives, and a healthy lab climate is everyone's responsibility. The Stier Lab is committed to creating an environment where all members can do their best work and feel valued. This applies regardless of gender, race, ethnicity, sexual orientation, disability, socioeconomic background, or career stage.
+A lab where some people feel overlooked or overburdened does worse science. I take equity and lab climate seriously because the alternative — assuming things are fine without checking — is how imbalances persist. Here is what we actually do about it.
 
 ## What We Do
 

@@ -8,7 +8,7 @@ That said, communicating well to non-specialist audiences is a skill, and like a
 
 ## Representing the Lab
 
-When you give a public talk, post on social media about your research, talk to a journalist, or write for a general audience, you are representing yourself, the lab, UCSB, and the scientific community. This is not meant to make you anxious. It is meant to make you thoughtful.
+When you give a public talk, post on social media about your research, talk to a journalist, or write for a general audience, you are representing yourself, the lab, and UCSB.
 
 A few principles:
 

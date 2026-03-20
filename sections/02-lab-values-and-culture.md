@@ -1,24 +1,20 @@
 # Lab Values & Culture
 
-## Core Values
+Understanding collapse. Designing recovery. A guide to the expectations, values, and logistics that shape how we work together at UCSB.
 
-I want to be upfront about what matters to me in how we do science and treat each other. These are not aspirational slogans on a poster. They are the things I come back to when making decisions about the lab, and the things I hope you will hold me to as well.
+**Be curious.** I got into this work because I find the natural world fascinating, and I hope you did too. I want this lab to be a place where you can explore, sit with uncertainty, and ask the questions that feel too basic to say out loud — those are often the most important ones.
 
-- **Curiosity.** I got into this work because I find the natural world genuinely fascinating, and I hope you did too. Curiosity is the engine of good science. I want this lab to be a place where you can explore, sit with uncertainty, and ask the "stupid questions" that often turn out to be the most important ones.
+**Give honest feedback.** I expect us to be direct with each other about ideas, writing, analyses, and presentations. I try to offer criticism with the intent to improve, and I ask that you receive it with openness rather than defensiveness. That goes both ways. I need your honest reactions to my ideas too.
 
-- **Collaboration.** Our best work happens when we combine diverse perspectives, skills, and experiences. I value working together, helping each other, and sharing credit generously.
+**Speak up.** If you disagree, say so. If something feels wrong, say so. If you need help, say so. Challenge ideas respectfully, regardless of who holds them, including me.
 
-- **Constructive Criticism.** I expect us to give each other honest feedback on ideas, writing, analyses, and presentations. I try to offer criticism with the intent to improve. I ask that you receive it with openness rather than defensiveness. That goes both ways. I need your honest reactions to my ideas too.
+**Think clearly.** Good science depends on clear thinking, and clear thinking depends on clear communication — in our writing, our talks, our experimental designs, and our conversations with each other.
 
-- **Courage.** I want people in this lab to speak up when they disagree, when something feels wrong, or when they need help. Challenge ideas respectfully, regardless of who holds them, including me.
+**Work together.** Our best work happens when we combine perspectives, skills, and experiences that none of us have alone. Help each other. Share credit generously. The lab is stronger than any one person in it.
 
-- **Clarity.** We strive to think clearly and communicate well in our writing, our talks, our experimental designs, and our conversations with each other.
+**Care about each other.** Graduate school is hard. We hold each other accountable while remaining sensitive to the fact that people have lives and pressures outside the lab.
 
-- **Compassion.** I care about you as a whole person, not just as a research producer. We hold each other accountable while remaining sensitive to the pressures and challenges of graduate life.
-
-- **Community.** I value every voice in the lab. We build and sustain our community through shared meals, social time, mutual support, and a culture where everyone feels they belong.
-
-- **Integrity.** We conduct our research honestly, treat our data with respect, and hold ourselves to the highest standards of scientific and professional ethics. There are no shortcuts here.
+**Do honest work.** We treat our data with respect, report our results accurately, and hold ourselves to high standards of scientific and professional ethics. There are no shortcuts here.
 
 ## Day-to-Day Lab Life
 

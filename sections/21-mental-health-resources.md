@@ -4,7 +4,7 @@
 
 Graduate school is hard. Not in the vague, "everyone says it's tough" sense, but in ways that are well-documented and measurable. Studies consistently find that around 40% of graduate students experience clinically significant anxiety or depression — roughly six times the rate in the general population. Imposter syndrome is pervasive. Burnout is common. These are not signs of personal weakness. They are structural features of the graduate school experience that need to be actively managed.
 
-I include this section not as a formality but because I believe that taking care of yourself is a prerequisite for doing good science. You cannot think clearly, write well, or be a good collaborator if you are running on empty. Seeking help is not a sign that something is wrong with you. It is a sign that you are taking your work and your well-being seriously.
+I include this section because these problems are common enough that ignoring them would be negligent. If you are struggling, the resources below exist and they work. Use them.
 
 ## Recognizing Burnout
 
@@ -18,7 +18,7 @@ Other warning signs include persistent procrastination, withdrawing from lab act
 
 ## What I Commit To
 
-- I care about you as a whole person, not just your research output. If you are struggling, I want to know — not to judge, but to help.
+- If you are struggling, I want to know — not to judge, but to help.
 - I will not hold it against you if you need time away for your mental health. Treat it the same as physical illness: let me know, take the time you need, and we will figure out the rest.
 - I try to model healthy boundaries. When I send an email or Slack message outside business hours, I do not expect a response until the next business day.
 - If you come to me with a concern, I will listen and connect you with appropriate resources. I am not a therapist, and I will not pretend to be one. But I will take your concerns seriously and do what I can.

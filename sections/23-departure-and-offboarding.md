@@ -38,16 +38,8 @@ Before you leave, schedule a final meeting with me to discuss:
 
 This conversation is valuable in both directions. Honest feedback from departing lab members has shaped many of the policies in this manual.
 
-## Update Your Contact Information
-
-Keep your contact information current so I can reach you for reference letters, questions about your data, and collaboration opportunities. Update your mailing address, personal email, and phone number before you go.
-
 ## Staying Connected
 
-Leaving the lab does not mean leaving the community. Former lab members are always welcome at lab meetings, lab events, and Mo'orea field seasons if logistics allow. The door stays open.
+Former lab members are always welcome at lab meetings, lab events, and Mo'orea field seasons if logistics allow. Many continue to collaborate, co-author papers, and support current students long after they move on.
 
-I genuinely want to stay in touch, not just for references and collaborations, but because the relationships formed in this lab matter to me beyond the work itself. I have been lucky to watch people grow into incredible scientists. I care about where those paths lead.
-
-Many former lab members continue to collaborate, co-author papers, and support current students long after they move on. By leaving the Stier Lab, you are not ending a chapter. You are joining a broader network that extends well beyond your time at UCSB. Some of the best ideas and partnerships I have been part of came from staying connected with former students and postdocs.
-
-On the practical side: keep your contact info updated so I can reach you (and so I can send a reference letter to the right address). Stay on the lab Slack if you want. There is no expiration date on membership. And don't be a stranger. Send an email, share a paper, tell me about the cool thing you are working on. I want to hear about it.
+Before you go, update your mailing address, personal email, and phone number so I can reach you for reference letters and questions about your data. Stay on the lab Slack if you want. There is no expiration date.

@@ -2,7 +2,7 @@
 
 ## Overview
 
-Much of the Stier Lab's research takes place on the island of Mo'orea in French Polynesia. Field seasons are a defining part of the graduate experience in this lab. This is where your ideas meet the reef, and where some of the most formative learning happens. Field seasons are also logistically complex, physically demanding, and culturally rich. This section covers what you need to know.
+Much of the lab's research takes place on the island of Mo'orea in French Polynesia. Field seasons are a defining part of the graduate experience in this lab. They are also logistically complex, physically demanding, and culturally rich. This section covers what you need to know.
 
 ## The Gump Station
 
@@ -113,7 +113,7 @@ Mo'orea is not just a field site. It is home to a Polynesian community with a de
 
 - **Learn some French and Tahitian.** French is the administrative language and what you will use in stores, restaurants, and with many community members. Even basic Tahitian greetings and phrases go a long way toward building goodwill and showing respect. Make the effort.
 - **Be respectful of local customs, spaces, and relationships.** You are representing UCSB, the Gump Station, and this lab. How you conduct yourself affects the community's willingness to host future researchers.
-- **Engage genuinely.** The relationships between the station and the local community matter enormously. Be a thoughtful neighbor, not just a visiting scientist.
+- **Engage with the community.** The relationships between the station and local residents matter. Be a thoughtful neighbor, not just a visiting scientist.
 
 ## Health Preparations
 

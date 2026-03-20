@@ -2,9 +2,7 @@
 
 ## Why This Matters
 
-Since I started as a graduate student, the field has moved toward reproducibility and open science. These are welcome changes. They make our science better and more trustworthy, even though they add work. I was fortunate to train with Craig Osenberg, who instilled in me the importance of transparency and rigor in how we handle data and report results. That ethos shapes how this lab operates.
-
-Good data management protects your work, supports reproducibility, and keeps publicly funded data accessible to the scientific community. It also protects you. Years from now, you will be glad you documented what you did.
+I was fortunate to train with Craig Osenberg, who instilled in me the importance of transparency and rigor in how we handle data and report results. Good data management protects your work, supports reproducibility, and keeps publicly funded data accessible to other researchers. It also protects you. Years from now, you will be glad you documented what you did.
 
 ## Data Storage & Backup
 

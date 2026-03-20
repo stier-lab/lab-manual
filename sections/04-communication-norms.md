@@ -1,6 +1,6 @@
 # Communication Norms
 
-Clear communication sounds obvious but is genuinely hard to get right. This is especially true in a lab where people have different schedules, are sometimes in Mo'orea, and are juggling coursework, teaching, and research. Here is how I prefer we handle it.
+Clear communication sounds obvious but is hard to get right. This is especially true in a lab where people have different schedules, are sometimes in Mo'orea, and are juggling coursework, teaching, and research. Here is how I prefer we handle it.
 
 ## The Basics
 
@@ -18,7 +18,7 @@ Clear communication sounds obvious but is genuinely hard to get right. This is e
 
 Oh, and I like salutations. A "Hi Adrian" at the top of an email goes a long way. It is a small thing, but emails that jump straight into a request read as curt to me, even when I know they are not intended that way.
 
-**Text or phone:** Reserve these for genuinely time-sensitive or urgent matters. If it is a real emergency, call rather than text. I mean things like safety issues in the field, a freezer failure, or something that cannot wait until the next business day.
+**Text or phone:** Reserve these for urgent matters. If it is a real emergency, call rather than text. I mean things like safety issues in the field, a freezer failure, or something that cannot wait until the next business day.
 
 **In person** is best for anything that will turn into a long email thread. If you find yourself drafting a third reply in the same chain and it is getting complicated, just come knock on my door or schedule a meeting. I almost always prefer a 15-minute conversation over a week of back-and-forth emails.
 

@@ -2,7 +2,7 @@
 
 ## The Publishing Process
 
-Publishing is how we contribute to the scientific record. It is also how you build a career. This section walks through the process so you know what to expect, especially if you have not published before.
+Publishing is how our work reaches the field. It is also how you build a career. This section walks through the process so you know what to expect, especially if you have not published before.
 
 ### Writing the Paper
 

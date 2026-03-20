@@ -42,7 +42,7 @@ Beyond those cases, go ahead. Meeting people at conferences and starting convers
 
 A few things that go a long way:
 
-- **Do what you said you would do, when you said you would do it.** Reliability is the single most important trait in a collaborator. Your reputation is built on whether people can count on you.
+- **Do what you said you would do, when you said you would do it.** Reliability is the most important trait in a collaborator. Your reputation is built on whether people can count on you.
 - **Communicate when things change.** If you are going to be late on a deliverable, say so early. People can adjust. What they cannot handle is silence followed by a missed deadline.
 - **Be generous with credit.** When in doubt, include someone rather than exclude them. A generous authorship policy builds goodwill and future collaborations.
 - **Respond to emails.** Collaborators who go silent are collaborators who do not get invited back. Even a quick "I saw this, will get to it next week" keeps the relationship healthy.

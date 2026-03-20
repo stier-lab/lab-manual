@@ -4,7 +4,7 @@
 
 We hold lab meetings weekly during the academic year. They typically run about an hour to ninety minutes. During the summer, we pause. Most of the lab is in Mo'orea or otherwise deep in fieldwork, and the rhythm of the quarter does not apply. When we are back on campus in the fall, lab meetings pick up again.
 
-Lab meeting is the one time each week when the whole group is in the same room thinking together. I consider it one of the most important things we do.
+Lab meeting is the one time each week when the whole group is in the same room thinking together.
 
 ## Format
 
@@ -29,13 +29,11 @@ Lab meeting attendance is expected for all graduate students and postdocs. If yo
 
 Undergraduates are welcome and encouraged to attend, even if you are just observing. You will learn a lot about how scientific thinking works by watching people wrestle with ideas in real time.
 
-## On Vulnerability
+## Presenting Unfinished Work
 
-I want to be direct about something. Leading a lab meeting can feel intimidating. You are standing in front of people you respect, presenting work that is not finished, asking for help with something you have not figured out yet. That can trigger real insecurity, especially early in your career.
+Leading a lab meeting can feel intimidating, especially early in your career. You are standing in front of people you respect, presenting work that is not finished. That is the point. The best lab meetings happen when someone is honest about where the gaps are and what is not working. If you only ever present polished work, you are not getting what you need from the group.
 
-That feeling is normal, and it is a sign you are doing it right. The best lab meetings happen when someone is honest about where they are, where the gaps are, what is confusing, and what is not working. If you only ever present polished, finished work, you have missed the point.
-
-Our job as a lab is to make that vulnerability productive. We ask questions to understand, not to perform. We challenge ideas because we want the work to be stronger, not because we want to look smart. And we remember that the "stupid question" someone is afraid to ask is often the one that cracks the problem open.
+In return, we ask questions to understand, not to perform. We challenge ideas to make the work stronger. And we take seriously the questions that feel too basic to ask — those are often the ones that matter most.
 
 ## Departmental Seminars
 

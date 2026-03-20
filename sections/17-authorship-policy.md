@@ -1,14 +1,14 @@
 # Authorship Policy
 
-Authorship is one of the primary currencies of academic science. Getting it right matters for careers, relationships, and the integrity of the scientific record. There is no universal standard, but here is how we approach it in this lab.
+Authorship is one of the primary currencies of academic science. Getting it right matters for careers and relationships. Most labs do not talk about it enough, and the confusion that results can damage relationships.
 
-I want to be candid about this topic because most labs do not talk about it enough. The confusion that results can damage relationships. There is no hard and fast rule for authorship. The norms vary across disciplines, across labs, and even across projects. Your own authorship philosophy will evolve over your career. What follows is where I have landed, but I hold it loosely. I am always willing to talk it through.
+There is no hard and fast rule. The norms vary across disciplines, across labs, and even across projects. Your own authorship philosophy will evolve over your career. Here is where I have landed. I am always willing to talk it through.
 
 ## Who Qualifies as an Author?
 
 Authorship should reflect genuine intellectual contribution to the work. At minimum, an author should have contributed to one or more of the following: conception of the idea, study design, data collection, data analysis/interpretation, or writing the manuscript. Simply providing funding, published data (already credited elsewhere), or minor editorial comments does not typically warrant authorship. Those contributions belong in the Acknowledgements.
 
-The line between "acknowledgement" and "authorship" is genuinely hard. I do not think anyone has a clean formula for it. Lab meetings improve everyone's science, but participating in lab meeting does not make you a co-author on every paper discussed there. Writing suggestions are a judgment call. A few comments on phrasing are different from restructuring an argument. Funding alone does not qualify either, even if I wrote the grant that supported the work. These cases require judgment and conversation, not rules. When in doubt, err toward inclusion early in your career. But do not offer authorship so freely that it devalues the substantive contributions of others.
+The line between "acknowledgement" and "authorship" is hard. I do not think anyone has a clean formula for it. Lab meetings improve everyone's science, but participating in lab meeting does not make you a co-author on every paper discussed there. Writing suggestions are a judgment call. A few comments on phrasing are different from restructuring an argument. Funding alone does not qualify either, even if I wrote the grant that supported the work. These cases require judgment and conversation, not rules. When in doubt, err toward inclusion early in your career. But do not offer authorship so freely that it devalues the substantive contributions of others.
 
 One practical suggestion: keep a running list of who contributed what as a project develops. It is much easier to have an authorship conversation when you can point to a concrete record of contributions. Relying on memory after the paper is written is much harder.
 

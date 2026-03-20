@@ -1,6 +1,6 @@
 # Graduate Student Funding
 
-Funding is one of the most important (and sometimes most stressful) parts of graduate school. My goal is that you never worry about whether you can afford to stay in the program. This section explains how funding works so you can plan ahead and take advantage of the opportunities available.
+Funding is one of the most important parts of graduate school and one of the most stressful. I work to make sure every student is funded for the duration of their program. This section explains how funding works so you can plan ahead.
 
 ## Stipend & Support
 

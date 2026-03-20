@@ -1,6 +1,6 @@
 # Conflict Resolution
 
-I expect conflicts to arise. That is not a warning. It is just realistic. Put a group of smart, passionate people in close quarters with high-stakes work and real deadlines. Disagreements will happen. Some will involve me, and some will be between other people in the lab. What matters is not whether conflicts occur but how we handle them.
+I expect conflicts to arise. Put a group of people in close quarters with high-stakes work and real deadlines, and disagreements will happen. Some will involve me, and some will be between other people in the lab. What matters is not whether conflicts occur but how we handle them.
 
 ## Start Direct
 
@@ -12,7 +12,7 @@ If a direct conversation does not resolve things, or if you have tried and it is
 
 - **Bring it to me.** I am happy to listen, mediate, or help figure out a path forward. I would much rather hear about a problem early than discover it has been festering for months.
 
-- **If the problem involves me** (and it can, because I am not perfect), please go to Mengshu Ye (Graduate Advisor) or the Department Chair. I mean this sincerely. I would rather you raise it with someone who can help than sit with it silently.
+- **If the problem involves me** (and it can, because I am not perfect), please go to Mengshu Ye (Graduate Advisor) or the Department Chair. I would rather you raise it with someone who can help than sit with it silently.
 
 - **For persistent or serious issues,** UCSB's Ombuds Office provides confidential, neutral mediation services. They exist for situations where normal channels feel insufficient.
 

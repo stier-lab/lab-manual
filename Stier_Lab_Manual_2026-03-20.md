@@ -7,7 +7,7 @@ University of California, Santa Barbara
 
 ---
 
-Welcome to the Ocean Recoveries Lab! You are now part of a community working to understand how marine ecosystems collapse and recover, and how we can build resilience in a changing world. This applies whether you are a graduate student, postdoc, technician, or undergraduate researcher.
+Welcome to the Ocean Recoveries Lab. Whether you are a graduate student, postdoc, technician, or undergraduate researcher, you are now part of a group working to understand how marine ecosystems collapse and recover.
 
 Our research spans coral reefs in Mo'orea (French Polynesia), kelp forests along the Santa Barbara coast, and Caribbean reef systems. We combine field experiments, evidence synthesis, and predictive modeling to study the mechanisms of ecosystem resistance, recovery, and reorganization. The lab is part of two NSF Long-Term Ecological Research programs: the Moorea Coral Reef LTER and the Santa Barbara Coastal LTER. These programs provide long-term datasets, infrastructure, and collaborative networks that enrich our work. You can learn more about current projects and the broader research program at [oceanrecoveries.com](https://www.oceanrecoveries.com/).
 
@@ -22,25 +22,21 @@ This is a living document. If something is unclear, outdated, or missing, please
 
 # Lab Values & Culture
 
-## Core Values
+Understanding collapse. Designing recovery. A guide to the expectations, values, and logistics that shape how we work together at UCSB.
 
-I want to be upfront about what matters to me in how we do science and treat each other. These are not aspirational slogans on a poster. They are the things I come back to when making decisions about the lab, and the things I hope you will hold me to as well.
+**Be curious.** I got into this work because I find the natural world fascinating, and I hope you did too. I want this lab to be a place where you can explore, sit with uncertainty, and ask the questions that feel too basic to say out loud — those are often the most important ones.
 
-- **Curiosity.** I got into this work because I find the natural world genuinely fascinating, and I hope you did too. Curiosity is the engine of good science. I want this lab to be a place where you can explore, sit with uncertainty, and ask the "stupid questions" that often turn out to be the most important ones.
+**Give honest feedback.** I expect us to be direct with each other about ideas, writing, analyses, and presentations. I try to offer criticism with the intent to improve, and I ask that you receive it with openness rather than defensiveness. That goes both ways. I need your honest reactions to my ideas too.
 
-- **Collaboration.** Our best work happens when we combine diverse perspectives, skills, and experiences. I value working together, helping each other, and sharing credit generously.
+**Speak up.** If you disagree, say so. If something feels wrong, say so. If you need help, say so. Challenge ideas respectfully, regardless of who holds them, including me.
 
-- **Constructive Criticism.** I expect us to give each other honest feedback on ideas, writing, analyses, and presentations. I try to offer criticism with the intent to improve. I ask that you receive it with openness rather than defensiveness. That goes both ways. I need your honest reactions to my ideas too.
+**Think clearly.** Good science depends on clear thinking, and clear thinking depends on clear communication — in our writing, our talks, our experimental designs, and our conversations with each other.
 
-- **Courage.** I want people in this lab to speak up when they disagree, when something feels wrong, or when they need help. Challenge ideas respectfully, regardless of who holds them, including me.
+**Work together.** Our best work happens when we combine perspectives, skills, and experiences that none of us have alone. Help each other. Share credit generously. The lab is stronger than any one person in it.
 
-- **Clarity.** We strive to think clearly and communicate well in our writing, our talks, our experimental designs, and our conversations with each other.
+**Care about each other.** Graduate school is hard. We hold each other accountable while remaining sensitive to the fact that people have lives and pressures outside the lab.
 
-- **Compassion.** I care about you as a whole person, not just as a research producer. We hold each other accountable while remaining sensitive to the pressures and challenges of graduate life.
-
-- **Community.** I value every voice in the lab. We build and sustain our community through shared meals, social time, mutual support, and a culture where everyone feels they belong.
-
-- **Integrity.** We conduct our research honestly, treat our data with respect, and hold ourselves to the highest standards of scientific and professional ethics. There are no shortcuts here.
+**Do honest work.** We treat our data with respect, report our results accurately, and hold ourselves to high standards of scientific and professional ethics. There are no shortcuts here.
 
 ## Day-to-Day Lab Life
 
@@ -106,7 +102,7 @@ These offices will not report to the university without your permission (with na
 
 ## Health and Well-Being
 
-Graduate school is demanding. Taking care of your mental, emotional, and physical health is not optional. It is the foundation for doing good work and being a good colleague.
+Graduate school is demanding. Take care of your health — mental, emotional, and physical.
 
 **Work/life balance:** There is no expectation that you work evenings and weekends as a default. Some periods (field seasons, manuscript deadlines) will be more intense than others, and that is normal. But chronic overwork is not a badge of honor. It is a risk factor for burnout, poor science, and poor health. Know your limits and take care of yourself.
 
@@ -133,7 +129,7 @@ Do not put yourself or others at risk. If you feel pressured to do something uns
 
 # Communication Norms
 
-Clear communication sounds obvious but is genuinely hard to get right. This is especially true in a lab where people have different schedules, are sometimes in Mo'orea, and are juggling coursework, teaching, and research. Here is how I prefer we handle it.
+Clear communication sounds obvious but is hard to get right. This is especially true in a lab where people have different schedules, are sometimes in Mo'orea, and are juggling coursework, teaching, and research. Here is how I prefer we handle it.
 
 ## The Basics
 
@@ -151,7 +147,7 @@ Clear communication sounds obvious but is genuinely hard to get right. This is e
 
 Oh, and I like salutations. A "Hi Adrian" at the top of an email goes a long way. It is a small thing, but emails that jump straight into a request read as curt to me, even when I know they are not intended that way.
 
-**Text or phone:** Reserve these for genuinely time-sensitive or urgent matters. If it is a real emergency, call rather than text. I mean things like safety issues in the field, a freezer failure, or something that cannot wait until the next business day.
+**Text or phone:** Reserve these for urgent matters. If it is a real emergency, call rather than text. I mean things like safety issues in the field, a freezer failure, or something that cannot wait until the next business day.
 
 **In person** is best for anything that will turn into a long email thread. If you find yourself drafting a third reply in the same chain and it is getting complicated, just come knock on my door or schedule a meeting. I almost always prefer a 15-minute conversation over a week of back-and-forth emails.
 
@@ -179,7 +175,7 @@ This also applies to sick days: if you are unwell, stay home and let the relevan
 
 # Conflict Resolution
 
-I expect conflicts to arise. That is not a warning. It is just realistic. Put a group of smart, passionate people in close quarters with high-stakes work and real deadlines. Disagreements will happen. Some will involve me, and some will be between other people in the lab. What matters is not whether conflicts occur but how we handle them.
+I expect conflicts to arise. Put a group of people in close quarters with high-stakes work and real deadlines, and disagreements will happen. Some will involve me, and some will be between other people in the lab. What matters is not whether conflicts occur but how we handle them.
 
 ## Start Direct
 
@@ -191,7 +187,7 @@ If a direct conversation does not resolve things, or if you have tried and it is
 
 - **Bring it to me.** I am happy to listen, mediate, or help figure out a path forward. I would much rather hear about a problem early than discover it has been festering for months.
 
-- **If the problem involves me** (and it can, because I am not perfect), please go to Mengshu Ye (Graduate Advisor) or the Department Chair. I mean this sincerely. I would rather you raise it with someone who can help than sit with it silently.
+- **If the problem involves me** (and it can, because I am not perfect), please go to Mengshu Ye (Graduate Advisor) or the Department Chair. I would rather you raise it with someone who can help than sit with it silently.
 
 - **For persistent or serious issues,** UCSB's Ombuds Office provides confidential, neutral mediation services. They exist for situations where normal channels feel insufficient.
 
@@ -785,7 +781,7 @@ Undergraduates are a welcome and important part of our lab community. Most will 
 
 ## Expectations for Mentors
 
-- Do not treat undergraduates as free labor. Their experience should be genuinely educational.
+- Do not treat undergraduates as free labor. Their experience should be educational.
 - Make sure they understand the purpose of their work, not just the mechanics.
 - Provide regular feedback and check-ins. Meet with your undergraduate mentee at least once per week.
 - Help them develop skills over time. Do not assign the same repetitive task indefinitely.
@@ -826,7 +822,7 @@ Most undergraduates join as volunteers, for course credit, or with stipend suppo
 
 ## If Something Is Not Working
 
-If the mentor-mentee relationship is not working — communication has broken down, expectations are unclear, or the experience is not what you hoped — talk to me. This is not a failure on anyone's part. Sometimes a better match or a different project structure makes all the difference. The goal is for every undergraduate to leave the lab having learned something meaningful.
+If the mentor-mentee relationship is not working — communication has broken down, expectations are unclear, or the experience is not what you hoped — talk to me. This is not a failure on anyone's part. Sometimes a better match or a different project structure makes all the difference. Sometimes a better match or a different project structure makes all the difference.
 
 Undergraduate researchers must complete the same basic safety trainings as other lab members. See the Required Trainings section for details.
 
@@ -837,7 +833,7 @@ If you are leaving the lab with a project in progress, the Completing Projects A
 
 # Graduate Student Funding
 
-Funding is one of the most important (and sometimes most stressful) parts of graduate school. My goal is that you never worry about whether you can afford to stay in the program. This section explains how funding works so you can plan ahead and take advantage of the opportunities available.
+Funding is one of the most important parts of graduate school and one of the most stressful. I work to make sure every student is funded for the duration of their program. This section explains how funding works so you can plan ahead.
 
 ## Stipend & Support
 
@@ -954,7 +950,7 @@ Note: This section supplements the official EEMB Graduate Student Handbooks (PhD
 
 **Developing your research question:** There is no single right way to find a research question. Some people arrive with a burning question they have been thinking about for years. Others start with a system they are drawn to (a reef, a species interaction, a place) and the question emerges from spending time in that system. In practice, most of us do a messy mix of both. We explore a system, read the literature, notice gaps or puzzles, and go back and forth between questions and observations until something clicks.
 
-I encourage you to read broadly, including well outside your immediate subfield. Go to seminars in departments you would not normally visit. Talk to people in other labs about their work. You will not switch fields, but the most interesting questions often live at the boundaries between disciplines. The first research question you land on will almost certainly evolve, and that is normal and healthy. A question that does not change as you learn more probably means you are not learning enough.
+I encourage you to read broadly, including well outside your immediate subfield. Go to seminars in departments you would not normally visit. Talk to people in other labs about their work. You will not switch fields, but the most interesting questions often live at the boundaries between disciplines. The first research question you land on will almost certainly evolve, and that is normal and healthy.
 
 My role in this process differs depending on where you are. For PhD students, developing an original research question is a core part of the training. I will push back, suggest readings, point you toward gaps I find exciting, and help you refine your thinking. But the question needs to be yours. For MS students, given the compressed timeline, I will be more hands-on in helping define the scope and I will sometimes suggest a question directly. Either way, we will talk about this a lot in our one-on-one meetings, especially in your first year.
 
@@ -1092,11 +1088,11 @@ At some point you will need letters from me — for fellowships, jobs, graduate 
 - **Leadership.** Leading a field team, organizing a lab initiative, mentoring an undergraduate through a project, coordinating across collaborators. I want to be able to describe moments where you stepped up and took responsibility for something beyond your own work.
 - **Independence and initiative.** Did you identify a problem and solve it without being told to? Did you bring me an idea rather than waiting for one? Did you teach yourself a new method because your question demanded it? These are the stories that make letters memorable.
 - **Intellectual growth.** I pay attention to how your thinking changes over time — how your questions get sharper, your scientific judgment matures, and your ability to evaluate evidence deepens. Showing that trajectory matters more than where you started.
-- **Reliability.** When you say you will do something, you do it. You meet deadlines, show up prepared, follow through on commitments. This sounds basic, but it is remarkably rare, and reviewers trust letters that speak to it.
+- **Reliability.** When you say you will do something, you do it. You meet deadlines, show up prepared, follow through on commitments. This sounds basic, but it is rare, and reviewers trust letters that speak to it.
 - **Scientific rigor and integrity.** Careful work, honest reporting, thoughtful analysis. I notice when someone catches their own mistakes, pushes back on a result that seems too clean, or redesigns an experiment because the first version was not good enough.
 - **Being a good colleague.** Generosity with your time, willingness to help labmates, constructive presence in lab meetings, and the kind of collaborative spirit that makes everyone around you better. Search committees care about this more than most applicants realize.
 
-You do not need all of these to get a strong letter. But the more of them you can demonstrate over the course of your time here, the more specific and compelling the letter will be. Think of this list not as a checklist but as a reminder that a letter of recommendation is a story about who you are as a scientist — and you are writing that story every day through your work.
+You do not need all of these. But the more of them you can demonstrate over the course of your time here, the more specific and compelling the letter will be.
 
 **My commitment.** If I agree to write you a letter, I will write a strong one. I do not write lukewarm letters. If I have concerns about writing a compelling letter for a particular opportunity, I will tell you directly so you can make an informed decision about who to ask.
 
@@ -1147,15 +1143,15 @@ If your career goals change during the postdoc — toward industry, government, 
 
 # Authorship Policy
 
-Authorship is one of the primary currencies of academic science. Getting it right matters for careers, relationships, and the integrity of the scientific record. There is no universal standard, but here is how we approach it in this lab.
+Authorship is one of the primary currencies of academic science. Getting it right matters for careers and relationships. Most labs do not talk about it enough, and the confusion that results can damage relationships.
 
-I want to be candid about this topic because most labs do not talk about it enough. The confusion that results can damage relationships. There is no hard and fast rule for authorship. The norms vary across disciplines, across labs, and even across projects. Your own authorship philosophy will evolve over your career. What follows is where I have landed, but I hold it loosely. I am always willing to talk it through.
+There is no hard and fast rule. The norms vary across disciplines, across labs, and even across projects. Your own authorship philosophy will evolve over your career. Here is where I have landed. I am always willing to talk it through.
 
 ## Who Qualifies as an Author?
 
 Authorship should reflect genuine intellectual contribution to the work. At minimum, an author should have contributed to one or more of the following: conception of the idea, study design, data collection, data analysis/interpretation, or writing the manuscript. Simply providing funding, published data (already credited elsewhere), or minor editorial comments does not typically warrant authorship. Those contributions belong in the Acknowledgements.
 
-The line between "acknowledgement" and "authorship" is genuinely hard. I do not think anyone has a clean formula for it. Lab meetings improve everyone's science, but participating in lab meeting does not make you a co-author on every paper discussed there. Writing suggestions are a judgment call. A few comments on phrasing are different from restructuring an argument. Funding alone does not qualify either, even if I wrote the grant that supported the work. These cases require judgment and conversation, not rules. When in doubt, err toward inclusion early in your career. But do not offer authorship so freely that it devalues the substantive contributions of others.
+The line between "acknowledgement" and "authorship" is hard. I do not think anyone has a clean formula for it. Lab meetings improve everyone's science, but participating in lab meeting does not make you a co-author on every paper discussed there. Writing suggestions are a judgment call. A few comments on phrasing are different from restructuring an argument. Funding alone does not qualify either, even if I wrote the grant that supported the work. These cases require judgment and conversation, not rules. When in doubt, err toward inclusion early in your career. But do not offer authorship so freely that it devalues the substantive contributions of others.
 
 One practical suggestion: keep a running list of who contributed what as a project develops. It is much easier to have an authorship conversation when you can point to a concrete record of contributions. Relying on memory after the paper is written is much harder.
 
@@ -1200,9 +1196,7 @@ If you leave the lab with unfinished projects, a separate set of expectations go
 
 ## Why This Matters
 
-Since I started as a graduate student, the field has moved toward reproducibility and open science. These are welcome changes. They make our science better and more trustworthy, even though they add work. I was fortunate to train with Craig Osenberg, who instilled in me the importance of transparency and rigor in how we handle data and report results. That ethos shapes how this lab operates.
-
-Good data management protects your work, supports reproducibility, and keeps publicly funded data accessible to the scientific community. It also protects you. Years from now, you will be glad you documented what you did.
+I was fortunate to train with Craig Osenberg, who instilled in me the importance of transparency and rigor in how we handle data and report results. Good data management protects your work, supports reproducibility, and keeps publicly funded data accessible to other researchers. It also protects you. Years from now, you will be glad you documented what you did.
 
 ## Data Storage & Backup
 
@@ -1289,7 +1283,7 @@ For the lab's AI use policy, see the separate AI Use Policy section.
 
 ## The Publishing Process
 
-Publishing is how we contribute to the scientific record. It is also how you build a career. This section walks through the process so you know what to expect, especially if you have not published before.
+Publishing is how our work reaches the field. It is also how you build a career. This section walks through the process so you know what to expect, especially if you have not published before.
 
 ### Writing the Paper
 
@@ -1400,7 +1394,7 @@ Beyond those cases, go ahead. Meeting people at conferences and starting convers
 
 A few things that go a long way:
 
-- **Do what you said you would do, when you said you would do it.** Reliability is the single most important trait in a collaborator. Your reputation is built on whether people can count on you.
+- **Do what you said you would do, when you said you would do it.** Reliability is the most important trait in a collaborator. Your reputation is built on whether people can count on you.
 - **Communicate when things change.** If you are going to be late on a deliverable, say so early. People can adjust. What they cannot handle is silence followed by a missed deadline.
 - **Be generous with credit.** When in doubt, include someone rather than exclude them. A generous authorship policy builds goodwill and future collaborations.
 - **Respond to emails.** Collaborators who go silent are collaborators who do not get invited back. Even a quick "I saw this, will get to it next week" keeps the relationship healthy.
@@ -1410,9 +1404,9 @@ A few things that go a long way:
 
 # Gender Equity and Lab Climate
 
-## Our Commitment
+## Why This Matters
 
-Science benefits from diverse perspectives, and a healthy lab climate is everyone's responsibility. The Stier Lab is committed to creating an environment where all members can do their best work and feel valued. This applies regardless of gender, race, ethnicity, sexual orientation, disability, socioeconomic background, or career stage.
+A lab where some people feel overlooked or overburdened does worse science. I take equity and lab climate seriously because the alternative — assuming things are fine without checking — is how imbalances persist. Here is what we actually do about it.
 
 ## What We Do
 
@@ -1757,7 +1751,7 @@ All lab members review and acknowledge this section when joining the lab and aga
 
 Graduate school is hard. Not in the vague, "everyone says it's tough" sense, but in ways that are well-documented and measurable. Studies consistently find that around 40% of graduate students experience clinically significant anxiety or depression — roughly six times the rate in the general population. Imposter syndrome is pervasive. Burnout is common. These are not signs of personal weakness. They are structural features of the graduate school experience that need to be actively managed.
 
-I include this section not as a formality but because I believe that taking care of yourself is a prerequisite for doing good science. You cannot think clearly, write well, or be a good collaborator if you are running on empty. Seeking help is not a sign that something is wrong with you. It is a sign that you are taking your work and your well-being seriously.
+I include this section because these problems are common enough that ignoring them would be negligent. If you are struggling, the resources below exist and they work. Use them.
 
 ## Recognizing Burnout
 
@@ -1771,7 +1765,7 @@ Other warning signs include persistent procrastination, withdrawing from lab act
 
 ## What I Commit To
 
-- I care about you as a whole person, not just your research output. If you are struggling, I want to know — not to judge, but to help.
+- If you are struggling, I want to know — not to judge, but to help.
 - I will not hold it against you if you need time away for your mental health. Treat it the same as physical illness: let me know, take the time you need, and we will figure out the rest.
 - I try to model healthy boundaries. When I send an email or Slack message outside business hours, I do not expect a response until the next business day.
 - If you come to me with a concern, I will listen and connect you with appropriate resources. I am not a therapist, and I will not pretend to be one. But I will take your concerns seriously and do what I can.
@@ -1963,19 +1957,11 @@ Before you leave, schedule a final meeting with me to discuss:
 
 This conversation is valuable in both directions. Honest feedback from departing lab members has shaped many of the policies in this manual.
 
-## Update Your Contact Information
-
-Keep your contact information current so I can reach you for reference letters, questions about your data, and collaboration opportunities. Update your mailing address, personal email, and phone number before you go.
-
 ## Staying Connected
 
-Leaving the lab does not mean leaving the community. Former lab members are always welcome at lab meetings, lab events, and Mo'orea field seasons if logistics allow. The door stays open.
+Former lab members are always welcome at lab meetings, lab events, and Mo'orea field seasons if logistics allow. Many continue to collaborate, co-author papers, and support current students long after they move on.
 
-I genuinely want to stay in touch, not just for references and collaborations, but because the relationships formed in this lab matter to me beyond the work itself. I have been lucky to watch people grow into incredible scientists. I care about where those paths lead.
-
-Many former lab members continue to collaborate, co-author papers, and support current students long after they move on. By leaving the Stier Lab, you are not ending a chapter. You are joining a broader network that extends well beyond your time at UCSB. Some of the best ideas and partnerships I have been part of came from staying connected with former students and postdocs.
-
-On the practical side: keep your contact info updated so I can reach you (and so I can send a reference letter to the right address). Stay on the lab Slack if you want. There is no expiration date on membership. And don't be a stranger. Send an email, share a paper, tell me about the cool thing you are working on. I want to hear about it.
+Before you go, update your mailing address, personal email, and phone number so I can reach you for reference letters and questions about your data. Stay on the lab Slack if you want. There is no expiration date.
 
 
 ---
@@ -2030,7 +2016,7 @@ If you have comments, questions, or items that belong in this document or any ot
 
 ## Overview
 
-Much of the Stier Lab's research takes place on the island of Mo'orea in French Polynesia. Field seasons are a defining part of the graduate experience in this lab. This is where your ideas meet the reef, and where some of the most formative learning happens. Field seasons are also logistically complex, physically demanding, and culturally rich. This section covers what you need to know.
+Much of the lab's research takes place on the island of Mo'orea in French Polynesia. Field seasons are a defining part of the graduate experience in this lab. They are also logistically complex, physically demanding, and culturally rich. This section covers what you need to know.
 
 ## The Gump Station
 
@@ -2141,7 +2127,7 @@ Mo'orea is not just a field site. It is home to a Polynesian community with a de
 
 - **Learn some French and Tahitian.** French is the administrative language and what you will use in stores, restaurants, and with many community members. Even basic Tahitian greetings and phrases go a long way toward building goodwill and showing respect. Make the effort.
 - **Be respectful of local customs, spaces, and relationships.** You are representing UCSB, the Gump Station, and this lab. How you conduct yourself affects the community's willingness to host future researchers.
-- **Engage genuinely.** The relationships between the station and the local community matter enormously. Be a thoughtful neighbor, not just a visiting scientist.
+- **Engage with the community.** The relationships between the station and local residents matter. Be a thoughtful neighbor, not just a visiting scientist.
 
 ## Health Preparations
 
@@ -2264,7 +2250,7 @@ The typical field season falls during the austral dry season. Air temperatures a
 
 We hold lab meetings weekly during the academic year. They typically run about an hour to ninety minutes. During the summer, we pause. Most of the lab is in Mo'orea or otherwise deep in fieldwork, and the rhythm of the quarter does not apply. When we are back on campus in the fall, lab meetings pick up again.
 
-Lab meeting is the one time each week when the whole group is in the same room thinking together. I consider it one of the most important things we do.
+Lab meeting is the one time each week when the whole group is in the same room thinking together.
 
 ## Format
 
@@ -2289,13 +2275,11 @@ Lab meeting attendance is expected for all graduate students and postdocs. If yo
 
 Undergraduates are welcome and encouraged to attend, even if you are just observing. You will learn a lot about how scientific thinking works by watching people wrestle with ideas in real time.
 
-## On Vulnerability
+## Presenting Unfinished Work
 
-I want to be direct about something. Leading a lab meeting can feel intimidating. You are standing in front of people you respect, presenting work that is not finished, asking for help with something you have not figured out yet. That can trigger real insecurity, especially early in your career.
+Leading a lab meeting can feel intimidating, especially early in your career. You are standing in front of people you respect, presenting work that is not finished. That is the point. The best lab meetings happen when someone is honest about where the gaps are and what is not working. If you only ever present polished work, you are not getting what you need from the group.
 
-That feeling is normal, and it is a sign you are doing it right. The best lab meetings happen when someone is honest about where they are, where the gaps are, what is confusing, and what is not working. If you only ever present polished, finished work, you have missed the point.
-
-Our job as a lab is to make that vulnerability productive. We ask questions to understand, not to perform. We challenge ideas because we want the work to be stronger, not because we want to look smart. And we remember that the "stupid question" someone is afraid to ask is often the one that cracks the problem open.
+In return, we ask questions to understand, not to perform. We challenge ideas to make the work stronger. And we take seriously the questions that feel too basic to ask — those are often the ones that matter most.
 
 ## Departmental Seminars
 
@@ -2314,7 +2298,7 @@ That said, communicating well to non-specialist audiences is a skill, and like a
 
 ## Representing the Lab
 
-When you give a public talk, post on social media about your research, talk to a journalist, or write for a general audience, you are representing yourself, the lab, UCSB, and the scientific community. This is not meant to make you anxious. It is meant to make you thoughtful.
+When you give a public talk, post on social media about your research, talk to a journalist, or write for a general audience, you are representing yourself, the lab, and UCSB.
 
 A few principles:
 

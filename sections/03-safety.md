@@ -24,7 +24,7 @@ These offices will not report to the university without your permission (with na
 
 ## Health and Well-Being
 
-Graduate school is demanding. Taking care of your mental, emotional, and physical health is not optional. It is the foundation for doing good work and being a good colleague.
+Graduate school is demanding. Take care of your health — mental, emotional, and physical.
 
 **Work/life balance:** There is no expectation that you work evenings and weekends as a default. Some periods (field seasons, manuscript deadlines) will be more intense than others, and that is normal. But chronic overwork is not a badge of honor. It is a risk factor for burnout, poor science, and poor health. Know your limits and take care of yourself.
 
