@@ -1174,7 +1174,7 @@ Each `data/` directory must include a `README.md` explaining variables, units, c
 
 ### Column Naming Conventions
 
-Use `snake_case` for all column headers: lowercase, words separated by underscores, no spaces or special characters. Keep names short but unambiguous. Include units in the column name or document them in the README — do not embed units in data cells.
+Use `fish_case` for all column headers: lowercase, words separated by underscores, no spaces or special characters. (Yes, other labs call this snake_case. We are a marine lab.) Keep names short but unambiguous. Include units in the column name or document them in the README — do not embed units in data cells.
 
 **Good:**
 ```
