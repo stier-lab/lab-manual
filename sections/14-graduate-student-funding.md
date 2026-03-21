@@ -48,6 +48,8 @@ Part of becoming an independent scientist is learning to fund your own research.
 
 Grant writing is a skill you will use for the rest of your scientific career. Starting early — even with small proposals — builds the muscle. Each proposal you write forces you to clarify your thinking, articulate significance, and plan a realistic budget and timeline. Funded grants also look good on your CV, demonstrate independence to future employers, and free up lab resources for other students.
 
+Be strategic about which opportunities you pursue. Do not carpet-bomb every open solicitation. Target fellowships and grants where your work is a genuine fit for the funder's mission, where you meet the eligibility criteria cleanly, and where the investment of time is proportional to the potential payoff. A well-crafted proposal to the right program is worth more than five rushed applications to programs that do not match. We will discuss which opportunities make sense for you during IDP reviews and advising meetings.
+
 ### Where to Apply
 
 Start small and build up. Opportunities include:

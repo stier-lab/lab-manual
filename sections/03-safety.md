@@ -1,8 +1,14 @@
 # Safety
 
-## Harassment and Bullying
+## Code of Conduct
 
-Harassment is behavior that makes others uncomfortable, especially when based on gender, race, religion, sexual orientation, disability, or other protected characteristics. It is prohibited by federal law, UC policy, and the standards of this lab. This includes subtle forms: dismissive comments, unwanted physical contact, patterns of exclusion, or using power dynamics to intimidate.
+The Stier Lab is committed to providing a professional environment free from harassment, discrimination, and intimidation. Everyone in the lab — faculty, postdocs, graduate students, undergraduates, technicians, and visitors — is expected to treat others with respect and dignity.
+
+We do not tolerate harassment or discrimination on the basis of race, ethnicity, national origin, citizenship, religion, sex, gender identity or expression, sexual orientation, disability, age, familial or parental status, veteran status, socioeconomic background, physical appearance, or any other protected characteristic.
+
+Harassment includes but is not limited to: intimidation, stalking, sustained disruption of meetings or work, unwelcome sexual attention, unwanted physical contact, patterns of exclusion, dismissive or demeaning comments, and using power differentials to coerce or silence. It applies to behavior in the lab, in the field, at conferences, on social media, and in any context where lab members interact.
+
+## Reporting Harassment or Bullying
 
 If you experience or witness harassment or bullying:
 

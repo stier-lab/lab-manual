@@ -16,11 +16,13 @@ Understanding collapse. Designing recovery. A guide to the expectations, values,
 
 **Do honest work.** We treat our data with respect, report our results accurately, and hold ourselves to high standards of scientific and professional ethics. There are no shortcuts here.
 
+**Treat people well.** This lab has zero tolerance for harassment, discrimination, or intimidation of any kind. That expectation applies to everyone, in every context — the lab, the field, conferences, and online. See the Code of Conduct in the Safety section for specifics and reporting channels.
+
 ## Day-to-Day Lab Life
 
 ### Be Around
 
-Some of the best scientific insights I have had (and that I have seen students have) came from unplanned conversations. Someone mentions a weird pattern in their data over coffee. Twenty minutes later you have redesigned an experiment. That only happens if people are physically present. I do not expect rigid 9-to-5 hours, and working from home sometimes is completely fine. But I encourage you to make the lab and office your default workspace. The spontaneous interactions matter more than you think.
+Some of the best scientific insights I have had (and that I have seen students have) came from unplanned conversations. Someone mentions a weird pattern in their data over coffee. Twenty minutes later you have redesigned an experiment. That only happens if people are physically present. I do not expect rigid 9-to-5 hours, and working from home sometimes is completely fine — especially during writing-intensive periods. But I genuinely prefer that you make the lab and office your default workspace most days. The spontaneous interactions matter more than you think, and being around is how you learn from labmates, get unstuck faster, and build the relationships that make a lab work. If your schedule or circumstances make regular in-person time difficult, talk to me and we will figure out what works.
 
 ### Shared Spaces
 

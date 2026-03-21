@@ -38,7 +38,17 @@ The Graduate Division's [mentoring resources page](https://www.graddiv.ucsb.edu/
 
 ## What I Commit To
 
-- Timely feedback on written work within agreed-upon timelines.
+- **Feedback turnaround.** The timeline depends on the task:
+
+  | What you send me | My turnaround |
+  |------------------|---------------|
+  | Conference abstract, short form, recommendation letter request | 1 week |
+  | Grant or fellowship draft, proposal review | 2 weeks |
+  | Manuscript draft or chapter | 3 weeks |
+  | Multi-round revision (grants, job materials) | Give me as much lead time as you can; at minimum 3 weeks before the deadline |
+
+  If I am going to miss a deadline, I will tell you in advance so you can plan. If I take longer than promised, your next milestone deadline extends day-for-day (same rule as in the Completing Projects After Departure section).
+
 - Quarterly milestone tracking aligned with your IDP.
 - Meeting summaries with agreed-upon goals and next steps after advising meetings.
 
