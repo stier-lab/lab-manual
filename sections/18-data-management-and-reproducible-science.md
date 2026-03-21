@@ -123,6 +123,43 @@ Brief description of what this dataset contains and why it was collected.
 
 Adapt this template to your project. The goal is that a labmate — or future you — can understand the data without asking anyone.
 
+## Organizing a Multi-Project Research Program
+
+Most graduate students and postdocs end up with multiple related projects under one research theme. When a single Drive folder grows from 3 experiments to 15, it needs structure beyond the single-project template above. Here is how we handle it.
+
+**Number your projects chronologically.** Give each experiment or study a sequential number and a descriptive name with the year it started:
+
+```
+Projects/
+├── 01_wound_intensity_growth_2022/
+├── 02_wound_type_airbrush_dremel_2022/
+├── 03_island_size_healing_rate_2022/
+├── 04_wound_respiration_2023/
+├── 05_gene_expression_near_far_2023/
+└── ...
+```
+
+Each project folder follows the standard template (data/, code/, notes/, figures/). The numbering gives you and your collaborators an instant sense of chronology and scale.
+
+**Create a Drive Map.** When your research folder has more than about 5 projects, write a top-level `README` or Drive Map document explaining the structure: what each project is, how they relate to each other, and where to find key resources. This is the single most useful thing you can do for a new collaborator (or for yourself after a summer away). Keep it updated.
+
+**Separate methods from projects.** Protocols that are used across multiple projects belong in a shared `Methods/` folder at the top level, not buried inside individual project folders. One subfolder per protocol:
+
+```
+Methods/
+├── buoyant_weight/
+├── chlorophyll_assay/
+├── histology/
+├── PAM_fluorometry/
+└── wounding_protocol/
+```
+
+This prevents the same protocol from drifting into five slightly different versions across five project folders.
+
+**Letter your manuscripts.** When you have multiple papers in preparation, letter them (A, B, C, D) in priority order. Each manuscript folder should contain the working draft, figures, analysis code, and previous versions in an `old/` subfolder.
+
+**Track project status.** For large research programs, maintain a simple tracking sheet (Google Sheet or similar) with one row per project: current status, lead person, next milestone, and target date. Review it quarterly during IDP meetings.
+
 ## Lab and Field Notebooks
 
 Document your methods as you go, not after the fact. You will forget details faster than you think. By the time you sit down to write a paper, the specifics of how you set up an experiment, calibrated an instrument, or processed a sample will be fuzzy at best.
