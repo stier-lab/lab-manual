@@ -82,6 +82,16 @@ If you would prefer not to appear in lab photos or on the lab website, let me or
 
 You will play multiple roles in this lab: student, teacher, mentor to undergrads, peer. Be aware of how your behavior carries different weight in different contexts, especially when there is a power differential. The way you give feedback to an undergraduate mentee is not the same as how you push back on a fellow grad student's interpretation. Both differ from how you raise a concern with me.
 
+## Lab Citizenship
+
+Labs run on invisible work: mentoring undergraduates, maintaining shared equipment, organizing lab meetings, updating protocols, restocking supplies, training new members. This work is real, it takes time, and it matters.
+
+**Recognition.** I track lab citizenship contributions and acknowledge them in recommendation letters, annual reviews, and IDP conversations. If you are mentoring an undergraduate through a thesis, that is a professional development activity — not uncompensated labor.
+
+**Limits.** If service commitments are consuming more than roughly 5 hours per week and affecting your research progress, flag it. We will redistribute the load or reduce your share. No one should sacrifice their own research trajectory to keep the lab running.
+
+**Equity.** Service tasks tend to fall unevenly — often on women and underrepresented lab members. I monitor this through the annual task audit (see the Gender Equity and Lab Climate section) and will intervene if patterns emerge.
+
 
 ---
 
@@ -219,153 +229,38 @@ If a direct conversation does not resolve things, or if you have tried and it is
 
 # Valuable Contacts
 
-## Administrative Staff
+Detailed contact information for administrative staff, SCUBA operations, mechanical support, travel finance, and campus resources is maintained in a shared Google Sheet that Molly Brzezinski (lab manager) keeps current. Ask Molly for the link when you join the lab.
 
-### Haley Martin, Director of Finance
+The contacts below are stable institutional resources unlikely to change frequently.
 
-Contact Haley for payroll, Gateway purchasing, and grant-related financial questions.
+## Emergency and Safety
 
-- Phone: (805) 893-2427
-- Email: haleymartin@ucsb.edu
-- Office: 4308 Life Sciences Building (LSB)
+- **UCSB Police:** 911 (on-campus) or (805) 893-3446 (non-emergency)
+- **Counseling & Psychological Services (CAPS):** (805) 893-4411
+- **UCSB Office of the Ombuds:** [ombuds.ucsb.edu](https://ombuds.ucsb.edu/)
+- **Title IX / Office of Equal Opportunity:** [oeqd.ucsb.edu](https://oeqd.ucsb.edu/)
 
-### Andi Jorgensen, Academic Business Officer
+## Key Administrative Contacts
 
-Contact Andi for facilities, maintenance, building access, keys, offices, desks, and EEMB-administered reimbursements and travel.
+- **Molly Brzezinski, Lab Manager** — day-to-day lab operations, equipment, sample processing, inventory, supply orders. Email: mollybrzezinski@ucsb.edu
+- **Mengshu Ye, Staff Graduate Advisor (EEMB/IGPMS)** — fellowships, courses, enrollment, forms, petitions. Email: mengshuye@ucsb.edu
+- **Hillary Young, Faculty Graduate Advisor** — academic questions, petitions, advisor relationship concerns. Email: hillary.young@lifesci.ucsb.edu
+- **Life Sciences Computing Group (LSCG)** — technical issues, network, NAS access. Email: help@lscg.ucsb.edu or help@lifesci.ucsb.edu
 
-- Phone: (805) 893-2974
-- Email: amjorgen@ucsb.edu
-- Office: 4306 Life Sciences Building (LSB)
+## International Students
 
-### Mengshu Ye, Staff Graduate Advisor for EEMB and IGPMS
+- **Office of International Students & Scholars (OISS)** — visa questions, travel signatures, employment authorization, immigration compliance. Start travel signature requests at least 5-10 business days before international travel.
+  - Phone: (805) 893-2929
+  - Email: oiss@sa.ucsb.edu
+  - Office: Student Resource Building, Room 3130
+  - Website: [oiss.ucsb.edu](https://oiss.ucsb.edu/)
 
-Mengshu is the go-to person for any questions about the graduate program (fellowships, courses, enrollment, forms, petitions, etc.).
+## Diving and Marine Operations
 
-- Email: mengshuye@ucsb.edu
-- Office: 4314 Life Sciences Building (LSB)
+- **Eric Hessell** — Dive & Boat Safety Officer, AAUS paperwork, gear inspections, Webdiver
+- **Marine Operations** — [marineops.ucsb.edu](https://www.marineops.ucsb.edu/)
 
-### Hillary Young, Faculty Graduate Advisor
-
-Contact Hillary for academic questions, petitions, and issues relating to your studies or your relationship with your major professor.
-
-- Email: hillary.young@lifesci.ucsb.edu
-- Office: Life Sciences Building
-
-### Vince Leo, Help Desk Manager, Life Sciences Computing Group (LSCG)
-
-Contact for technical issues in the Life Sciences Buildings.
-
-- Phone: (805) 893-2405
-- Email: help@lscg.ucsb.edu
-- Office: 2304 Life Sciences
-
-### Kurt Bellefeuille, Bio Storeroom Manager
-
-Handles Gateway package deliveries. He will email you when your order arrives for pickup.
-
-- Phone: (805) 893-3234
-- Email: bellefeu@lifesci.ucsb.edu
-- Office: Bldg 569, Rm 1101
-
-### Todd Oakley, EEMB Department Chair
-
-- Phone: (805) 893-4715
-- Email: oakley@ucsb.edu
-- Office: 4101 Life Sciences Building (LSB)
-
-*EEMB Fax:* (805) 893-5885
-
-### Molly Brzezinski, Lab Manager
-
-Molly manages day-to-day lab operations, equipment, sample processing, and inventory. She is your first point of contact for lab logistics, supply orders, equipment issues, and coordinating shared resources.
-
-- Email: mollybrzezinski@ucsb.edu
-
-## SCUBA and Research Assistance
-
-### Eric Hessell, Dive & Boat Safety Officer
-
-Eric can help you through AAUS paperwork to get started as a scientific diver at UCSB. If you are not certified, he can point you to available courses.
-
-- Phone: (805) 893-4559
-- Email: eric.hessell@ehs.ucsb.edu
-- Office: EH&S building, Bldg 565, Rm 1021
-
-### Christoph Pierre / Christian Orsini
-
-Offices at the Point next to The Reef. They can help you become a boat captain, troubleshoot aquarium issues, and identify local organism hotspots. We share resources and adjacent spaces with them. Please be respectful of their time. Maintaining a good relationship with them makes lab life much easier.
-
-- Phone: (805) 893-2873
-- Email: pierre@lifesci.ucsb.edu / christian.orsini@lifesci.ucsb.edu
-- Office: Next to middle boatyard at Campus Point
-
-### Clint Nelson
-
-Associate Specialist with the Santa Barbara Coastal Long-Term Ecological Research program (SBC-LTER), Unit Dive & Boat Safety Officer, and Launchmaster of the Small Boat Committee. An expert in nearly every type of marine operation. Great for feasibility consultations, gear recommendations, and site selection.
-
-- Phone: (805) 893-7295
-- Email: c_nelson@lifesci.ucsb.edu
-
-## Mechanical Assistance
-
-### Michael (Mickey) O'Connell, Marine Mechanician
-
-Can lend tools and advise on fabricating or maintaining research equipment. He is generous with his time and expertise. Introduce yourself early.
-
-- Phone: (805) 893-7181
-- Email: michael.oconnell@lifesci.ucsb.edu
-- Office: 1007 Marine Biotech
-
-### Bioshop Personnel
-
-The Bioshop offers mechanical assistance as well.
-
-### Doug Hatt, UCSB Garage
-
-Contact for lab truck maintenance and repairs. See the Vehicles section for details.
-
-- Phone: (805) 893-3692
-
-## Travel and Finance Administration
-
-### Kim Taylor, MSI Travel Unit Analyst
-
-Contact Kim for travel advances and reimbursements on MSI-administered grants.
-
-- Phone: (805) 893-8078
-- Email: travel@msi.ucsb.edu
-
-### Melia Cutcher, MSI Chief Accounting Officer
-
-For MSI-administered grant reimbursements through Concur, add Melia as an expense delegate. Contact her for MSI financial questions.
-
-- Email: mcutcher@msi.ucsb.edu
-
-## Other Campus Resources
-
-### Ryan Sims, Graduate Division Academic Counselor
-
-Available for academic progress and related well-being discussions. See the Mental Health Resources section.
-
-- Phone: (805) 893-2068
-- Email: ryan.sims@graddiv.ucsb.edu
-
-### Kristen Labonte, UCSB Library Liaison for EEMB
-
-Can help with literature searches, interlibrary loans, data management plans, and library resources. Find her contact info on the UCSB Library website.
-
-### Office of International Students & Scholars (OISS)
-
-International students should contact OISS for visa questions, travel signatures, employment authorization, and immigration compliance. Start travel signature requests at least 5-10 business days before international travel.
-
-- Phone: (805) 893-2929
-- Email: oiss@sa.ucsb.edu
-- Office: Student Resource Building, Room 3130
-- Website: [oiss.ucsb.edu](https://oiss.ucsb.edu/)
-
-## Lab Contacts and Emergency Contact Info
-
-Lab contact and emergency contact information are available in the shared Google Sheet (see Molly Brzezinski, lab manager, for the link).
+For all other contacts (department chair, building manager, finance officers, MSI travel, storeroom, mechanics, library liaison, Graduate Division counselor), see the shared contact sheet.
 
 
 ---
@@ -479,9 +374,9 @@ Get your ID at the information desk at the University Center. Check with EEMB ab
 
 ---
 
-# Technology
+# Technology and Digital Tools
 
-This section covers shared computing resources, network access, and tools you will use daily. If you run into technical issues, contact the Life Sciences Computing Group (LSCG) first. See the Valuable Contacts section for details.
+This section covers shared computing resources, network access, digital collaboration tools, and platforms you will use daily. If you run into technical issues, contact the Life Sciences Computing Group (LSCG) first. See the Valuable Contacts section for details.
 
 ## Lab Computer
 
@@ -541,11 +436,6 @@ The printer is on the 2nd floor of Noble next to my office. You must be connecte
 ## VPN Connection
 
 For off-campus access to UCSB resources, set up the Ivanti Secure Access VPN. This requires Duo multi-factor authentication enrollment. Find setup instructions at [UCSB IT](https://it.ucsb.edu/network-infrastructure-services/ivanti-connect-secure-campus-vpn).
-
-
----
-
-# Stier Lab Digital Tools
 
 ## Google Group / Calendars
 
@@ -831,7 +721,7 @@ Most undergraduates join as volunteers, for course credit, or with stipend suppo
 
 ## If Something Is Not Working
 
-If the mentor-mentee relationship is not working — communication has broken down, expectations are unclear, or the experience is not what you hoped — talk to me. This is not a failure on anyone's part. Sometimes a better match or a different project structure makes all the difference. Sometimes a better match or a different project structure makes all the difference.
+If the mentor-mentee relationship is not working — communication has broken down, expectations are unclear, or the experience is not what you hoped — talk to me. This is not a failure on anyone's part. Sometimes a better match or a different project structure makes all the difference.
 
 Undergraduate researchers must complete the same basic safety trainings as other lab members. See the Required Trainings section for details.
 
@@ -1194,6 +1084,17 @@ I want to co-author at least one chapter of your dissertation, but it is not req
 
 > **Warning:** Never submit a paper (including conference abstracts) without explicit approval from all listed co-authors. All co-authors should have the opportunity to review the manuscript before submission. Get explicit sign-off on the final version from every author before you click "submit." This applies to conference abstracts too. They are part of the scientific record. If you are unsure whether someone's contribution warrants authorship, ask them. Ask me. Talk about it before it becomes a problem.
 
+## If Another Group Publishes Your Question
+
+Getting scooped is painful but not fatal. If another group publishes on your question:
+
+1. **Do not panic.** Your data, site, species, and approach are almost certainly different enough to contribute something new.
+2. **Meet with me within one week** to assess the overlap and discuss options.
+3. **Options include:** reframe your paper as replication or extension, emphasize what is unique about your system or approach, pivot the analysis angle, or (rarely) redirect the project.
+4. **I commit to helping you publish regardless.** We do not abandon projects because of overlap. A well-executed study on an important question has value even if someone else asked it first.
+
+The worst response to a scoop is silence and paralysis. The best response is a quick conversation and a revised plan.
+
 ## After Departure
 
 If you leave the lab with unfinished projects, a separate set of expectations governs how those projects get completed, including timelines, milestone checkpoints, and what happens to authorship if progress stalls. This applies to all roles — graduate students, postdocs, undergraduates, technicians, and external collaborators. See the Completing Projects After Departure section for the full details.
@@ -1244,7 +1145,7 @@ After returning from fieldwork (especially Mo'orea), prioritize data organizatio
 - [ ] **Inventory unprocessed samples.** Create a list of all samples, images, and specimens that still need processing. Include storage location, priority, and estimated processing time.
 - [ ] **QA/QC your data.** Review datasets for obvious errors: impossible values, missing entries, duplicate records, and inconsistencies between field sheets and digital entries. Flag suspicious values and verify against original field sheets while the field context is fresh.
 - [ ] **Log collection totals.** For Mo'orea: record species collected, quantities, and sites in the shared collection tracking sheet. This is required for the annual bilan des prelevements report to DIREN.
-- [ ] **File organization.** Follow the lab naming conventions: include project name, date, and descriptive content in filenames. Use the established Google Drive folder structure (see the Stier Lab Digital Tools section).
+- [ ] **File organization.** Follow the lab naming conventions: include project name, date, and descriptive content in filenames. Use the established Google Drive folder structure (see the Technology and Digital Tools section).
 
 ### What Belongs Where
 
@@ -1281,7 +1182,15 @@ For work funded by external grants, data archiving requirements from the funding
 
 ## Research Data Ownership
 
-Under the UC Research Data Policy (effective July 2022), the University owns research data generated during university research. Students must collect, manage, and share research data in accordance with their discipline's standards, UC/UCSB policies, and applicable legal requirements. Data from grant-funded research must be FAIR (Findable, Accessible, Interoperable, Reusable). This does not change the lab's practical policies above. It means your data practices must meet both lab and university standards.
+Under the [UC Research Data Policy](https://www.ucop.edu/research-policy-analysis-coordination/policies-guidance/research-data/research-data-policy-faqs.html) (effective July 2022), the University of California — not individual researchers — owns research data generated during university research. The PI serves as data steward on behalf of the university and funder, not as personal owner.
+
+What this means in practice:
+
+- **Your right to use your data:** Lab members retain the right to use data from their own projects for dissertations, publications, and career development. The PI's stewardship role is to ensure data integrity, proper attribution, and compliance with funding requirements — not to restrict reasonable academic use.
+- **Taking data when you leave:** You may take copies of data you generated. Email the PI describing your planned use. Absent a response within 30 days, approval is assumed. For grant-funded data, a [Data Transfer and Use Agreement](https://tia.ucsb.edu/forms-policies/) through UCSB TIA may be required.
+- **Grant-funded data:** Data archiving requirements from the funding agency (e.g., NSF, NOAA) apply and can mandate public availability on a specific timeline.
+
+This does not change the lab's practical data management policies above. It means your data practices must meet both lab and university standards.
 
 For the lab's AI use policy, see the separate AI Use Policy section.
 
@@ -1417,15 +1326,29 @@ A few things that go a long way:
 
 A lab where some people feel overlooked or overburdened does worse science. I take equity and lab climate seriously because the alternative — assuming things are fine without checking — is how imbalances persist. Here is what we actually do about it.
 
-## What We Do
+## Annual Task and Opportunity Audit
 
-- **Annual task and opportunity audit:** I regularly review task distribution, authorship opportunities, conference invitations, and mentoring loads across the lab to check for patterns of inequity. If imbalances are found, they are discussed openly and corrected.
+I conduct an annual review of task distribution, authorship opportunities, conference invitations, and mentoring loads across the lab. The audit examines:
 
-- **Annual anonymous climate survey:** Each year, the lab conducts an anonymous survey to gauge lab climate, workload clarity, sense of belonging, and whether all lab members feel supported. Results are shared with the lab (in aggregate) and used to guide concrete changes.
+- **Speaking time** in lab meetings and group discussions (tracked periodically by a rotating lab member)
+- **First-author rates** by gender and career stage
+- **Conference funding** distribution
+- **Service and mentoring loads** — who is mentoring undergrads, maintaining equipment, and organizing events
+- **Committee service** requests accepted and declined
+- **Letter of recommendation** requests and outcomes
 
-- **Equitable speaking time:** In lab meetings and group discussions, we actively work to give everyone space to contribute. If you notice that certain voices consistently dominate or are overlooked, say something. Raise it with the person, with me, or in the anonymous survey.
+**What happens when problems are found:** I review the results with an external advisor (the Faculty Graduate Advisor, a departmental DEI committee member, or the UCSB Title IX office as appropriate). We identify specific corrective actions — for example, redistributing mentoring loads, adjusting conference funding, or changing how lab meeting facilitation rotates — and implement them within one quarter. Results and actions are shared with the lab in aggregate at the next lab meeting.
 
-- **Inclusive mentoring:** Graduate students mentoring undergraduates should be mindful of the added barriers that first-generation, low-income, and underrepresented students face. The lab is committed to providing equitable access to research opportunities regardless of a student's ability to volunteer unpaid time.
+## Annual Anonymous Climate Survey
+
+Each year, the lab conducts an anonymous survey covering workload clarity, sense of belonging, mentoring quality, and whether all lab members feel supported. Results are shared with the lab in aggregate and used to guide concrete changes. If the survey reveals a problem, I commit to presenting an action plan within 4 weeks.
+
+## Concrete Commitments
+
+- **Structured turn-taking** in lab meetings: rotating facilitation, explicit invitations to speak for quieter members, and periodic self-checks on who is dominating discussion.
+- **Blind review** of internal award nominations and conference funding requests where feasible — names removed before ranking.
+- **Explicit invitation to negotiate.** Do not assume people will self-advocate for resources, opportunities, or schedule accommodations. When opportunities arise (conference travel, authorship, equipment access), offer them directly rather than waiting for requests.
+- **Inclusive mentoring.** Graduate students mentoring undergraduates should be mindful of the added barriers that first-generation, low-income, and underrepresented students face. The lab is committed to providing equitable access to research opportunities regardless of a student's ability to volunteer unpaid time.
 
 ## Raising Concerns
 
@@ -1436,7 +1359,7 @@ If you notice inequitable patterns in task assignments, speaking time, credit fo
 - Through the Graduate Advisor (Mengshu Ye) or Faculty Graduate Advisor (Hillary Young)
 - Through UCSB's Office of Equal Opportunity & Discrimination Prevention
 
-You should never feel that raising an equity concern will affect your standing in the lab. See the Safety section for formal reporting channels and confidential resources.
+You should never feel that raising an equity concern will affect your standing in the lab. See the Conflict Resolution section for formal reporting channels and the Safety section for confidential resources.
 
 
 ---
@@ -1453,7 +1376,7 @@ EEMB does not have a department-level AI policy. This lab policy fills that gap.
 
 ## Lab Policy on AI Tools
 
-The Stier Lab embraces AI tools as part of our research workflow. Used well, they accelerate literature discovery, improve code quality, and help with brainstorming and writing. Used carelessly, they introduce errors, fabricate citations, and undermine scientific integrity.
+The Stier Lab uses AI tools extensively — the PI included. The same rules apply to everyone in the lab, regardless of role. Used well, AI accelerates literature discovery, improves code quality, and helps with brainstorming and writing. Used carelessly, it introduces errors, fabricates citations, and undermines scientific integrity.
 
 ### Tools We Use
 
@@ -1668,15 +1591,19 @@ If a disagreement arises about authorship, timelines, or reassignment:
 
 See the Conflict Resolution section for the lab's broader approach to disagreements. The [ESA Professional Ethics Committee](https://esa.org/about/governance/standing-committees/professional-ethics-committee/) can also provide guidance on discipline-specific norms.
 
-## Retroactivity
+## Retroactivity and Effective Date
 
-This section applies to all lab members as of the date it was added to the handbook. For projects already in progress where the contributing member has departed:
+This section applies to projects initiated after March 2026, when this policy was added to the handbook. Lab members who joined before this date are not retroactively bound by timelines they never agreed to.
 
-- **Within 6 months of departure:** I will contact you to establish an Exit Plan retroactively, using these timelines starting from the date of contact (not the original departure date).
+For **current lab members** at the time of adoption: this policy applies to new projects going forward. For ongoing projects, we will discuss at your next IDP review whether to opt in. Opting in is encouraged but voluntary.
+
+For **projects already in progress where the contributing member has departed before this policy existed:**
+
+- **Within 6 months of departure:** I will contact you to establish an Exit Plan by mutual agreement, using these timelines starting from the date of contact (not the original departure date). You are free to propose alternative timelines.
 - **More than 6 months post-departure with no progress:** I will contact you, offer a 3-month window to submit a complete draft, and proceed with reassignment if no draft is received. You retain co-authorship per the guidelines above.
 - **More than 12 months post-departure with no progress:** I may proceed with completing and submitting the work. You are credited with co-authorship commensurate with your contribution and notified before submission.
 
-In all retroactive cases, I will make good-faith efforts to reach you through your last known email, institutional email, and professional networking profiles. A minimum of 3 contact attempts over 6 weeks is required before any unilateral action.
+In all cases, I will make good-faith efforts to reach you through your last known email, institutional email, and professional networking profiles. A minimum of 3 contact attempts over 6 weeks is required before any unilateral action.
 
 ## Setting Projects Up to Finish
 
@@ -1698,7 +1625,7 @@ The best version of this section is one that rarely gets invoked. To that end:
 
 This section operates within University of California and UCSB institutional policies. A few key frameworks to be aware of:
 
-- **Data ownership.** Under the [UC Research Data Policy](https://www.ucop.edu/research-policy-analysis-coordination/policies-guidance/research-data/research-data-policy-faqs.html) (effective July 2022), research data generated during university research are owned by the UC Regents, not by individual researchers. I serve as primary steward. If you want to take copies of data when you leave, you need my approval and may need a [Data Transfer and Use Agreement](https://tia.ucsb.edu/forms-policies/) through UCSB TIA.
+- **Data ownership.** Under the [UC Research Data Policy](https://www.ucop.edu/research-policy-analysis-coordination/policies-guidance/research-data/research-data-policy-faqs.html) (effective July 2022), research data generated during university research are owned by the UC Regents, not by individual researchers. The PI serves as data steward on behalf of the university. Lab members retain the right to use data from their own projects for dissertations, publications, and career development. If you want to take copies of data when you leave, email the PI with your planned use (approval assumed within 30 days). A [Data Transfer and Use Agreement](https://tia.ucsb.edu/forms-policies/) through UCSB TIA may be needed for grant-funded data.
 - **Coauthorship and theses.** The [UCSB Graduate Division](https://www.graddiv.ucsb.edu/our-services/academic-services/filing/filing-your-thesis-dissertation-or-dma-supporting-document-0) permits theses to include co-authored chapters, provided the committee certifies the student's individual contributions are sufficient.
 - **Mentoring responsibilities.** The [UCSB Mentoring Guidelines](https://www.graddiv.ucsb.edu/responsibilities-mentors-student) establish reciprocal expectations: I must provide timely feedback and clearly communicate expectations; you must inform me immediately if you are unable to complete a project.
 - **Research ethics.** UCSB's [RCR training](https://www.research.ucsb.edu/research-integrity/rcr) covers authorship, data management, and research misconduct. All lab members are expected to complete RCR training (see the Required Trainings section).
@@ -1966,6 +1893,18 @@ Before you leave, schedule a final meeting with me to discuss:
 
 This conversation is valuable in both directions. Honest feedback from departing lab members has shaped many of the policies in this manual.
 
+## If the PI Leaves UCSB
+
+If I take a position at another institution, here is what happens:
+
+1. **You will have at least 6 months' notice.** I will not spring a move on you. Faculty transitions take time, and you will know well before anything is final.
+2. **Graduate students choose.** You will be given the choice to transfer with the lab or remain at UCSB. If you stay, I will work with the department to ensure a transition plan: a new advisor or co-advisor, continued funding through current grants for their remaining terms, and committee continuity.
+3. **Ongoing grants are honored.** Funding committed to your support continues through its term regardless of where I am based. If a grant moves with me, your funding moves with it (or equivalent support is arranged at UCSB).
+4. **Data and samples remain accessible.** All lab members who contributed to datasets or sample collections retain access, regardless of where I or the data physically end up.
+5. **Postdocs and staff** will receive comparable notice and transition support, including help with job searches if their positions cannot transfer.
+
+This is not a scenario I am planning for, but it happens in academia. Having a policy before it matters is better than scrambling after.
+
 ## Staying Connected
 
 Former lab members are always welcome at lab meetings, lab events, and Mo'orea field seasons if logistics allow. Many continue to collaborate, co-author papers, and support current students long after they move on.
@@ -2038,6 +1977,18 @@ We are based at the UC Berkeley Richard B. Gump South Pacific Research Station, 
 ## Timing and Duration
 
 A typical field season runs about 3 months during the summer, often starting in May. Not every student goes every year. Timing depends on your research stage and project needs. Discuss field season plans with me well before the start of the calendar year so that travel, permits, and funding can be arranged.
+
+## Workload and Appointment During Field Seasons
+
+Field seasons in Mo'orea require full-time effort — long days in the water, sample processing, data entry, and equipment maintenance. This reality needs to be squared with your appointment percentage.
+
+If your appointment is 50% GSR (20 hours/week), we will address the gap in one of the following ways before the field season begins:
+
+- **Increase your appointment** to 100% GSR for the duration of the field period.
+- **Formally designate field time as dissertation research,** not GSR duties, so that your GSR hours remain within your appointment.
+- **Provide compensatory time** after the field season — reduced lab obligations for a defined period.
+
+We will not ask you to work full-time hours on a half-time appointment without addressing the mismatch. Discuss this with me during field season planning so we can document the arrangement in advance. If your workload during fieldwork exceeds what you believe is appropriate for your appointment, raise it — with me, with the Graduate Advisor, or through your union (UAW 4811 Article 2 covers GSR workload limits).
 
 ## Travel and Funding
 

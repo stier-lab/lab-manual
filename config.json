@@ -20,8 +20,7 @@
         { "file": "06-valuable-contacts.md", "id": "contacts", "title": "Valuable Contacts", "num": "06" },
         { "file": "07-required-trainings.md", "id": "trainings", "title": "Required Trainings", "num": "07" },
         { "file": "08-facilities.md", "id": "facilities", "title": "Facilities", "num": "08" },
-        { "file": "09-technology.md", "id": "technology", "title": "Technology", "num": "09" },
-        { "file": "10-digital-tools.md", "id": "digital-tools", "title": "Digital Tools", "num": "10" }
+        { "file": "09-technology.md", "id": "technology", "title": "Technology & Digital Tools", "num": "09" }
       ]
     },
     {

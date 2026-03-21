@@ -16,6 +16,18 @@ We are based at the UC Berkeley Richard B. Gump South Pacific Research Station, 
 
 A typical field season runs about 3 months during the summer, often starting in May. Not every student goes every year. Timing depends on your research stage and project needs. Discuss field season plans with me well before the start of the calendar year so that travel, permits, and funding can be arranged.
 
+## Workload and Appointment During Field Seasons
+
+Field seasons in Mo'orea require full-time effort — long days in the water, sample processing, data entry, and equipment maintenance. This reality needs to be squared with your appointment percentage.
+
+If your appointment is 50% GSR (20 hours/week), we will address the gap in one of the following ways before the field season begins:
+
+- **Increase your appointment** to 100% GSR for the duration of the field period.
+- **Formally designate field time as dissertation research,** not GSR duties, so that your GSR hours remain within your appointment.
+- **Provide compensatory time** after the field season — reduced lab obligations for a defined period.
+
+We will not ask you to work full-time hours on a half-time appointment without addressing the mismatch. Discuss this with me during field season planning so we can document the arrangement in advance. If your workload during fieldwork exceeds what you believe is appropriate for your appointment, raise it — with me, with the Graduate Advisor, or through your union (UAW 4811 Article 2 covers GSR workload limits).
+
 ## Travel and Funding
 
 Mo'orea trips are typically funded through my grants. Book all travel through Connexxus (UCSB's travel booking portal). For international travel, you must also register at [UC Away](https://www.ucop.edu/risk-services-travel/registering.html) for UC travel insurance coverage.

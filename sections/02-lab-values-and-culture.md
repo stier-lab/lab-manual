@@ -50,3 +50,13 @@ If you would prefer not to appear in lab photos or on the lab website, let me or
 ## Roles and Awareness
 
 You will play multiple roles in this lab: student, teacher, mentor to undergrads, peer. Be aware of how your behavior carries different weight in different contexts, especially when there is a power differential. The way you give feedback to an undergraduate mentee is not the same as how you push back on a fellow grad student's interpretation. Both differ from how you raise a concern with me.
+
+## Lab Citizenship
+
+Labs run on invisible work: mentoring undergraduates, maintaining shared equipment, organizing lab meetings, updating protocols, restocking supplies, training new members. This work is real, it takes time, and it matters.
+
+**Recognition.** I track lab citizenship contributions and acknowledge them in recommendation letters, annual reviews, and IDP conversations. If you are mentoring an undergraduate through a thesis, that is a professional development activity — not uncompensated labor.
+
+**Limits.** If service commitments are consuming more than roughly 5 hours per week and affecting your research progress, flag it. We will redistribute the load or reduce your share. No one should sacrifice their own research trajectory to keep the lab running.
+
+**Equity.** Service tasks tend to fall unevenly — often on women and underrepresented lab members. I monitor this through the annual task audit (see the Gender Equity and Lab Climate section) and will intervene if patterns emerge.

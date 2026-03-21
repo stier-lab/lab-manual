@@ -169,15 +169,19 @@ If a disagreement arises about authorship, timelines, or reassignment:
 
 See the Conflict Resolution section for the lab's broader approach to disagreements. The [ESA Professional Ethics Committee](https://esa.org/about/governance/standing-committees/professional-ethics-committee/) can also provide guidance on discipline-specific norms.
 
-## Retroactivity
+## Retroactivity and Effective Date
 
-This section applies to all lab members as of the date it was added to the handbook. For projects already in progress where the contributing member has departed:
+This section applies to projects initiated after March 2026, when this policy was added to the handbook. Lab members who joined before this date are not retroactively bound by timelines they never agreed to.
 
-- **Within 6 months of departure:** I will contact you to establish an Exit Plan retroactively, using these timelines starting from the date of contact (not the original departure date).
+For **current lab members** at the time of adoption: this policy applies to new projects going forward. For ongoing projects, we will discuss at your next IDP review whether to opt in. Opting in is encouraged but voluntary.
+
+For **projects already in progress where the contributing member has departed before this policy existed:**
+
+- **Within 6 months of departure:** I will contact you to establish an Exit Plan by mutual agreement, using these timelines starting from the date of contact (not the original departure date). You are free to propose alternative timelines.
 - **More than 6 months post-departure with no progress:** I will contact you, offer a 3-month window to submit a complete draft, and proceed with reassignment if no draft is received. You retain co-authorship per the guidelines above.
 - **More than 12 months post-departure with no progress:** I may proceed with completing and submitting the work. You are credited with co-authorship commensurate with your contribution and notified before submission.
 
-In all retroactive cases, I will make good-faith efforts to reach you through your last known email, institutional email, and professional networking profiles. A minimum of 3 contact attempts over 6 weeks is required before any unilateral action.
+In all cases, I will make good-faith efforts to reach you through your last known email, institutional email, and professional networking profiles. A minimum of 3 contact attempts over 6 weeks is required before any unilateral action.
 
 ## Setting Projects Up to Finish
 
@@ -199,7 +203,7 @@ The best version of this section is one that rarely gets invoked. To that end:
 
 This section operates within University of California and UCSB institutional policies. A few key frameworks to be aware of:
 
-- **Data ownership.** Under the [UC Research Data Policy](https://www.ucop.edu/research-policy-analysis-coordination/policies-guidance/research-data/research-data-policy-faqs.html) (effective July 2022), research data generated during university research are owned by the UC Regents, not by individual researchers. I serve as primary steward. If you want to take copies of data when you leave, you need my approval and may need a [Data Transfer and Use Agreement](https://tia.ucsb.edu/forms-policies/) through UCSB TIA.
+- **Data ownership.** Under the [UC Research Data Policy](https://www.ucop.edu/research-policy-analysis-coordination/policies-guidance/research-data/research-data-policy-faqs.html) (effective July 2022), research data generated during university research are owned by the UC Regents, not by individual researchers. The PI serves as data steward on behalf of the university. Lab members retain the right to use data from their own projects for dissertations, publications, and career development. If you want to take copies of data when you leave, email the PI with your planned use (approval assumed within 30 days). A [Data Transfer and Use Agreement](https://tia.ucsb.edu/forms-policies/) through UCSB TIA may be needed for grant-funded data.
 - **Coauthorship and theses.** The [UCSB Graduate Division](https://www.graddiv.ucsb.edu/our-services/academic-services/filing/filing-your-thesis-dissertation-or-dma-supporting-document-0) permits theses to include co-authored chapters, provided the committee certifies the student's individual contributions are sufficient.
 - **Mentoring responsibilities.** The [UCSB Mentoring Guidelines](https://www.graddiv.ucsb.edu/responsibilities-mentors-student) establish reciprocal expectations: I must provide timely feedback and clearly communicate expectations; you must inform me immediately if you are unable to complete a project.
 - **Research ethics.** UCSB's [RCR training](https://www.research.ucsb.edu/research-integrity/rcr) covers authorship, data management, and research misconduct. All lab members are expected to complete RCR training (see the Required Trainings section).

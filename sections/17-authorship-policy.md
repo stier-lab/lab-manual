@@ -42,6 +42,17 @@ I want to co-author at least one chapter of your dissertation, but it is not req
 
 > **Warning:** Never submit a paper (including conference abstracts) without explicit approval from all listed co-authors. All co-authors should have the opportunity to review the manuscript before submission. Get explicit sign-off on the final version from every author before you click "submit." This applies to conference abstracts too. They are part of the scientific record. If you are unsure whether someone's contribution warrants authorship, ask them. Ask me. Talk about it before it becomes a problem.
 
+## If Another Group Publishes Your Question
+
+Getting scooped is painful but not fatal. If another group publishes on your question:
+
+1. **Do not panic.** Your data, site, species, and approach are almost certainly different enough to contribute something new.
+2. **Meet with me within one week** to assess the overlap and discuss options.
+3. **Options include:** reframe your paper as replication or extension, emphasize what is unique about your system or approach, pivot the analysis angle, or (rarely) redirect the project.
+4. **I commit to helping you publish regardless.** We do not abandon projects because of overlap. A well-executed study on an important question has value even if someone else asked it first.
+
+The worst response to a scoop is silence and paralysis. The best response is a quick conversation and a revised plan.
+
 ## After Departure
 
 If you leave the lab with unfinished projects, a separate set of expectations governs how those projects get completed, including timelines, milestone checkpoints, and what happens to authorship if progress stalls. This applies to all roles — graduate students, postdocs, undergraduates, technicians, and external collaborators. See the Completing Projects After Departure section for the full details.

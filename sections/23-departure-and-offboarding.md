@@ -38,6 +38,18 @@ Before you leave, schedule a final meeting with me to discuss:
 
 This conversation is valuable in both directions. Honest feedback from departing lab members has shaped many of the policies in this manual.
 
+## If the PI Leaves UCSB
+
+If I take a position at another institution, here is what happens:
+
+1. **You will have at least 6 months' notice.** I will not spring a move on you. Faculty transitions take time, and you will know well before anything is final.
+2. **Graduate students choose.** You will be given the choice to transfer with the lab or remain at UCSB. If you stay, I will work with the department to ensure a transition plan: a new advisor or co-advisor, continued funding through current grants for their remaining terms, and committee continuity.
+3. **Ongoing grants are honored.** Funding committed to your support continues through its term regardless of where I am based. If a grant moves with me, your funding moves with it (or equivalent support is arranged at UCSB).
+4. **Data and samples remain accessible.** All lab members who contributed to datasets or sample collections retain access, regardless of where I or the data physically end up.
+5. **Postdocs and staff** will receive comparable notice and transition support, including help with job searches if their positions cannot transfer.
+
+This is not a scenario I am planning for, but it happens in academia. Having a policy before it matters is better than scrambling after.
+
 ## Staying Connected
 
 Former lab members are always welcome at lab meetings, lab events, and Mo'orea field seasons if logistics allow. Many continue to collaborate, co-author papers, and support current students long after they move on.

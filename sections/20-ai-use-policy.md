@@ -10,7 +10,7 @@ EEMB does not have a department-level AI policy. This lab policy fills that gap.
 
 ## Lab Policy on AI Tools
 
-The Stier Lab embraces AI tools as part of our research workflow. Used well, they accelerate literature discovery, improve code quality, and help with brainstorming and writing. Used carelessly, they introduce errors, fabricate citations, and undermine scientific integrity.
+The Stier Lab uses AI tools extensively — the PI included. The same rules apply to everyone in the lab, regardless of role. Used well, AI accelerates literature discovery, improves code quality, and helps with brainstorming and writing. Used carelessly, it introduces errors, fabricates citations, and undermines scientific integrity.
 
 ### Tools We Use
 

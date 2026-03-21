@@ -41,7 +41,7 @@ After returning from fieldwork (especially Mo'orea), prioritize data organizatio
 - [ ] **Inventory unprocessed samples.** Create a list of all samples, images, and specimens that still need processing. Include storage location, priority, and estimated processing time.
 - [ ] **QA/QC your data.** Review datasets for obvious errors: impossible values, missing entries, duplicate records, and inconsistencies between field sheets and digital entries. Flag suspicious values and verify against original field sheets while the field context is fresh.
 - [ ] **Log collection totals.** For Mo'orea: record species collected, quantities, and sites in the shared collection tracking sheet. This is required for the annual bilan des prelevements report to DIREN.
-- [ ] **File organization.** Follow the lab naming conventions: include project name, date, and descriptive content in filenames. Use the established Google Drive folder structure (see the Stier Lab Digital Tools section).
+- [ ] **File organization.** Follow the lab naming conventions: include project name, date, and descriptive content in filenames. Use the established Google Drive folder structure (see the Technology and Digital Tools section).
 
 ### What Belongs Where
 
@@ -78,6 +78,14 @@ For work funded by external grants, data archiving requirements from the funding
 
 ## Research Data Ownership
 
-Under the UC Research Data Policy (effective July 2022), the University owns research data generated during university research. Students must collect, manage, and share research data in accordance with their discipline's standards, UC/UCSB policies, and applicable legal requirements. Data from grant-funded research must be FAIR (Findable, Accessible, Interoperable, Reusable). This does not change the lab's practical policies above. It means your data practices must meet both lab and university standards.
+Under the [UC Research Data Policy](https://www.ucop.edu/research-policy-analysis-coordination/policies-guidance/research-data/research-data-policy-faqs.html) (effective July 2022), the University of California — not individual researchers — owns research data generated during university research. The PI serves as data steward on behalf of the university and funder, not as personal owner.
+
+What this means in practice:
+
+- **Your right to use your data:** Lab members retain the right to use data from their own projects for dissertations, publications, and career development. The PI's stewardship role is to ensure data integrity, proper attribution, and compliance with funding requirements — not to restrict reasonable academic use.
+- **Taking data when you leave:** You may take copies of data you generated. Email the PI describing your planned use. Absent a response within 30 days, approval is assumed. For grant-funded data, a [Data Transfer and Use Agreement](https://tia.ucsb.edu/forms-policies/) through UCSB TIA may be required.
+- **Grant-funded data:** Data archiving requirements from the funding agency (e.g., NSF, NOAA) apply and can mandate public availability on a specific timeline.
+
+This does not change the lab's practical data management policies above. It means your data practices must meet both lab and university standards.
 
 For the lab's AI use policy, see the separate AI Use Policy section.
