@@ -1284,6 +1284,8 @@ This prevents the same protocol from drifting into five slightly different versi
 
 **Track project status.** For large research programs, maintain a simple tracking sheet (Google Sheet or similar) with one row per project: current status, lead person, next milestone, and target date. Review it quarterly during IDP meetings.
 
+**This structure works for dissertations too.** A dissertation is a multi-project research program. If you set up your Drive folder this way from the start — numbered projects mapping to chapters, lettered manuscripts tracking your publication pipeline, shared methods, and a Drive Map — you will not have to reorganize anything when it is time to write up. Your chapter folders are already your project folders. Your lettered manuscripts are already your chapters. The students who finish fastest are the ones whose dissertation was organized before they knew it was.
+
 ## Lab and Field Notebooks
 
 Document your methods as you go, not after the fact. You will forget details faster than you think. By the time you sit down to write a paper, the specifics of how you set up an experiment, calibrated an instrument, or processed a sample will be fuzzy at best.
